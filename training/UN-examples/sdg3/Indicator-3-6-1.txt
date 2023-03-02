@@ -1,0 +1,112 @@
+Indicator 3.6.1: Death rate due to road traffic injuries
+Target 3.6: By 2020, halve the number of global deaths and injuries from road traffic accidents 
+Goal 3: Ensure healthy lives and promote well-being for all at all ages
+Definition and Rationale
+Definition:
+This indicator is defined as the number of fatalities (deaths) from injuries experienced from road traffic accidents per 100,000 population. 
+Concepts: 
+Road: Line of communication (travelled way) open to public traffic, primarily for the use of road motor vehicles, using a stabilized base other than rails or air strips. Included are paved roads and other roads with a stabilized base, e.g. gravel roads. Roads also cover streets, bridges, tunnels, supporting structures, junctions, crossings and interchanges.
+Road network: All roads in a given area.
+Road vehicle: A vehicle running or drawn on wheels intended for use on roads.
+Road motor vehicle: A road vehicle fitted with an engine providing its sole means of propulsion, which is normally used for carrying persons or goods, or for drawing (on the road), vehicles used for the carriage of persons or goods.
+Road traffic: Any movement of a road vehicle on a given road network.
+Road transport: Any movements of goods and/or passengers using a road vehicle on a given road network.
+Road traffic crash: A collision or incident involving at least one road vehicle in motion, on a public road or private road to which the public has right of access. Included are: collisions between road vehicles; between road vehicles and pedestrians; between road vehicles and animals or fixed obstacles and with one road vehicle alone. Included are collisions between road and rail vehicles. Multi-vehicle collisions are counted as only one crash provided that any successive collisions happen within a very short time period.
+Injury: Physical damage that results when a human body is suddenly or briefly subjected to intolerable levels of energy. It can be a bodily lesion resulting from acute exposure to excessive energy or impairment of function resulting from lack of vital elements.
+Road traffic injury (or casualty): A person who has sustained physical damage (i.e. injury) as a result of a road traffic crash.
+Road user: a person using any part of the road system as a non-motorized or motorized transport user.
+Road traffic fatality: Any person killed immediately or dying within 30 days as a result of an injury crash, excluding suicides. For countries that do not apply the threshold of 30 days, conversion coefficients are estimated so that comparisons on the basis of the 30 day-definition can be made.
+Injury crash: Any road traffic crash resulting in at least one injured or killed person.
+Fatal crash: Any road traffic crash resulting in a person killed immediately or dying within 30 days as a result of the crash. 
+Footnote: The term “accident”, which is widely used, can give the impression, probably unintended, of inevitabil­ity and unpredictability – an event that cannot be managed. The term “crash” is used instead, to denote an event, or series of events, amenable to rational analysis and remedial action. 
+Rationale and Interpretation:
+Road traffic injuries are currently estimated to be the eighth leading cause of death across all age groups globally, far ahead of whereas HIV/AIDS which is now the 14th leading cause of death with slightly over a million deaths per year.  They are the leading cause of death for young people aged 15–29 years, and as a result take a heavy toll on those entering their most productive years.
+Road traffic injuries are increasing, notably in low- and middle-income countries, where rates are twice those in high-income countries. This is partly attributable to the rapid rate of motorization in many developing countries that has occurred without a concomitant investment in road safety strategies and land use planning. While road traffic fatality rates are decreasing in some high-income countries, the rapid increase in road traffic crashes in low- and middle income countries has driven an overall global increase in deaths and injuries. Indeed, current trends suggest that road traffic injuries will become the seventh leading cause of death by 2030, with the disparity between high- and low-income countries further accentuated.
+Every year the lives of more than 1.4 million people are cut short because of a road traffic crash. In addition to death, between 20 and 50 million more people suffer non-fatal injuries, with many incurring a disability due to their injury. 
+Road traffic injuries cause considerable economic losses to individuals, their families, and to nations. These losses arise from the cost of treatment as well as lost productivity for those killed or disabled by their injuries, and for family members who need to take time off work or school to care for the injured. Road traffic crashes cost most countries 3% of their gross domestic product.
+Data Sources and Collection Method
+The main sources of the data on fatal road traffic injuries are:
+	•	Police records
+	•	Health facility records
+	•	Death certificates / vital registration
+	•	Insurance records
+	•	Media reports 
+It is important for a country to develop and ensure that a reliable surveillance system is in place for collection, analysis and dissemination of road traffic injury data. The system should collect data on a minimum set of variables that is useful for national analysis.
+Minimum data elements
+ 
+ 
+Crash related
+Road Related
+Vehicle related
+Person related
+·   Crash identifier (unique reference number assigned to the crash, usually by police)
+·   Type of roadway
+·   Vehicle number
+·   Person ID
+·   Crash data
+·   Road functional class
+·   Vehicle type
+·   Occupant’s vehicle number
+·   Crash time
+·   Speed limit
+·   Vehicle make
+·   Pedestrian’s linked vehicle number
+·   Crash municipality/place
+·   Road obstacles
+·   Vehicle model
+·   Date of birth
+·   Crash location
+·   Road surface conditions
+·   Vehicle model year
+·   Sex
+·   Crash type
+·   Junction
+·   Engine size
+·   Type of road user
+·   Impact type
+·   Traffic control at junction
+·   Vehicle special function
+·   Seating position
+·   Weather conditions
+·   Road curve
+·   Vehicle manoeuvre (what the vehicle was doing at the time of the crash)
+·   Injury severity
+·   Light conditions
+·   Road segment grade
+ 
+·   Safety equipment
+·   Crash severity
+ 
+ 
+·   Pedestrian manoeuvre
+ 
+ 
+ 
+·   Alcohol use suspected
+ 
+ 
+ 
+·   Alcohol test
+ 
+ 
+ 
+·   Drug use
+ 
+ 
+ 
+·   Driving licence issue date
+ 
+ 
+ 
+·   Age
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The following formula is used to calculate this indicator:
+ ￼
+For cases where underlying data is incomplete or unavailable, international organizations like the WHO model this indicator’s value using various estimation methods. The method used depends on the level of coverage of death registration data and the population of the country. For further information on the methods, see page 70 of http://who.int/violence_injury_prevention/road_safety_status/2015/en/ 
+Comments and limitations:
+Results can vary based on differences in the data used for population and whether it comes from national data or the estimates produced by the UN department of population. 
+Many countries do not have vital registration data, in which cases surveys are used for estimations. Therefore, attention needs to be paid when comparing across countries. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+This indicator does not reveal much when it is an aggregate figure. It is therefore important to disaggregate it along dimensions that can be interpreted easily and used to raise awareness and advocate for action. The key dimensions for disaggregation are road users, age, sex and income groups of countries. For example, disaggregation by road users reveals how road traffic death varies by different road users in different regions such as pedestrians, cyclists, 2-or 3-wheelers, bus passengers and drivers. Disaggregating by age will show which age groups are more or less affected by road traffic deaths. Examining variation by sex indicates impact of road traffic deaths among males and females. For example, deaths among males is three times higher than among the females. Looked at along income groups of countries will reveal how low-, middle- and high-income countries are affected by road traffic death.  Ninety percent of road traffic deaths occur in low- and middle -income countries, and while these countries also account for 82% of the world’s population.

@@ -1,0 +1,42 @@
+Indicator 12.4.1: Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement
+Target 12.4: By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment
+Goal 12: Ensure sustainable consumption and production patterns
+Definition and Rationale
+Definition:
+The indicator refers to the number of parties (countries that have ratified, accepted, approved or accessed) to five Multilateral Environmental Agreements (MEAs), which have submitted relevant information to the Secretariat of each MEA, as stipulated by each of the agreements. The five MEAs are: 
+1. The Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal (Basel Convention); 2. The Rotterdam Convention on the prior informed consent procedure for certain hazardous chemicals and pesticides in international trade (Rotterdam Convention); 3. The Stockholm Convention on Persistent Organic Pollutants (Stockholm Convention); 4. The Montreal Protocol on Substances that Deplete the Ozone Layer (Montreal Protocol); and 5. Minamata Convention on Mercury (Minamata Convention), which have submitted the information to the Secretariat of each MEA, as required by each of the agreements. 
+Concepts:
+Parties refers to countries that have ratified, accepted, approved or accessed a convention. 
+Information refers to specific reporting parameters that are stipulated in the respective MEAs, and which the parties are obligated to transmit to the Secretariat of each MEAs. 
+Rationale and Interpretation:
+The indicator is process-oriented, focusing on compliance with the respective MEA obligations to report information, which contributes to the overall target of achieving the environmentally sound management of chemicals and all wastes throughout their life cycle. 
+The reporting for this indicator is to take place once every five years, starting with 2017 for the period of 2010-2014, in 2020 for the period of 2015-2019, in 2025 for the period 2020-2024, and in 2030 for the period 2025-2029. 
+The final indicator is a number expressed as percent, where 100% is the maximum degree of compliance with the reporting obligations of the MEAs to which a Country is a Party, and 0% the least degree of compliance with those obligations. 
+This indicator is for global monitoring of compliance in transmitting information only. 
+Data Sources and Collection Method
+Following are the data sources for each of the Conventions:
+	1.	Basel Convention: national focal points, electronic reporting system for annual national reports;
+	2.	Rotterdam Convention: official contact points, Prior Informed Consent (PIC) circular for import responses;
+	3.	Stockholm Convention: official contact points, electronic reporting system for national reports every four years, national implementation plans;
+	4.	Montreal Protocol: national focal points; and
+	5.	Minamata Convention: national focal points. 
+The established secretariats for each of the conventions is responsible for receiving and compiling the data from the aforementioned data sources for their respective convention. 
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The transmission rate is calculated based on Country Score (CS), which depends on the amount of information that is sent to the Conventions’ Secretariat. The country score is determined using the following points distributions for each of the conventions: 
+A. Basel Convention:  1. Designation of the Focal Point and one or more Competent Authorities (1 point); 2. Submission of the annual national reports during the reporting period (1 point per report). 3. The CS is then calculated as the total number of points for the country divided by the total points possible for that convention. 
+B. Rotterdam Convention:  1. Designation of the Designated National Authority and Official contact point (1 point); 2. Submission of the import responses during the reporting period (0,2 point per import response). 3. The CS is then calculated as the total number of points for the country divided by the total points possible for that convention. 
+C. Stockholm Convention:  1. Designation of the Stockholm Convention official contact point and national focal point (1 points); 2. Submission of the national implementation plan (1 points); 3. Submission of the revised national implementation plan(s) addressing the amendments adopted by the Conference of the Parties within the reporting period (1 point per revised and updated plan). 4. The CS is then calculated as the total number of points for the country divided by the total points possible for that convention. 
+D. Montreal Protocol:  1. Compliance with reporting requirements for production and consumption of ozone-depleting substances under the Montreal Protocol (15 points); 2. Submission of information on Licensing systems under (Article 4B of) the Montreal Protocol (5 points). 3. The CS is then calculated as the total number of points for the country divided by the total points possible for that convention. 
+E. Minamata Convention:  1. Designation of a national focal point (5 points); 2. Submission of national report (15 points). 3. The CS is then calculated as the total number of points for the country divided by the total points possible for that convention.  
+Once the CS is ascertained, the formula below is used to calculate the transmission rate for countries using scores for each of the conventions:
+ ￼ 
+Where (for example) ACS is calculated as a score for the Basel Convention for 5-year periods as:
+￼ 
+PYi is the points received in year i and AP is the total number of points available for convention A. 
+Comments and limitations:
+The five conventions have different reporting schedules. As a result, reporting to this indicator is scheduled for every 5 years. This allows for capturing of compliance information of all the Conventions. 
+The timing for submission of reporting for the Minamata Convention has not yet been agreed on. Therefore, it is not clear whether any reporting will be required prior to 2020, nor it is clear how many times reporting would be required prior to 2030. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+Data can be disaggregated by the convention type.

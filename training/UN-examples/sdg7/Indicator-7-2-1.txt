@@ -1,0 +1,36 @@
+Indicator 7.2.1: Renewable energy share in the total final energy consumption
+Target 7.2: By 2030, increase substantially the share of renewable energy in the global energy mix
+Goal 7: Ensure access to affordable, reliable, sustainable and modern energy for all
+Definition and Rationale
+Definition: 
+The renewable energy share in total final consumption is the percentage of final consumption of energy that is derived from renewable resources. 
+Concepts:
+Renewable energy consumption includes consumption of energy derived from: hydro, solid biofuels, wind, solar, liquid biofuels, biogas, geothermal, marine and waste. Total final energy consumption is calculated from national balances and statistics as total final consumption minus non-energy use.
+Comments with regard to specific renewable energy resources:
+	•	Solar energy consumption includes solar PV and solar thermal
+	•	Liquid biofuel energy consumption includes biogasoline, biodiesels and other liquid biofuels
+	•	Solid biofuel consumption includes fuelwood, animal waste, vegetable waste, black liquor, bagasse and charcoal
+	•	Waste energy covers energy from renewable municipal waste 
+Rationale and Interpretation:
+The target “By 2030, increase substantially the share of renewable energy in the global energy mix” impacts all three dimensions of sustainable development. Renewable energy technologies represent a major element in strategies for greening economies everywhere in the world and for tackling the critical global problem of climate change. A number of definitions of renewable energy exist; what they have in common is highlighting as renewable all forms of energy that their consumption does not deplete their availability in the future. These include solar, wind, ocean, hydropower, geothermal resources, and bioenergy (in the case of bioenergy, which can be depleted, sources of bioenergy can be replaced within a short to medium-term frame). Importantly, this indicator focuses on the amount of renewable energy actually consumed rather than the capacity for renewable energy production, which cannot always be fully utilized. By focusing on consumption by the end user, it avoids the distortions caused by the fact that conventional energy sources are subject to significant energy losses along the production chain.
+Data Sources and Collection Method
+Specialized industry surveys (e.g. on bioenergy use) or household surveys (in combination with the measurement of other indicators) would be feasible approaches to data collection (e.g. for use of firewood, off-grid solar energy). 
+Data on renewable energy consumption are also available through national Energy Balances produced by the International Energy Agency and the United Nations Statistics Division (UNSD) for more than 180 countries. The energy balances make it possible to trace all the different sources and uses of energy at the national level.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The percentage of renewable energy in the total final energy consumption (PRE) is calculated as follows: 
+￼
+where,
+ECRE is the energy consumption from all renewable sources (megajoules); and
+ECTotal is the total final energy consumption (megajoules). 
+This indicator is based on the development of comprehensive energy statistics across supply and demand for all energy sources – statistics used to produce a national energy balance.  Once a national energy balance is developed, the indicator can be calculated by dividing consumption of energy from all renewable sources by total final energy consumption.  Renewable energy consumption is derived from three tables of the IEA world energy statistics and balances: total final consumption, electricity output and heat output. 
+Comments and limitations:
+A limitation with existing renewable energy statistics is that they are not able to distinguish whether renewable energy is being sustainably produced. For example, a substantial share of today’s renewable energy consumption comes from the use of wood and charcoal by households in the developing world, which sometimes may be associated with unsustainable forestry practices. There are efforts underway to improve the ability to measure the sustainability of bio-energy, although this remains a significant challenge. 
+Off-grid renewables data is limited and not sufficiently captured in the energy statistics 
+The method of allocation of renewable energy consumption from electricity and heat output assumes that the share of transmission and distribution losses are the same between all technologies. However, this is not always true because renewables are usually located in more remote areas from consumption centers and may incur larger losses. 
+Likewise, imports and exports of electricity and heat are assumed to follow the share of renewability of electricity and heat generation, respectively. This is a simplification that in many cases will not affect the indicator too much, but that might do so in some cases, for example, when a country only generates electricity from fossil fuels but imports a great share of the electricity it uses from a neighboring country’s hydroelectric power plant. 
+Methodological challenges associated with defining and measuring renewable energy are more fully described the Global Tracking Framework (IEA and World Bank, 2013) Chapter 4, Section 1, page 194-200. Data for traditional use of solid biofuels are generally scares globally, and developing capacity in tracking such energy use, including developing national level surveys, is essential for sound global energy tracking. 
+Imports and exports of electricity from neighbouring countries may also have minor implications to the calculation of this indicator. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+disaggregation of data on consumption of renewable energy by resource and end-use sector could provide insights into other dimensions of the goal, such as affordability and reliability. For solar energy, it may also be useful to disaggregate between grid and off-grid capacity. 

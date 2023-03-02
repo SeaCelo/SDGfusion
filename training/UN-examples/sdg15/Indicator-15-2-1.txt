@@ -1,0 +1,65 @@
+Indicator 15.2.1: Progress towards sustainable forest management
+Target 15.2: By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally
+Goal 15: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
+Definition and Rationale
+Definition:
+This indicator measures progress towards sustainable forest management (SFM) The indicator comprises five sub-indicators: 
+(1)    Forest area net change rate;
+(2)    Above-ground biomass stock in forest;
+(3)    Proportion of forest area located within legally established protected areas;
+(4)    Proportion of forest area under a long-term forest management plan; and
+(5)    Forest area under an independently verified forest management certification scheme. 
+Concepts:
+Sustainable forest management is defined as a “[a] dynamic and evolving concept [that] aims to maintain and enhance the economic, social and environmental values of all types of forests, for the benefit of present and future generations” (Resolution A/RES/62/98). 
+Forest is defined as land spanning more than 0.5 hectares with trees higher than 5 meters and a canopy cover of more than 10 percent, or trees able to reach these thresholds in situ. It does not include land that is predominantly under agricultural or urban land use. Additional detailed criteria are listed in FAO’s Global Forest Resources Assessment (FRA) 2020 Terms and Definitions Document available at  http://www.fao.org/3/I8661EN/i8661en.pdf. 
+Above-ground biomass is defined as all living biomass above the soil, including stem, stump, branches, bark, seeds and foliage. In cases where forest understorey is a relatively small component of the aboveground biomass carbon pool, it is acceptable to exclude it, provided this is done in a consistent manner throughout the inventory time series. 
+Protected Areas, are areas especially dedicated to the protection and maintenance of biological diversity, and of natural and associated cultural resources, and managed through legal or other effective means.  
+Forest area within protected areas refers to forest area within formally established protected areas independently of the purpose for which the protected areas were established and includes International Union for Conservation of Nature (IUCN) categories I-IV:
+- Category Ia: Strict nature reserve
+- Category Ib: Wilderness area
+- Category II: National park
+- Category III: Natural monument or feature
+- Category IV: Habitat/species management area. 
+Forest area with management plan refers to forest areas that have a long-term documented management plan, aiming at defined management goals, which is periodically revised. It may refer to forest management unit level or aggregated forest management unit level (forest blocks, farms, enterprises, watersheds, municipalities, or wider units). It also includes forest areas that are within protected areas with management plan. 
+A management plan must include adequate detail on operations planned for individual operational units (stands or compartments) but may also provide general strategies and activities planned to reach management goals. 
+Independently verified forest management certification refers to forest area certified under a forest management certification scheme with published standards and is independently verified by a third-party. 
+Rationale and Interpretation:
+The five sub-indicators contribute to the  measurement of progress in SFM in  various ways:
+	1.	Trends in forest area are crucial for monitoring SFM. The first sub-indicator focuses on both the direction of change (whether there is a loss or gain in forest area) and how the change rate is changing over time; the latter is important in order to capture progress among countries that are losing forest area, but have managed to reduce the rate of annual forest area loss.
+	2.	Changes in the above-ground biomass stock in forest indicate the balance between gains in biomass stock due to forest growth and losses due to wood removals, natural losses, fire, wind, pests and diseases.
+	3.	The change in forest area within legally protected areas is a proxy for trends in forest biodiversity conservation and a clear indication of the political will to protect and conserve forest biodiversity.
+	4.	The fourth sub-indicator looks at the forest areas that are under a long-term forest management plan. An increasing area under forest management plan is an indicator of progress towards sustainable forest management.
+	5.	The fifth sub-indicator is the forest area that is certified by an independently verified forest management certification scheme. An increase in certified forest area provides an additional indication of progress towards sustainable forest management
+Data Sources and Collection Method
+The data for all sub indicators are collected through the officially nominated FRA National Correspondent network with one exception – data on forest certification data is produced by responsible certification bodies and delivered directly to the FRA after which it is sent to the countries for their validation.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+Sub-indicator 1: forest area annual net change rate
+This indicator is calculated using a compound interest formula to determine the annual net change rate.  
+￼ 
+Where:
+A1 is forest area for year t1 and A2 is forest area for year t2
+For example, if forest area for a country in year 2010 is 20 million hectares and year 2015 21 million hectares, the value of the annual net change rate becomes
+A2/A1 = 21Mha/20Mha = 1.05
+t2-t1 =2015-2010=5
+q=[1.051/5 -1]  = [1.004988 -1] * 100 = 0.498756 %
+Sub-indicator 2: Above-ground biomass stock in forest 
+The formula is given as follows:
+￼
+ Sub-indicator 3: Proportion of forest area located within legally established protected areas
+Percentage of forest area located within legally established protected areas is calculated as:
+￼
+Sub-indicator 4: Proportion of forest area under a long-term forest management plan. 
+Percentage of forest area under a long-term forest management plan is calculated as:
+￼
+Sub-Indicator 5: Forest area under an independently verified forest management certification scheme 
+The data for this sub-indicator are collected directly from the databases of each certification body provided to countries for validation.
+Comments and limitations:
+The five sub-indicators chosen to illustrate progress towards sustainable forest management do not fully cover all aspects of sustainable forest management. In particular, social and economic aspects are poorly reflected in the current set of sub-indicators. Furthermore, there are some data gaps, and the trends of some of the sub-indicators reflect different sets of countries. While the dashboard illustrates the progress on the individual sub-indicators, there is no weighting of the relative importance of the sub-indicators.
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+Sub-indicator 1 : - This indicator can be disaggregated by geographical regions, forest types, soil types, forest development class, dominant tree species or tree species groups, among other dimensions.
+Sub-indicator 2: - This indicator can be disaggregated by geographical regions, forest types, soil types, forest development class, tree species or tree species groups, among other dimensions.
+Sub-indicator 3: -  This indicator can be disaggregated by geographical regions, forest types, soil types, forest development class, dominant tree species or tree species groups, among other dimensions.
+Sub-indicator 4:  - This indicator can be disaggregated by geographical regions, forest types, soil types, forest development class, dominant tree species or tree species groups, among other dimensions.
+Sub-indicator 5:  - This indicator can be disaggregated by certification bodies 

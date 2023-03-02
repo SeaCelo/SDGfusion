@@ -1,0 +1,31 @@
+Indicator 8.5.2: Unemployment rate, by sex, age and persons with disabilities 
+Target 8.5: By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value
+Goal 8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all 
+Definition and Rationale
+Definition:
+This indicator is defined as the percentage of persons in the labour force who are unemployed, disaggregated by sex, age and disability status. 
+Concepts:
+Persons in unemployment are defined as all those of working age who were not in employment, carried out activities to seek employment during a specified recent period and were currently available to take up employment given a job opportunity, where:
+(a) “not in employment” is assessed with respect to the short reference period for the measurement of employment;
+(b) to “seek employment” refers to any activity when carried out, during a specified recent period comprising the last four weeks or one month, for the purpose of finding a job or setting up a business or agricultural undertaking. This includes also part-time, informal, temporary, seasonal or casual employment, within the national territory or abroad;
+(c) the point when the enterprise starts to exist should be used to distinguish between search activities aimed at setting up a business and the work activity itself, as evidenced by the enterprise’s registration to operate or by when financial resources become available, the necessary infrastructure or materials are in place or the first client or order is received, depending on the context;
+(d) “currently available” serves as a test of readiness to start a job in the present, assessed with respect to a short reference period comprising that used to measure employment. Depending on national circumstances, the reference period may be extended to include a short subsequent period not exceeding two weeks in total, so as to ensure adequate coverage of unemployment situations among different population groups.
+Employment comprises all persons of working age who during a short reference period (one week), were engaged in any activity to produce goods or provide services for pay or profit. 
+The labour force corresponds to the sum of all persons employed and all persons unemployed. 
+Rationale and Interpretation:
+The unemployment rate is a useful (although insufficient) measure of the underutilization of the labour supply. It reflects the inability of an economy to generate employment for those persons who are actively seeking work. It is an indicator of the efficiency and effectiveness of an economy to absorb its labour force, and of the performance of the labour market. 
+Short-term time series of the unemployment rate can be used to signal changes in the business cycle; upward movements in the indicator often coincide with recessionary periods or in some cases with the beginning of an expansionary period as persons previously not in the labour market begin to test conditions through an active job search.
+Data Sources and Collection Method
+The data for this indicator is collected through household-based labour force surveys, population census, and any other nationally representative household surveys with an appropriate employment module. Such surveys are generally conducted by the ministries or bureaus of labour or national statistical offices. 
+Unemployment registers, under social insurance administrative systems, can also serve as instruments to collect data on unemployment levels, and used to supplement the information obtained by household surveys. 
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The unemployment rate (U) is calculated using the following formula: 
+￼
+Comments and limitations:
+The significance of the unemployment rate depends on context. It is not to be interpreted the same way universally. In the absence of unemployment insurance systems or social safety nets, persons of working age must avoid unemployment, resorting to engaging in some form of economic activity, however insignificant or inadequate. Thus, in this context, other measures should supplement the unemployment rate to comprehensively assess labour underutilization, such as the time-related underemployment rate or measures of the potential labour force In this regard, the 2013 Resolution concerning statistics of work, employment and labour underutilization recommends that more than one headline indicator of labour underutilization be used, among the following: LU1 (unemployment rate), LU2 (combined rate of time-related underemployment and unemployment), LU3 (combined rate of unemployment and potential labour force) and LU4 (composite measure of labour underutilization). 
+Statistics for any given year can also differ depending on the number of observations − monthly, quarterly, once or twice a year, and so on. Among other things, a considerable degree of seasonality can influence the results when the full year is not covered. 
+Lastly, the geographic coverage of the survey used as a source of unemployment data also has an impact on the comparability of results. A less than national coverage – urban areas, city, regional – has obvious limitations to comparability to the extent that coverage is not representative of the country. Unemployment in urban areas may tend to be higher than total unemployment because of the exclusion of the rural areas where workers are likely to work, although they may be underemployed or unpaid family workers, rather than seek work in a non-existent or small formal sector. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+This indicator is required to be disaggregated by sex, age, geographic location (urban/rural), and disability status.

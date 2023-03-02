@@ -1,0 +1,31 @@
+Indicator 4.6.1: Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex
+Target 4.6: By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy
+Goal 4: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
+Definition and Rationale
+Definition:
+This indicator is defined as the proportion of youth (aged 15-24 years) and of adults (aged 15 years and above) who have achieved or exceeded a given level of proficiency in (a) literacy and (b) numeracy. The fixed or minimum level of proficiency is measured relative to literacy and numeracy scales defined according to national, regional and international learning assessments. 
+Concepts:
+The fixed level of proficiency is the benchmark of basic knowledge in a domain (literacy or numeracy) measured through learning assessments. Currently, there are no common standards to determine the fixed level of proficiency that have been validated by the international community or countries. 
+The concepts of functional literacy and numeracy are based on the UNESCO definition which covers a continuum of proficiency levels rather than a dichotomy. A person is functionally literate who can engage in all those activities in which literacy is required for effective functioning of their group and community and also for enabling them to continue to use reading, writing and calculation for their own and the community’s development. The assessment of functional literacy and numeracy should cover various proficiency levels ranging from a low level to the mastery of the requisite domain. 
+Rationale and Interpretation: 
+The indicator is a direct measure of the functional proficiency of youth and adults in literacy and numeracy which divides youth and adults into those who have achieved the requisite fixed level of proficiency and those who have not. 
+(1) Below the fixed proficiency level is the proportion of youth and adults who have not achieved the minimum proficiency level as established by countries according to the global competency or skills framework. 
+(2) At or above the fixed proficiency level is the proportion of youth and adults who have achieved at least the minimum proficiency level.
+Due to the heterogeneity of performance levels set by national and cross-national assessments, these performance levels will be based on a global competency or skills framework. Once the performance levels are established, the global education community will be able to identify for each country the proportion of youth and adults who achieved at least minimum proficiency level.
+Data Sources and Collection Method
+This indicator is collected via skills’ assessment surveys of the youth and adult populations. OECD’s Survey of Adult Skills in its Programme for the International Assessment of Adult Competencies (PIAAC), the World Bank’s Skills Towards Employment and Productivity (STEP) measurement programme, and the UIS’s Literacy Assessment and Monitoring Programme (LAMP), all of which are household surveys, are good sources of data for this indicator.  A new Short Literacy Survey (SLS) based on LAMP has recently been developed to offer a less costly and technically demanding option for countries. National surveys of adult literacy and numeracy skills may be additional sources. 
+Only PIAAC measures both literacy and numeracy skills. STEP and the newly developed SLS only measure literacy. Both PIAAC and STEP can be put on a common scale as they are linked psychometrically by design.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+This indicator can be calculated by dividing the number of persons aged 15-24 years or 15 years and above achieving at least the minimum fixed level of proficiency in a large-scale representative assessment survey on literacy and/or numeracy, , by the total number of participants of the same age-group who participated in the assessment. 
+The proportion of youth and adults who have achieved at least the minimum threshold of proficiency, PMINta,s of the age group a in reference year t, is calculated as follows: 
+￼
+where
+Pta,s is the number of youth or adults in age group a who have achieved at least the minimum proficiency level in domain s in reference year t 
+POPta,s is the total number of youth or adults in age group a who participated in the assessment of domain s in reference year t
+s  denotes the domain whether literacy or numeracy  
+Comments and limitations:
+The measurement of youth and adult proficiencies in literacy and numeracy requires some form of direct assessment. Using household surveys to measure learning can be costly and difficult to administer and may underestimate learning in areas that are critical to daily life but are harder to assess in standardised approaches. The result may be inaccurate representations of what youth and adults know and can do, especially in relation to applying skills that may vary across contexts. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+This indicator is required to be disaggregated by sex. It can be also disaggregated by age group, location, income and disability status.

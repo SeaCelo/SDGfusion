@@ -1,0 +1,27 @@
+Indicator 4.c.1: Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country
+Target 4.c: By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States
+Goal 4: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all 
+Definition and Rationale
+Definition:
+This indicator is defined as the percentage of teachers by level of education taught (pre-primary, primary, lower secondary and upper secondary education) who have received at least the minimum organized pedagogical teacher training pre-service and in-service required for teaching at the relevant level in a given country. 
+Concepts:
+A teacher is trained if they have received at least the minimum organized pedagogical teacher training pre-service and in-service required for teaching at the relevant level in each country. 
+Rationale and Interpretation:
+Teachers play a key role in ensuring the quality of education provided. Ideally all teachers should receive adequate, appropriate and relevant pedagogical training to teach at the chosen level of education and be academically well-qualified in the subject(s) they are expected to teach. This indicator measures the share of the teaching work force which is pedagogically well-trained. 
+A high value indicates that most students are being taught by teachers who are pedagogically well-trained to teach.
+Data Sources and Collection Method
+The data for this indicator come from administrative data from schools and other organized learning centres. 
+Ministries of Education and National Statistical Offices are typical sources of such data. 
+Method of Computation and Other Methodological Considerations
+Computation Method:
+This indicator is calculated by dividing the number of trained teachers at each level of education by the total number of teachers at the same level and multiplying the result by 100. 
+The percentage of trained teachers for each level of education (n), who are trained or have a minimum level of organized teacher training, PTTn is calculated as follows: 
+￼
+where 
+           TTtn is the number of trained teachers at level n of education in reference year t
+          Ttn is the total number of teachers at level n of education in reference year t 
+Comments and limitations:
+National minimum training requirements can vary widely from one country to the next. This variability between countries lessens the usefulness of global tracking because the indicator would only show the percent reaching national standards, not whether teachers in different countries have similar levels of training. Further work would be required if a common standard for teacher training is to be applied across countries. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+This indicator can be disaggregated by sex, level of education, type of institution (public/private) and by location (urban/rural).

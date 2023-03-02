@@ -1,0 +1,33 @@
+Indicator 6.2.1: Proportion of population using (a) safely managed sanitation services, and (b) a handwashing facility with soap and water
+Target 6.2: By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations
+Goal 6: Ensure availability and sustainable management of water and sanitation for all
+Definition and Rationale
+Definition:
+This indicator includes two sub-indicators: (a) proportion of population using safely managed sanitation services and (b) proportion of population with a handwashing facility with soap and water. 
+Proportion of population using safely managed sanitation services is currently being measured by the proportion of the population using an improved sanitation facility which is not shared with other households and where excreta are safely treated and disposed of in situ or transported and treated off-site. 
+Concepts:
+Improved sanitation facilities refer to sanitary facilities designed to hygienically separate excreta from human contact.  They include flush or pour flush toilets to sewer systems, septic tanks or pit latrines, ventilated improved pit latrines, pit latrines with a slab, and composting toilets. 
+Hand-washing facilities are devices to contain, transport, or regulate the  flow of water to facilitate handwashing. This  indicator has been shown to be a better proxy for handwashing practice than self-reports of handwashing practice in surveys. 
+Safely treated and disposed of in situ refers to non-sewered sanitation systems that store excreta and degrade organic matter through biological processes. Examples of safe treatment and disposal in situ include twin pit latrines, single pit latrines which are abandoned when full, and well-functioning septic tanks. 
+Transported and treated off-site refers to practices of excreta (faecal sludge) being transported from the household to a different location for treatment and discharge. It includes both transportion via sewers or via other modes where septic tanks and pit latrines are being used. Secondary (biological) or higher treatment processes are counted for safely managed sanitation.   
+Rationale and Interpretation:
+Building upon the MDG target of providing sustainable access to basic sanitation, this indicator adds additional dimensions of accessibility, acceptability and safety. Furthermore, it also considers the safe management of faecal waste, as discharges of untreated wastewater into the environment create public health hazards. 
+Handwashing with soap is widely agreed to be the top hygiene priority for improving health outcomes. The most widely-accepted and practical proxy for actual handwashing practice is the observation by enumerators in household surveys of the presence of handwashing facilities with soap and water in the household. This proxy has been shown to be a more reliable, valid and efficient measure than self-reported behaviour.
+Data Sources and Collection Method
+The underlying data for this indicator, use of improved sanitation facilities, is a core indicator for most household surveys and censuses, and is collected by national statistical offices regularly. Additional data on safe management of faecal wastes can be acquired from administrative records. Data on off-site treatment and disposal (e.g. in sewage treatment plants) is combined with data from surveys and censuses about the number of people whose excreta are removed off-site for treatment. Data on on-site treatment and disposal (e.g. in pit latrines or septic tanks) can come from both household surveys and administrative records.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The percentage of population using safely managed sanitation services (PSMS) can be calculated as: 
+￼
+The percentage of the population with access to hand-washing facilities with soap and water (PHW) can be calculated as: 
+￼
+where,
+Noffsite is the number of people (or households) using improved sanitation facilities which are not shared and where excreta are transported off-site, treated and disposed of;
+Nonsite is the number of people (or households) using improved sanitation facilities which are not shared and where excreta are treated and disposed of in situ;
+NHW is the number of people (or households) that have access to handwashing facilities with soap and water on premises;
+NTotal is the total number of people (or households) in the country 
+Comments and limitations:
+Presence of a handwashing facility with soap and water does not guarantee that household members consistently wash hands at key times, but has been accepted as the most suitable proxy. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+Data can be disaggregated by place of residence (urban/rural) and socioeconomic status (wealth, affordability). Disaggregation by other dimensions, such as, inequality (subnational, gender, disadvantaged groups, etc.) and service level (including no services, basic, and safely managed services) are also possible.

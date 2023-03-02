@@ -1,0 +1,24 @@
+Indicator 10.b.1: Total resource flows for development, by recipient and donor countries and type of flow (e.g., official development assistance, foreign direct investment and other flows) 
+Target 10.b: Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest, in particular least developed countries, African countries, small island developing States and landlocked developing countries, in accordance with their national plans and programmes
+Goal 10: Reduce inequality within and among countries
+Definition and Rationale
+Definition:
+This indicator is defined as the sum of all resource flows for development. 
+Concepts:
+Resource flows for development comprises Official Development Assistance (ODA), other official flows (OOF) and private flows, in the form of foreign direct investments (FDI), which are at market terms. 
+The Development Assistance Committee (DAC) defines ODA as those flows to countries and territories on the DAC list of ODA recipients and multilateral institutions which are:
+(1)    Provided by official agencies, including state and local governments, or by their executive agencies; and
+(2)    Each transaction of which:
+a) is administered with the promotion of the economic development and welfare of developing countries as its main objective; and
+b) is concessional in character and conveys a grant element of at least 25 percent (calculated at a rate of discount of 10%). 
+OOF are defined as transactions by the official sector which do not meet the conditions for eligibility as ODA, either because they are not primarily aimed at development, or because they are not sufficiently concessional. They also exclude officially supported export credits. 
+Rationale and Interpretation:
+Total resource flows to developing countries provide the most complete record of resources and quantify the overall expenditures that donors provide to developing countries. 
+Data Sources and Collection Method
+This data are derived from the OECD DAC’s aggregate database on official and private resource flows. Data on flows are reported according to the same standards and methodologies by national focal points (statistical reporters) within national aid agencies, ministries of foreign affairs or finance etc. on the financial flows provided by their country or institution. 
+Method of Computation and Other Methodological Considerations
+Computation Method: This indicator is calculated as the sum of all ODA, OOF and private flows from all donors to developing countries. 
+Comments and limitations: N/A
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+The data can be disaggregated by donor, recipient, type of flow, type of finance, type of aid etc. 

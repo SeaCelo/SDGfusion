@@ -1,0 +1,28 @@
+Indicator 9.2.1: Manufacturing value added as a proportion of GDP and per capita
+Target 9.2: Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry's share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries
+Goal 9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation
+Definition and Rationale
+Definition:
+This indicator is defined as the ratio between manufacturing value added (MVA) and the gross domestic product (GDP), where both are reported in constant US dollars. It is represented as a percentage. 
+MVA per capita is the total MVA divided by the total population of the country. 
+Concepts:
+Gross value added is a productivity metric that measures contributions to the economy. It is calculated using the system of national accounts (SNA) as the sum of all employee compensation, gross operating surplus of government and corporations, gross mixed income of unincorporated enterprises and taxes, minus any subsidies on production and imports, except for net taxes on products. 
+MVA is the total value added to the economy by the manufacturing sector. Manufacturing sector is defined according to the International Standard Industrial Classification of all Economic Activities (ISIC) revision 3 (1990) or revision 4 (2008). It refers to industries belonging to sector D in revision 3 or sector C in revision 4. 
+GDP is the sum of gross values added by all sectors that are a part of the economy. 
+Rationale and Interpretation:
+MVA is a well-recognized and widely used indicator by researchers and policy-makers to assess the level of industrialization of a country. The share of MVA in GDP reflects the role of manufacturing in the economy and a country’s national development in general. 
+MVA per capita is an indicator of a country’s level of industrialization, adjusted to the size of its economy. It is widely used to classify country groups according to the stage of industrial development. Adjusted MVA per capita expressed in terms of an implicit estimate of MVA per capita at purchasing power parity (PPP) is used as the basic measure underlying the country groups in UNIDO statistics (UNIDO, 2013).
+Data Sources and Collection Method
+The data for this indicator is compiled by the national statistical offices, ministries of finance or economy, as part of their national accounting activities. 
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The percentage value addition to GDP from the manufacturing sector (PManuf) can be calculated as: 
+￼
+MVA per capita can be calculated as: 
+￼
+Comments and limitations:
+Issues with comparability may arise due to the use of different versions of the SNA or the International Standard Industrial Classification (ISIC) that are used by countries. 
+There may also be differences due to the use of exchange rate conversions to USD, different base years used for constant price data, and methods for recent period estimation. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+This indicator is not required to be disaggregated, but it can be disaggregated by various sectors within manufacturing. 

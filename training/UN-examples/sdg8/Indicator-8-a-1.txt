@@ -1,0 +1,31 @@
+Indicator 8.a.1: Aid for Trade commitments and disbursements
+Target 8.a: Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced Integrated Framework for Trade-related Technical Assistance to Least Developed Countries
+Goal 8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
+Definition and Rationale
+Definition:
+This indicator is defined as gross disbursements and commitments of total Official Development Assistance (ODA) from all donors for aid for trade. 
+Concepts:
+The Development Assistance Committee (DAC) defines ODA as those flows to countries and territories on the DAC list of ODA recipients and multilateral institutions which are:
+(1)    Provided by official agencies, including state and local governments, or by their executive agencies; and
+(2)    Each transaction of which:
+a. is administered with the promotion of the economic development and welfare of developing countries as its main objective; and b. is concessional in character and conveys a grant element of at least 25 percent (calculated at a rate of discount of 10%). 
+All donors refer to DAC donors, other bilateral providers of development cooperation and multilateral organizations.  
+Aid for Trade is captured in the OECD’s Creditor Reporting System (CRS) as follows:
+‒         Economic infrastructure (transport and storage (CRS codes 210xx), communications (CRS codes 220xx) and energy (CRS codes 230xx)),
+‒         Trade policy and regulations and trade-related adjustment (CRS codes 331xx)
+‒         The trade development policy marker, which identifies trade development/activities which have trade development as an explicit objective within the “building productive capacity” category which is defined as banking and financial services (CRS codes 240xx) , business and other services (CRS codes 250xx), agriculture, forestry, fishing (CRS codes 31xxxx), industry (CRS codes 321xx), mineral resources and mining (CRS codes 322xx), and tourism (CRS codes 332xx)), 
+See for reference: http://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/dacandcrscodelists.htm 
+Rationale and Interpretation:
+ODA for aid for trade to developing countries quantify the public effort that donors provide to developing countries for aid for trade.
+Data Sources and Collection Method
+A statistical reporter is responsible for the collection of DAC statistics in each providing country/agency. This reporter is usually located in the national aid agency, the Ministry of Foreign Affairs or Finance etc. 
+The OECD/DAC has been collecting data on official and private resource flows from 1960 at an aggregate level and 1973 at an activity level through the CRS (CRS data are considered complete from 1995 for commitments at an activity level and 2002 for disbursements). The Rio marker for biodiversity was introduced in 2002. 
+The OECD/DAC Secretariat prepares and submits an annual questionnaire (at an aggregate level and at an activity level) to national statistical reporters, and they are responsible for collecting, validating and publishing these data. 
+Method of Computation and Other Methodological Considerations
+Computation Method:
+This indicator is calculated as the sum of all ODA flows from all donors to developing countries are marked by the aid for trade marker under the 331 series. 
+Comments and limitations:
+Data in the CRS are available from 1973. However, the data coverage, at an activity level, is considered complete from 1995 for commitments and 2002 for disbursements. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+This indicator can be disaggregated by donor, type of finance, type of aid, trade policy and regulations and trade related adjustment sub-sectors, etc.

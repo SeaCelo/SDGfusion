@@ -1,0 +1,29 @@
+Indicator 17.19.1: Dollar value of all resources made available to strengthen statistical capacity in developing countries
+Target 17.19: By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries
+Goal 17: Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+Definition and Rationale
+Definition:
+This indicator is defined as the total US dollar value of all resources that are made available to strengthen statistical capacity in developing countries. It is based on the Partner Report on Support to Statistics (PRESS) which are designed and administered by PARIS21. 
+Concepts: 
+Resources are defined as all funding allocated to project/programs defined by the Creditor Reporting System (CRS) as statistical capacity building as well as technical assistance, training, goods and equipment, facilities etc. within such projects. ([1] CRS Purpose Code 16062: Statistical capacity building: Both in national statistical offices and any other government ministries. ) 
+Statistical capacity building is the process through which a country’s national statistical system, its organisations and individuals obtain, strengthen and maintain their abilities to collect, produce, analyse and disseminate high quality and reliable data to meet users’ needs.
+PRESS is one of PARIS21's flagship publications. It presents data on technical and financial support to statistical development worldwide and is thus a valuable tool for collaboration. 
+Rationale and Interpretation:
+This indicator is a direct measure of the global effort to support statistical capacity-building in developing countries.
+Data Sources and Collection Method
+This indicator relies upon three sources of data:
+(1)    OECD’s CRS, which records ODA and Other Official Flows (OOF) data from the Development Assistance Committee’s (DAC) members and some non-members, and provides comprehensive accounting of ODA. Any ODA and OOF reported by donors for Statistical Capacity Building (SCB) is designated by code 16062;
+(2)    In cases where SCB is a part of a larger project and is not directly captured by the CRS under code 16062, PARIS21searches project descriptions for an SCB component, and adds it to the total disbursements for SCB; and
+(3)    A voluntary online questionnaire that is completed by a global network of reporters. The reporters are countries that do not report to the CRS, as well as multilateral institutions that have large portfolios of statistical projects.
+Recipient countries are not required to provide data to the three sources. Donors are encouraged to provide budget-allocation information at sector-level. Multi-lateral donors work closely with PARIS21 to complete the online questionnaire to feed better and more complete data to source (3).
+Method of Computation and Other Methodological Considerations
+Computation Method:
+This indicator is calculated as the sum of all project/program disbursements for statistical capacity building in developing countries in a given year. All values are converted to US dollars using the average currency conversion rate of the time period (given year) for which the indicator is being calculated. 
+Comments and limitations:
+Financial figures presented in the PRESS are drawn from the OECD’s Creditor Reporting System (CRS) for Official Development Assistance (ODA) commitments, supplemented by voluntary reporting from other donors. Therefore, full coverage of all programs is uncertain. 
+The reported comments are also an upper-bound to the actual support to statistics. This is because of three reasons: (1) double counting of projects may occur when the donor and project implementer report on the same project or when all project co-financers report project totals; (2) the reported numbers may be inflated by working with project totals for multi-sector projects that have a small statistics component; and (3) the PRESS reports on donor-side commitments which do not always translate to actual disbursements to the recipient countries. 
+The indicator only captures international support to statistics and does not account for domestic resources. 
+Due to different fiscal calendars among donors, the data has a 2-year lag. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+This indicator can be disaggregated by geographical area, ODA sectors, area of statistics and method of financing (e.g. grant, loan etc.). 

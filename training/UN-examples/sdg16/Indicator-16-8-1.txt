@@ -1,0 +1,36 @@
+Indicator 16.8.1: Proportion of members and voting rights of developing countries in international organizations 
+Target 16.8: Broaden and strengthen the participation of developing countries in the institutions of global governance
+Goal 16: Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
+Definition and Rationale
+Definition:
+This global indicator is defined as the percentage of members (or voting rights) in international organizations that are (or belong to) developing countries. For institutions where membership and voting rights are different, this indicator observes the percentages separately.
+Concepts:
+International organizations comprise the following eleven multi-lateral institutions for the purposes of this indicator:
+(1)     UN General Assembly;
+(2)    UN Security Council;
+(3)    UN Economic and Social Council;
+(4)    International Monetary Fund;
+(5)    International Bank for Reconstruction and Development;
+(6)    International Finance Corporation;
+(7)    African Development Bank;
+(8)    Asian Development Bank;
+(9)    Inter-American Development Bank;
+(10) World Trade Organization; and
+(11) Financial Stability Board. 
+There is no established convention for the designation of developing countries in the UN system. But, in common practice, developing countries refer to all other countries besides Japan, Canada, the United States of America, Australia, New Zealand and European countries. The aggregation across all institutions is currently done according to the United Nations M.49 statistical standard which includes designation of “developed regions” and “developing regions”. 
+Rationale and Interpretation:
+The United Nations is based on the principle of sovereign equality of all its member states (Article 2, UN Charter). This indicator aims to measure the degree to which states enjoy equal representation in different international organizations. 
+Data Sources and Collection Method
+Annual reports of each of the international organizations are used as sources of data. Membership and voting rights information are published every year.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The following formula is used for each organization to calculate the percentage of voting rights to developing countries (PVDev): 
+ ￼
+The following formula is used for each organization to calculate the percentage of members from developing countries (PMDev):
+￼
+The same formulas can be used to calculate the percentage of the membership for each country or the percentage of voting rights for each country. 
+Comments and limitations:
+As a structural indicator, only small changes will be observed over time which reflect agreement on new States joining as members, suspension of voting rights, membership withdrawal and negotiated voting rights changes. Cross-institutional comparisons need to pay attention to the different memberships of intuitions. Voting rights and memberships in their institutions are agreed to by the member states themselves. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+As only States can be members there is no disaggregation by sex, gender, age, disability, etc.

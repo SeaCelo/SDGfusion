@@ -1,0 +1,31 @@
+Indicator 3.3.2: Tuberculosis incidence per 100,000 population
+Target 3.3: By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases
+Goal 3: Ensure healthy lives and promote well-being for all at all ages
+Definition and Rationale
+Definition:
+The tuberculosis incidence per 100,000 population is defined as the estimated number of new and relapse  tuberculosis (TB) cases (all forms of TB, including cases in people living with HIV) arising in a given year, expressed as a rate per 100, 000 population. 
+Concepts:
+Tuberculosis is an infectious bacterial disease caused by Mycobacterium tuberculosis, which most commonly affects the lungs. It is transmitted from person to person via droplets from the throat and lungs of people with the active respiratory disease. 
+A tuberculosis case is defined as a patient in whom tuberculosis has been bacteriologically confirmed or diagnosed by a clinician. 
+Rationale and Interpretation:
+Detecting tuberculosis and curing it are key interventions for addressing poverty and inequality. Prevalence and deaths are more sensitive markers of the changing burden of tuberculosis than incidence (new cases), but data on incidence are more comprehensive and give the best overview of the impact of global tuberculosis control.   Incidence rates are important because they give an indication of the extent of TB in a population, and of the size of the task faced by a national TB control programme. Incidence rates can be used to track changes in the rate at which people infected with Mycobacterium tuberculosis develop TB disease. Improvement in the quality of TB surveillance data result in reduced uncertainty about indicator values. 
+Data Sources and Collection Method
+International organizations like the WHO collect data from the following four national sources:
+1. National case notification data (available in all countries) combined with expert opinion about case detection gaps;
+2. Results from recent national TB prevalence surveys where available;
+3. National case notifications in high­income countries adjusted by a standard factor to account for under­reporting and under­diagnosis; and
+4. Capture recapture modelling using data on TB case detection from at least three case lists (e.g. record-linkage of records from a national TB case notification database, health insurance records, laboratory records, records from private hospital and clinics).
+Method of Computation and Other Methodological Considerations
+Computation Method: 
+Direct measurement of incidence of TB presents major logistic and financial challenges associated with large sample size surveys. Theoretically, data from TB surveillance systems that are linked to health systems of high coverage and performance may capture all (or almost all) incident cases of TB. 
+Current methods to estimate TB incidence can be grouped into four major categories. Estimation methods are detailed in an online technical appendix attached to the latest Global TB Report.
+1. Case notification data combined with expert opinion about case detection gaps. Expert opinion, elicited in regional workshops or country missions, is used to estimate levels of under-reporting and under-diagnosis. Trends are estimated using either mortality data, surveys of the annual risk of infection or exponential interpolation using estimates of case detection gaps for three years; 
+2. Results from TB prevalence surveys. Incidence is estimated using prevalence survey results and derived from a model that accounts for the impact of HIV on the distribution of disease duration; 
+3. Notifications in high-income countries adjusted by a standard factor to account for under-reporting and under-diagnosis; and 
+4. Results from inventory studies of under-reporting of detected TB, with capture-recapture modelling based on at least three lists. 
+Comments and limitations:
+N/A 
+Proxy, alternative and additional indicators:
+Proxy indicators of TB incidence include case notification rates in countries meeting the following criteria: universal access to health care (with universal health insurance or equivalent), mandatory notification of new cases to public health authorities and high performance of the national TB surveillance system.
+Data Disaggregation
+This indicator can be by age and sex categories, and could be disaggregated by type of TB infection (for example drug resistant vs. non-resistant).

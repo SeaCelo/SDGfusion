@@ -1,0 +1,30 @@
+Indicator 11.6.2: Annual mean levels of fine particulate matter (eg. PM 2.5 and PM 10) in cities (population weighted)
+Target 11.6: By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management
+Goal 11: Make cities and human settlements inclusive, safe, resilient and sustainable
+Definition and Rationale
+Definition: 
+This indicator is defined as the annual mean of the daily concentrations of fine suspended particles equal or less than 2.5 microns in diameters (PM2.5) in urban areas. 
+Particulate matter is an agreed indicator to measure of air pollution. This mean is a population-weighted average, e.g. if several cities measure PM2.5, the country mean will be weighted with the corresponding city population, and is expressed in micrograms per cubic meter ￼. 
+To date, particulate matter with a diameter equal or less than 10 microns (PM10) is still more commonly measured than PM2.5 worldwide, although this is evolving (WHO 2016a). To convert PM10 to PM2.5, conversion factors can be used, generally between 0.3-0.8 (WHO, 2014). 
+The present reported indicator is modelled for all urban areas in each country by WHO (Shaddick et al, 2016; WHO 2016b) following the methodology described below. 
+Concepts:
+Particulate matter with a diameter equal or less than 2.5 microns in diameters (PM2.5) is the most commonly used pollutant in epidemiological studies on the health effects due to exposure to air pollution. PM2.5 is a good indicator of complex pollution mixtures and epidemiological findings suggest that it is a major risk to human health. Particulate matter consists of solid particles and liquid droplets both formed by organic and inorganic substances suspended in the air. 
+Rationale and Interpretation:
+The major sources of particulate matter (PM2.5) are human combustion of fossil fuels from activities such as industry, traffic, and power generation, but also household fuels (e.g. biomass, coal) burning for heating, cooking, and lighting activities at household level. Non-anthropogenic sources (e.g. fires) may also be important in some areas. These particles can penetrate deeply into the respiratory tract and therefore constitute a long-term risk for health by increasing mortality from respiratory infections and diseases, lung cancer, and selected cardiovascular diseases. 
+The reported indicator value is population –weighted, because from a health perspective, it is important to know the extent of the exposure distribution among populations in order to assess the health impacts. 
+Data Sources and Collection Method
+The data for this indicator is collected using (1) ground-based urban air quality monitoring networks (WHO 2016a) and, where not available, (2) additional data such as satellite retrievals of aerosol optical depth, chemical transport models, topography, etc. Further details on the method can be found in Shaddick et al (2016). 
+Data sources include official country reporting from the relevant ministries (usually the Ministry of Environment), but also regional and international networks such as the European Environmental Agency and Clean Air Asia, UN agencies, development agencies, articles from peer reviewed journals and ground measurements compiled in the framework of Global Burden of Disease Project. Wherever gaps in coverage remain, satellite imagery analysis is used to estimate data for monitoring this indicator. 
+Method of Computation and Other Methodological Considerations
+Computation Method: 
+Although PM10 and PM2.5 measurements are regularly collected in many thousands of locations throughout the world, the amount of monitors in different geographical areas vary, with some areas having little or no monitoring (WHO 2016a). Where ground monitoring data are available, statistical models are used to calibrate measurements with data from other sources. These include estimates of PM2.5 obtained from remote sensing satellites, chemical transport model, and other factors including sand dust and topography, all of which are available for every 0.1° grid-cell. The statistical model can then be used to predict measurements, together with associated measures of uncertainty, for each grid-cell. In areas where there is little, or no, monitoring the calibration models may be unstable, or too cumbersome to be modelled. For this reason, a hierarchical modelling approach can be used where, if there is not enough information to produce an accurate calibration equation for a particular area, information can be `borrowed’ from a wider geographical region (Shaddick et al, 2016; WHO, 2016b). The result is a set of nested calibration and prediction models that can be used to predict PM2.5 for each of the 1.4 million grid-cells covering the entire globe. These can be used to produce distributions of exposures for each country and, by linking exposures to estimates of population for each grid-cell – provided by the Gridded Population of the World (GPW) database - , distributions of expected population exposures. 
+The following formula is used to obtain the aggregated mean for each country:
+￼
+where Cn is the estimated mean annual fine particulate matter for the city[1] (or grid(s) corresponding to that city[2]) n, Pn is the population of the city1 (or grid(s) corresponding to that city2) n. 
+The same formula is used to derive country estimates (rural and urban), by aggregating the grid cells that include the country (as opposed to the city). 
+Proxy, alternative and additional indicators: N/A
+
+[1] For countries with PM2.5 ground measurements available.
+[2] WHO is reporting modelled data estimates for 11.6.2, which are available at grid-level globally (WHO 2016b,c)
+Data Disaggregation
+Data is available at available globally at a high spatial resolution (0.1◦ x 0.1◦) – e.g. each grid corresponds approximately to 11x11km at the equator, which can be further aggregated at country, urban or rural level. 

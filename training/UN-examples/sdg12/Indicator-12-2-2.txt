@@ -1,0 +1,26 @@
+Indicator 12.2.2:  Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP
+Target 12.2: By 2030, achieve the sustainable management and efficient use of natural resources
+Goal 12: Ensure sustainable consumption and production patterns
+Definition and Rationale
+Definition:
+Domestic Material Consumption (DMC) is a standard material flow accounting (MFA) indicator and reports the apparent annual consumption of materials in a national economy. The indicator can also be expressed per capita and per GDP. 
+Concepts:
+Economy-wide material flow accounts (EW-MFA) provide an aggregate overview, in thousand tonnes per year, of the material flows into and out of an economy. EW-MFA cover solid, gaseous, and liquid materials, except for bulk flows of water and air. 
+DMC measures the total amount of material directly used in an economy (i.e. excluding indirect flows). DMC is defined in the same way as other key physical indictors such as gross inland energy consumption. DMC equals Domestic Extraction plus imports minus exports. 
+Rationale and Interpretation:
+As a territorial and production-side indicator, DMC refers to the amount of material used in the production processes within an economy. DMC describes the physical dimension of economic processes and interactions. Per-capita DMC describes the average level of material use in an economy – an environmental pressure indicator – and is also referred to as metabolic profile.
+Data Sources and Collection Method
+Data for the calculation of the DMC is compiled by the relevant national agency such as the ministry of commerce, trade or industry, or the national statistical office. 
+For Europe, Eurostat compiles Economy-wide material flow account data from countries. For other countries, DMC is based on official statistics and then standard rates are used to convert data into tonnes of extraction, imports and exports. This is done by type of material based on the following: the International Energy Agency (IEA) has detailed information on fossil fuels;  for biomass, major crops and crop products, livestock and animal products, forestry products and fish are available from the Food and Agriculture Organization (FAO) and for components that are difficult to measure directly, e.g. grazed biomass, the FAO will typically not have direct data, however data reported to the FAO for animal products or herd numbers is used as input data for making an estimate; for metal ores, the United States Geological Survey (USGS) and the British Geological Survey (BGS) collect data on metal production, and in some cases ore production with trade of metal ores from United Nations Comtrade database; and for non-metalic minerals the USGS and BGS have some data and where data is missing then it is based on data published by countries or in some cases a standard estimation of per capita consumption for countries with different per capita incomes.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+It is calculated as direct imports (IM) of material plus domestic extraction (DE) of materials minus direct exports (EX) of materials measured in metric tonnes.
+DMC = IM + DE - EX
+UN Environment is publishing a global manual which should be released by July 2018.  This global manual is based largely on the EUROSTAT Economy Wide Material Flow Accounting compilation guide 2013. MFA accounting is also part of the central framework of the System of integrated Environmental-Economic Accounts (SEEA). More information on data sources and compilation is provided in the below section. 
+DMC should be divided by the GDP and the population of the country to get standardized measures such as DMC per capita and DMC per GDP. 
+Comments and limitations:
+DMC cannot be disaggregated to economic sectors due to the fact that there is no way to link the consumption of materials to a particular economic sector. 
+DMC and Material Footprint (MF) (indicator 12.2.1) need to be looked at in combination as they cover the two aspects of the economy: production and consumption. The DMC and MF reports the virtual amount required across the whole supply chain to service final demand. A country can, for instance have a very high DMC because it has a large primary production sector for export or a very low DMC because it has outsourced most of the material intensive industrial process to other countries. Analysing both of these production and consumption side indicators together gives a better understanding of the overall resource use patterns of a country. 
+Proxy, alternative and additional indicators: No proxy is needed due to the excellent coverage. However, there is a need for additional country validation.
+Data Disaggregation
+DMC can be disaggregated by type of material and for the purpose of the SDGs, there are four proposed disaggregations of DMC: Biomass, Fossil Fuels, Metal Ores and Non-metalic minerals.
