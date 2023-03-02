@@ -1,0 +1,26 @@
+Indicator 9.b.1: Proportion of medium and high-tech industry value added in total value added
+Target 9.b: Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities
+Goal 9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation
+Definition and Rationale
+Definition:
+This indicator is defined as the percentage of medium-high and high technology (MHT) industries to the total value added of all manufacturing industries 
+Concepts:
+The value added of an industry (industry value added) is a survey concept that refers to the given industry’s net output derived from the difference of gross output and intermediate consumption. Manufacturing sector is defined according to the International Standard Industrial Classification of all Economic Activities (ISIC) revision 3 (1990) or revision 4 (2008). It refers to industries belonging to sector D in revision 3 or sector C in revision 4. 
+Technology classification is based on research and development (R&D) expenditure relative to value added otherwise referred as R&D intensity.  Data for R&D intensity are presented in a report (Galindo-Rueda and Verger, 2016) published by the OECD in 2016, which also proposes a taxonomy for industry groups with different ranges of R&D expenditure relative to their gross value added. MHT industries have traditionally been defined exclusively to manufacturing industries. However, there have been recent efforts (Galindo-Rueda and Verger, 2016) to extend the definition to non-manufacturing industries as well. Nevertheless, medium-high and high technology sectors also in new paper are primarily represented by manufacturing industries.
+MHT manufacturing industries refer to all sub-codes within the following ISIC codes:
+(1)    ISIC Rev. 4 – 20, 21, 252, 26, 27, 28, 29, 30 (excluding 301), 325; or
+(2)    ISIC Rev. 3 –24, 29, 30, 31, 32, 33, 34, 35 (excluding 351). 
+Rationale and Interpretation:
+Industrial development generally entails structural transition from resource-based and low technology activities to MHT activities. Modern, highly complex production structures offer better opportunities for skills development and technological innovation. MHT activities are considered high-value addition industries with higher technological intensity and labour productivity. By tracking this indicator, the level of domestic technology, as well as that of research and innovation can be observed. 
+An increasing share of MHT reflects domestic technological advancedment through higher impacts of innovation.
+Data Sources and Collection Method
+The data for this indicator is compiled by the national statistical offices, ministries of finance or economy, as part of their national accounting activities. It is strongly recommended to use the system of national accounts (2008) and to track economic activity at least at 3-digit ISIC. 
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The percentage contribution of MHT to total MVA (PMHT)can be calculated as: 
+ ￼
+Comments and limitations:
+Value added by economic activity should be reported at least at 3-digit ISIC for compiling MHT values.
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+No disaggregation is available for this indicator.

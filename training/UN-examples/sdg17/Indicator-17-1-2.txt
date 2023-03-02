@@ -1,0 +1,26 @@
+Indicator 17.1.2: Proportion of domestic budget funded by domestic taxes
+Target 17.1: Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection
+Goal 17: Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+Definition and Rationale
+Definition:
+This indicator is defined as the percentage of domestic budgetary central government expenditure that is funded by tax revenue. 
+Concepts:
+Budgetary central government refers to the central government that encompasses the fundamental activities of the national executive, legislative, and judiciary powers. 
+Expenditure is the sum of two key aggregates: expense and the net investment in non-financial assets; it is presented as an additional aggregate in the GFS Statement of Operations. 
+Revenue is an increase in net worth resulting from a transaction. The major types of revenue for the budgetary central government are taxes, social contributions, grants, and other revenue. 
+The key concepts and terms associated with the indicator are outlined in Government Finance Statistics Manual (GFSM) 2014. 
+Rationale and Interpretation:
+The indicator highlights the relationship between the executed national budget and the country’s capacity to mobilize needed resources through its revenue/tax administration. By focusing on the contribution of taxation as opposed to all sources of government revenue, the indicator can represent domestic non-earmarked resource mobilization that is under direct control of the national authorities. 
+As such, this indicator supports an understanding of the extent to which countries’ recurrent and capital outlays (expenditures) are actually covered by domestic resource mobilization in the form of taxation.  It is also a direct measure of the countries’ tax collection capacity. 
+Data Sources and Collection Method
+GFS are compiled and maintained by central government agencies such as the Ministry of Finance, Central Bank or National Statistical Offices. 
+Government revenue and expenditure data is also reported to the International Monetary Fund (IMF) by member countries are compiled (and disseminated) in a global GFS database. Historical series have been aligned with the GFSM 2014 classifications.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The percentage of domestic budgetary central government expenditure that is funded by tax revenue (Ptax) is calculated as:
+￼
+Comments and limitations:
+In principle, Government Financial Statistics (GFS) should cover all entities (general government units) that materially affect fiscal policies. However, for most developing and many emerging market economies, compiling data for the consolidated general government and its subsectors is problematic owing to limitations in the availability and/or timeliness of source data. A country may have one central government; several state, provincial, or regional governments; and many local or municipal governments, and the GFSM 2014 recommends that statistics should be compiled for all such general government units. Where possible, and particularly among advanced and key emerging market economies, comparisons should be made using consolidated general government series.
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+Data can be disaggregated according to the components and aggregates of the GFS classification structure, for instance by types of revenue and types of government expenditure. 

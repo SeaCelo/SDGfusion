@@ -1,0 +1,30 @@
+Indicator 3.3.1: Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations
+Target 3.3: By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases
+Goal 3: Ensure healthy lives and promote well-being for all at all ages
+Definition and Rationale
+Definition:
+This indicator is defined as the number of new HIV infections per 1,000 uninfected population. 
+Concepts:
+Human Immunodeficiency Virus (HIV) is a virus that weakens the immune system, ultimately leading to Acquired Immune Deficiency Syndrome (AIDS). HIV destroys the body’s ability to fight off infection and disease, which can ultimately lead to death. Without treatment, median survival from the time of infection is about 10.5 years for males and 11.5 years for females. Access to treatment improves the health of the individual, increases survival to near normal life expectancies, and greatly reduces the chance of onward transmission. Treatment coverage has increased rapidly since the early 2000s but still varies by region. No vaccine is currently available. 
+Rationale and Interpretation:
+Monitoring the incidence rate of HIV provides a measure of progress toward achieving the target of reducing the number of new HIV infections. 
+Data Sources and Collection Method
+Teams of epidemiologist and HIV specialists in each country are responsible for producing the HIV estimates using comparable models. The models start with the most recent UN Popualtion Division estimates of population by age, sex and year. Programme data on the numbers of people receiving antiretroviral medicines are also entered into the model. The HIV surveillance data used in the model to estimate incidence vary depending on what data are available in the country; however the model primarily relies on HIV prevalence measures or case surveilance or mortality reports.   
+Measuring HIV infections directly requires conducting large household surveys each year and is a very challenging endevour(for example In countries with low prevalence the sample sizes would need to be well over 100,000 households). 
+Further information on the estimation model can be found at:
+http://www.unaids.org/en/dataanalysis/datatools/spectrum-epp or www.epidem.org
+Method of Computation and Other Methodological Considerations
+Computation Method:
+This indicator is calculated using the following formula for a given reporting period: 
+ ￼
+There are a number of direct methods of measuring incidence, including the two most common:
+(1)    Longitudinal follow-up of individuals who do not have HIV – This method involves repeated testing of a selected cohort of uninfected individuals to determine the proportion that has acquired infection over time; and
+(2)    Application of laboratory tests for recent HIV infection – This method involves using  laboratory tests to  distinguish  recent infections (i.e., from within the last year) from long-standing infections. 
+The first method is challenging because it will require following and testing a nationally-representative number of people regularly over time. The sample of individuals monitored would have to be large to allow for meaningful inference from the results. The second method has the potential to misclassify individuals as newly infected even though their infections have been longstanding due to limitations in the performance of currently available laboratory tests. In addition, a very large, nationally-representative sample of individuals  is required to calculate a meaningful value.  This is possible in some very high HIV burden countries although it is unlikely that conducting this large of a survey could be done on an annual basis. In addition, many people do not get tested regularly or after every possible exposure. 
+Given these challenges an indirect method based on mathematical modeling is currently used to estimate HIV incidence in most countries. Comparable modeled estimates of HIV incidence are available for countries representing 99% of the global population. Country teams produce the modelled estimates and national HIV programme managers approve  them before they are compiled and published by UNAIDS. 
+Comments and limitations:
+Global HIV surveillance experts have developed models to infer current and historical HIV incidence (see www.epidem.org for more details on these models).  For many countries, including the high HIV burden countries, data on HIV prevalence, direct measures of incidence from national population surveys, where available, and antiretroviral coverage are used to estimate HIV incidence. In other countries with robust case surveillance and vital registration systems, data on HIV diagnosis and cause-specific mortality are used to estimate incidence trends. Both methods have limitations as they rely on assumptions and model parameters to overcome challenges of sub-optimal data inputs. 
+Some nationally-representative household surveys are periodically measuring recent HIV infections directly.  These surveys require large sample sizes to accurately measure incidence. There are still some technical uncertainties on how to adjust for false positives among the samples identified as recent infections and these measures are typically not available annually.  
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+Disaggregation should be by age groups (0-14, 15-24, 15-49, 50+ years), place of residence, sex, mode of transmission (including mother-to-child transmission). A critical further disaggregation is by key populations (men who have sex with men, sex workers, people who inject drugs, transgender people, and prisoners) and within these groups by ages (< 25, 25+ years). 

@@ -1,0 +1,25 @@
+Indicator 9.c.1: Proportion of population covered by a mobile network, by technology
+Target 9.c: Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020
+Goal 9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation
+ 
+Definition and Rationale
+Definition:
+This indicator is defined as the percentage of inhabitants living within range of a mobile-cellular signal (2G, 3G or LTE), irrespective of whether or not they are mobile phone subscribers or users. 
+Concepts:
+2G population coverage refers to population with access only to mobile networks with data communications at downstream speeds below 256Kbit/s. This includes mobile-cellular technologies such as GPRS, CDMA2000 1x and most EDGE implementations. 
+3G population coverage refers to population with access to 3G mobile-cellular signals. This includes mobile-cellular technologies such as HSPA, UMTS and EV-DO. It excludes people covered only by GPRS, EDGE or CDMA 1xRTT. 
+LTE population coverage refers to population with access to LTE/LTE-Advanced, mobile WiMAX/WirelessMAN or other more advanced mobile-cellular networks. It excludes people covered only by HSPA, UMTS, EV-DO and previous 3G technologies, and also excludes fixed WiMAX coverage. 
+Rationale and Interpretation:
+Percentage of population covered by a mobile network can be considered as a baseline indicator for ICT access, as it measures the possibility to subscribe and use cellular services for communication. As mobile networks expand, more people have such subscription opportunities, thus overcoming basic infrastructure barriers exhibited by fixed-telephone (landline) networks. Disaggregation by technology (2G, 3G and LTE) offers proxy measures of access to different kinds of cellular services, such as voice only (for 2G) and increasingly high-speed access to the internet and other data-based services (for 3G and LTE). This indicator is, therefore, a direct insight into the level of digital divide prevalent in a country, and would help design targeted policies to overcome remaining infrastructure barriers. 
+Data Sources and Collection Method
+This data can be collected from licensed mobile-cellular operators. In cases where operators have different levels and locations of coverage, they should be requested to provide each operator’s coverage maps, which can be overlaid with maps showing the population of the country.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The percentage of inhabitants living within range of a mobile-cellular signal (2G, 3G or LTE) (Pmob) is calculated as: 
+￼
+Comments and limitations:
+The indicator is based on where the population lives, and not where they work or go to school, etc. When there are multiple operators offering the service, the maximum population number covered should be reported. 
+In some countries, data only refers to the operator with the largest coverage. In such cases, coverage could be understated. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+This indicator is required to be disaggregated by technology (2G, 3G and LTE). It can be disaggregated by location (rural/urban). 

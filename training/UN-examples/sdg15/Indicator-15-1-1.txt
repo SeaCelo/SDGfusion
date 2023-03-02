@@ -1,0 +1,24 @@
+Indicator 15.1.1: Forest area as a proportion of total land area
+Target 15.1: By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements 
+Goal 15: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
+Definition and Rationale
+Definition:
+This indicator is defined as the proportion of forest area of the total land area of a country. It is represented as a percentage. 
+Concepts:
+Forest  is defined as land spanning more than 0.5 hectares with trees higher than 5 meters and a canopy cover of more than 10 percent, or trees able to reach these thresholds in situ. It does not include land that is predominantly under agricultural or urban land use.  Additional detailed criteria are listed in FAO’s Forest Resource Assessment (FRA) 2020 Terms and Definitions Document available at: http://www.fao.org/3/I8661EN/i8661en.pdf. 
+Total land area refers to the total surface area of a country excluding the area covered by inland waters, such as major rivers and lakes. Total land area of the reference year 2015 is used. 
+Rationale and Interpretation:
+The availability of accurate data on a country's forest area is a key element for forest policy and planning within the context of sustainable development. Forest area as a proportion of total land area can provide a rough proxy for the extent to which the forests in a country are being conserved or restored.
+Data Sources and Collection Method
+Forest area data are typically collected through field inventories and/or remote sensing. Field inventories are based on statistical sampling or aggregation of data collected for management inventories. Remote sensing has often an important role in these efforts either as an auxiliary data source which can be used to improve the efficiency of the field inventories, or as an input allowing direct assessment of land cover and its changes. Comprehensive guidance on how to establish a national forest monitoring system can be found in http://www.fao.org/3/a-I6767e.pdf 
+Forest resources assessments are typically carried out by national forest authorities as part of statistical data collection activities of Ministry of Forestry, Agriculture or Environment or their combination.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The formula of the indicator is given as follows:
+￼
+Retrospective estimate can be applied if national borders have changed between reporting years. 
+Comments and limitations: 
+Assessment of forest area is carried out at infrequent intervals in many countries.  Although the increasing availability of remote sensing data has improved the possibilities for more frequent monitoring and reporting, the analysis of these data requires expertise and resources which may not be available. Furthermore, conversion of acquired land cover data to land use information as well as observing slow changes, such as forest regrowth, remain challenging. In addition, forest areas with low canopy cover densities (i.e. 10-30%) are difficult to detect and monitor with affordable remote sensing techniques. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+This indicator can be disaggregated by geographical regions, forest types, soil types, forest development class, dominant tree species or tree species groups, among other dimensions.

@@ -1,0 +1,37 @@
+Indicator 3.9.2: Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)
+Target 3.9: By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination
+Goal 3: Ensure healthy lives and promote well-being for all at all ages
+Definition and Rationale
+Definition:
+This indicator is defined as the number of deaths from unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe WASH services) in a year per 100,000 population. 
+Concepts:
+Deaths attributable to unsafe water, sanitation and hygiene (WASH) are counted using the WASH attributable fractions of diarrhoea (ICD-10 code A00, A01, A03, A04, A06-A09), intestinal nematode infections (ICD-10 code B76- B77, B79) and protein-energy malnutrition (ICD-10 code E40-E46). 
+Rationale and Interpretation:
+The number of deaths from unsafe water, sanitation and hygiene can be prevented by improving those services and practices. Therefore, measuring the number of deaths that can be attributed to unsafe WASH supports progress towards such prevention.
+Data Sources and Collection Method
+Data of the proportion of the population using safely managed drinking water services, safely managed sanitation services and having a handwashing facility with soap and water at home is compiled on an annual basis from country-representative household surveys (such as MICS and DHS) through the JMP and can be accessed from their website: https://washdata.org/ 
+Increased risk of exposure to unsafe WASH is estimated from a) systematically reviewing the scientific evidence of health effects from unsafe WASH, and b) statistical techniques, such as meta-analysis, to derive a combined or pooled estimate of the associated health effect. These estimates are also updated regularly and the latest updates can be found here: https://onlinelibrary.wiley.com/doi/abs/10.1111/tmi.13051 
+Most recent disease-specific national mortality figures can be downloaded from the website of the WHO Global Health Observatory’s (GHO) website: http://www.who.int/healthinfo/global_burden_disease/estimates/en/
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The mortality from unsafe water, unsafe sanitation and lack of hygiene, , can be calculated by the formula:
+      ￼
+The numerator could be estimated using an approach that calculates the population attributable fraction (PAF), which is the proportional reduction of deaths or disease that would occur if exposure to a risk was removed or reduced to an alternative exposure distribution. The calculation of the PAF involves the following steps:
+(1) Measuring how widespread the exposure is in the population (Pi)
+(2) Measuring the increased (or relative) risk of a disease resulting from the exposure (RRi)
+(3) Applying the fraction obtained by (1) and (2) to the total burden of disease
+For the simplest case when the exposure is categorical (grouped) and exposure is completely removed or compared with an unexposed population, the PAF can be calculated as:                                                                                                                                                                     
+￼
+The PAF is then multiplied with the total disease burden (here mortality) to calculate the attributable mortality (such as the “Number of deaths from unsafe WASH” used in formula (I)).
+For different situations, i.e. the exposure is continuous or it is not completely removed, formula (II) needs to be adapted. This can be found in the following report on page 120 (Annex 3): http://apps.who.int/iris/bitstream/handle/10665/204585/9789241565196_eng.pdf?sequence=1
+Further detailed description of the statistical techniques and models that could be used for estimating the numerator can be found at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156511/
+Comments and limitations:
+The main limitation is that not all countries have death registration systems, and survey registration data need to be completed with other types of information. Also, both exposure assessment and estimation of the increased (relative) risk from the specific exposure involves different degrees of uncertainties which leads to uncertainties in the resulting PAFs.
+Proxy, alternative and additional indicators:
+Exposure to unsafe WASH and the increased (or relative) risk from this exposure can be estimated by using three proxy indicators:
+	1.	the proportion of the population using safely managed drinking water services
+	2.	the proportion of the population using safely managed sanitation services
+	3.	the proportion of the population with handwashing facilities with soap and water at home.
+Safely managed drinking water services are defined as drinking water from an improved water source which is located on premises, available when needed and free from faecal and priority chemical contamination. Safely managed sanitation services are defined as use of improved facilities which are not shared with other households and where excreta are safely disposed in situ or transported and treated off-site. For a list of improved water and sanitation services and more detailed information please refer to the website of the WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP): https://washdata.org/
+Data Disaggregation
+This indicator can be disaggregated by geographic location, age group, sex and income groups (wealth quintiles). 

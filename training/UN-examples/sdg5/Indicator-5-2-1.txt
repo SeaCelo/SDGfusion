@@ -1,0 +1,34 @@
+Indicator 5.2.1: Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age
+Target 5.2: Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation
+Goal 5: Achieve gender equality and empower all women and girls
+Definition and Rationale
+Definition:
+This indicator is defined as the percentage of ever-partnered women and girls aged 15 years and above who have experienced physical, sexual or psychological violence by a current or former intimate partner, in the past 12 months. 
+Concepts:
+Physical violence consists of acts aimed at physically hurting the victim. 
+Sexual violence is defined as any sort of harmful or unwanted sexual behaviour that is imposed on someone. 
+Psychological violence includes a range of behaviours that encompass acts of emotional abuse and. 
+Intimate partner refers to a current or former partner within the context of marriage, cohabitation or any other formal or informal union. 
+More detailed definitions and behaviours that can be attributed to each of the three aforementioned forms of violence can be found in the Guidelines for Producing Statistics on Violence against Women – Statistical Surveys (UN, 2014). 
+Rationale and Interpretation:
+Violence against women and girls is the most common form of gender-based violence. This indicator provides prevalence data that is required to measure the magnitude of this problem, understand the various forms of violence and their consequences, identify high-risk groups, explore the barriers to seeking help, and ensure that appropriate responses are being provided. Tracking this indicator over time allows for monitoring change and assess the effectiveness of interventions.
+Data Sources and Collection Method
+The primary source of data for this indicator are specialized national surveys dedicated to measuring violence against women, and international household surveys that include a module on experience of violence by women such as the Demographic and Health Survey (DHS). For further information on data sources and collection methods, see: UN Guidelines for Producing Statistics on Violence Against Women – Statistical Surveys (UN, 2014). The module should be administered to all ever-partnered women and not only to currently partnered women. 
+It is to be noted that, though, administrative data from health, police, courts, justice and social services etc. used by survivors of violence, can provide valuable information about service use, this incidence data is insufficient for producing prevalence data. 
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The percentage of ever-partnered women and girls of age group a who experienced one or more types of violence (Pv,a) in the past 12 months can be calculated using the following formula: 
+￼
+where,
+Wv,a is the number of ever-partnered women of age group a who experienced one or more types of violence in the past 12 months;
+WTotal is the total number of ever-partnered women of age group a in the country; and
+v denotes the combination of one or more type of violence experienced by the women. 
+This indicator should be computed separately for (v) physical violence only, sexual violence only, psychological violence only, any form of physical and/or sexual violence, and any form of physical, sexual and/or psychological violence. 
+Comments and limitations:
+The availability of comparable data remains a challenge in this area due to differences in survey methodologies, different definitions of partner or spousal violence and of the different forms of violence, different survey question formulations, and different age groups. Willingness to discuss experiences of violence and understanding of relevant concepts may also differ according to the cultural context, and may lead to under-reporting of prevalence levels. 
+Gathering data on violence against women is costly and time-consuming, whether they are collected using dedicated surveys or through added modules of existing household surveys. Furthermore, prevelance is unlikely to change in the short term without major investments at all levels across sectors. Therefore, the periodicity of this indicator need not be every 5 years, or even more, if financial resources are unvailable. 
+Surveys on violence against women require particular attention to safety and ethical dimensions, including ensuring all interviews are conducted in privacy, the data is treated confidentially and that women provide their informed consent. For more detailed information see Putting women first. Ethical and safety recommendations for research on domestic violence against women (WHO, 2001) 
+Proxy, alternative and additional indicators:
+The percentage of women 15-49 who have experienced physical and/or sexual violence by a current or former intimate partner, in the past 12 months can be a proxy indicator. This is because comparable data are currently only available for a subset of girls and women aged 15 to 49 years and the fact that there is no agreement on a standard operational definition for psychological violence. The proxy indicator, for which comparable data are available, is being used while the SDG indicator’s definition is being operationalized. 
+Data Disaggregation
+This indicator is required to be disaggregated by the type of violence and age. It can also be disaggregated by income/wealth, education, ethnicity (including indigenous status), disability status, geographic location and frequency of violence.

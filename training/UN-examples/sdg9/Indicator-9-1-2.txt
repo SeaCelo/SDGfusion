@@ -1,0 +1,28 @@
+Indicator 9.1.2: Passenger and freight volumes, by mode of transport
+Target 9.1: Develop quality, reliable, sustainable and resilient infrastructure, including regional and trans-border infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all
+Goal 9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation
+Definition and Rationale
+Definition:
+This indicator is defined as the sum of the passenger and freight volumes reported for road, rail and air carriers in terms of number of people and metric tonnes of cargo respectively. These are reported as separate series for each mode of transport and for passenger and freight volume.  
+Concepts:
+The International Civil Aviation Organization (ICAO) through its Statistics Division have established standard methodologies and definitions to collect and report traffic (passenger and freight volume) data related to air transport. These standards and methodologies have been adopted by the 191 Member States of ICAO and also by the Industry stakeholders, i.e. air carriers and airports. The precise definition o fall concepts and metadata related to air transport reporting can be found at
+http://www.icao.int/sustainability/pages/eap-sta-excel.aspx/ 
+The International Transport Forum (ITF) collects data on transport (rail and road) statistics on annual basis from all its Member countries. Data are collected from Transport Ministries, statistical offices and other institution designated as official data source. Although there are clear definitions for all the terms used in this survey, countries might have different methodologies to calculate tonne-kilometres and passenger-kilometres. Methods could be based on traffic or mobility surveys, use very different sampling methods and estimating techniques which could affect the comparability of their statistics. 
+Rationale and Interpretation:
+Passenger and freight volumes moved by member states and regions is a robust proxy for measuring regional and trans-border infrastructure development. Any increases in volumes can be directly associated with improvements in such infrastructure, and resulting socio-economic benefits. 
+Air transport is particularly important not only for the economic and job benefits, but also because it is one of the few modes of transport that could be relied upon during emergencies, such as natural disasters and disease outbreaks, for food, medicine, medical personnel, vaccine and other supplies to the affected areas and people. 
+Data Sources and Collection Method
+Data are collected from Transport Ministries, statistical offices and other institution designated as official data source. Although there are clear definitions for all the terms used in this survey, countries might have different methodologies to calculate tonne-kilometres and passenger-kilometres. Methods could be based on traffic or mobility surveys, use very different sampling methods and estimating techniques which could affect the comparability of their statistics. 
+Method of Computation and Other Methodological Considerations
+Computation Method:
+This indicator consists of six components (sum of the volume for respective components):
+(1) Freight volume (tonne kilometres), by road transport;
+(2) Passenger volume (passenger kilometres), by road transport;
+(3) Freight volume (tonne kilometres), by rail transport;
+(4) Passenger volume (passenger kilometres), by rail transport;
+(5) Freight volume (tonne kilometres), by air transport; and
+(6) Passenger volume (passenger kilometres), by air transport. 
+Comments and limitations: N/A 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+This indicator is required to be disaggregated by mode of transport (road, rail and train).

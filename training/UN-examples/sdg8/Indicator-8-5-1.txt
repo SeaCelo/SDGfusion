@@ -1,0 +1,34 @@
+Indicator 8.5.1: Average hourly earnings of female and male employees, by occupation, age and persons with disabilities
+Target 8.5: By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value
+Goal 8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
+Definition and Rationale
+Definition:
+This indicator is defined as the mean hourly earnings of employees from paid employment, disaggregated by sex, occupation, age and disability status. 
+Concepts:
+Earnings refer to the gross remuneration in cash or in kind paid to employed persons, as a rule at regular intervals, for time worked or work done, along with remuneration for time not worked (i.e. annual vacation, paid time off or holidays). Earnings exclude employers’ contributions towards social security and pension schemes or any benefits received by employees under these schemes. 
+Employees are those persons in employment holding the type of job defined as paid employment jobs (jobs where the incumbents hold explicit or implicit employment contracts which give them a basic remuneration not directly dependent upon the revenue of the unit for which they work). Employment comprises all persons of working age who during a short reference period (one week), were engaged in any activity to produce goods or provide services for pay or profit. The working-age population is usually defined as persons aged 15 and above. 
+Rationale and Interpretation:
+Earnings are a key aspect of quality of productive employment and living conditions. Information on hourly earnings disaggregated by various classifications (sex, age, occupation, disability status) provides some indication of the extent to which pay equality is respected or achieved.
+Data Sources and Collection Method
+There are several sources for earnings data. Establishment surveys conducted by the national statistical offices are generally the most reliable due to the high level of accuracy of earnings figures derived from the payroll. This is why establishment surveys are the preferred source of earnings statistics. However, the scope of data is limited to the coverage of the survey, which often excludes smaller establishments, agricultural establishments and the informal sector. 
+Household labour force surveys, or other surveys with an employment module can provide earnings statistics covering all economic activities, establishment types and sizes. But the quality of data is very dependent on the accuracy of respondents’ answers. 
+Earnings data can also be derived from a variety of administrative records. The quality of the data would depend on the robustness of methods underlying the registration processes, and the record’s coverage and scope.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+Average hourly earnings of employees (AHEx,i)  can be calculated using the following formula:
+￼
+Where,
+x is the relevant employee group such as, total,  men, women, in different age grounds or person with disabilities etc.; and
+i is the  relevant industry.
+Or 
+￼
+This indicator’s disaggregation is used to calculate the gender pay gap (GPG) as follows: 
+￼
+Where AHEmen and AHEwomen are the average hourly earnings of men and women respectively in a given country. 
+Comments and limitations:
+Statistics on earnings can come from a variety of sources, including establishment surveys, household surveys and administrative records, each type of source having a specific coverage, scope and characteristics. This makes international comparability difficult. 
+The use of non-standard definitions and the heterogeneity of operational criteria applied further hamper cross-country comparisons. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+This indicator is required to be disaggregated by sex, occupation, age and disability status.
+It may be useful to also disaggregate it by region, economic activity and level of educational attainment.

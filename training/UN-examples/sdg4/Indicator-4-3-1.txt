@@ -1,0 +1,32 @@
+Indicator 4.3.1: Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex
+Target 4.3: By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university
+Goal 4: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
+Definition and Rationale
+Definition:
+This indicator is defined as the percentage of youth and adults in a given age range (e.g. 15-24 years, 25-64 years, etc.) participating in formal or non-formal education or training in a given time period (e.g. last 12 months) 
+Concepts:
+Formal education and training is defined as education provided by the system of schools, colleges, universities and other formal educational institutions that normally constitutes a continuous ‘ladder’ of full-time education for children and young people, generally beginning at the age of 5 to 7 and continuing to up to 20 or 25 years old. In some countries, the upper parts of this ‘ladder’ are organized programmes of joint part-time employment and part-time participation in the regular school and university system. 
+Non-formal education and training is defined as any organized and sustained learning activities that do not correspond exactly to the above definition of formal education. Non-formal education may therefore take place both within and outside educational institutions and cater to people of all ages. Depending on national contexts, it may cover educational programmes to impart adult literacy, life-skills, work-skills, and general culture. 
+Rationale and Interpretation:
+This indicator shows the level of participation of youth and adults in education and training of all types, as a representation of access to affordable and quality training. 
+A high value indicates a large share of the population in the relevant age group has access to and takes part  in formal and non-formal education and training.
+Data Sources and Collection Method
+This indicator can be calculated using administrative data from schools and other places of education and training or data from household or other sample surveys on participants in formal and non-formal education and training by single year of age or broader age groups (e.g. 5- or 10-year age groups); population censuses and surveys are sources for population estimates by single year of age or age group (if using administrative data on participation). Ministries of Education or National Statistical Offices are typical sources of such data. 
+Eurostat’s Adult Education Survey (AES) and OECD’s Survey of Adult Skills in its Programme for the International Assessment of Adult Competencies (PIAAC) both of which are household surveys are good sources of data for this indicator. Eurostat’s Continuing Vocational Training Survey (CVTS) collects data on participation in work-related education and training from enterprises. 
+Labour Force Surveys (LFS) can also serve as a source of data for participation in education and training though often the reference period in which participation should be reported is four weeks rather than 12 months. 
+More work is being undertaken to review existing national household surveys to see if they can be suitable sources for this indicator. A possible module for inclusion in national sample surveys is being developed by the Working Group on Indicator Development of UNESCO’s Technical Cooperation Group on SDG-Education 2030 Indicators. 
+National authorities who are already developing new surveys or modules to collect these data can refer to use Eurostat’s Adult Education Survey or the OECD’s Survey of Adult Skills as possible templates.
+Method of Computation and Other Methodological Considerations
+Computation Method: 
+This indicator is calculated by dividing the total number of people in a given age group, a, who participated in formal and non-formal education and training in the given reference period by the population of the same age group and multiplying the result by 100. 
+The participation rate,   of the age group a in year t, is calculated as follows: 
+￼
+where
+   ￼   is the number of people in age group a who participated in formal and non-formal education and training in the given reference period in year t 
+    ￼ is the population in age group a in year t 
+Comments and limitations:
+Formal and non-formal education and training can be offered in a variety of settings including schools and universities, workplace environments and others, and can have a variety of durations. Administrative data often capture only provision in formal settings such as schools and universities. Participation rates do not capture the intensity or quality of the provision nor the outcomes of the education and training on offer. 
+Proxy, alternative and additional indicators:
+Although the preferred reference period for this indicator is education and training undertaken in a 12-month period, many surveys are available which capture data for a shorter period. Such sources, suitably footnoted, may be used where the preferred indicator is not available.
+Data Disaggregation
+This indicator is required to be disaggregated by sex. It can be also disaggregated by age, location, income and disability status. It may also be disaggregated by type of education or training.

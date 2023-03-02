@@ -1,0 +1,39 @@
+Indicator 8.1.1: Annual growth rate of real GDP per capita
+Target 8.1: Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries
+Goal 8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all 
+Definition and Rationale
+Definition:
+This indicator is defined as the percentage change in the real GDP per capita between two consecutive years. 
+Concepts:
+GDP is the measure of the monetary value of final goods and services which are produced in an economic territory/country in a given time period.  It is calculated without making deductions for depreciation of produced assets or for depletion and degradation of natural resources. It can be measured either by:
+(1)    The expenditure method – the sum of expenditures on final consumption, gross capital formation and net exports; or
+(2)    The production method – the value of final outputs minus any intermediate consumption, plus the net taxes (taxes minus subsidies); or
+(3)    The income approach – the sum of compensation of employees, gross operating surplus, gross mixed incomes and the net taxes on both production and imports. 
+Real GDP is GDP adjusted for price changes using the ratio of prices in the current year to the prices in a given base year. 
+Real GDP per capita is real GDP dividing by the population of a country. 
+The population of a country may comprise either all usual residents of the country or all persons present in the country at the time of a population census. 
+Rationale and Interpretation:
+Measuring the annual growth rate of real GDP per capita allows for directly tracking target 8.1. It also serves as a proxy for the average standard of living of residents in a country. 
+A positive percentage change in annual real GDP per capita can be interpreted as an increase in the average standard of living of the residents in a country.
+Data Sources and Collection Method
+GDP is calculated as part of the compilation of the national accounts data of a country.  The national accounts and population data for a country are generally compiled by the statistical authorities of a country (Statistical Office, Central Bank, relevant Ministries etc.) The underlying data for compiling the national accounts and GDP, can come from either statistical surveys or administrative sources. The survey method collects data using nationally representative business/enterprise surveys, household budget surveys and consumer price surveys etc. Administrative data sources are government expenditures and revenues, tax declarations, balance of payments, vehicle registration, employment data etc. The international statistical standard for compiling the national accounts of a country is the System of National Accounts 2008 (2008 SNA), which provides detailed guidance on the calculation of the GDP, see: https://unstats.un.org/unsd/nationalaccount/sna2008.asp. Additional guidance is also provided in the following publications: National Accounts: A practical introduction, see: https://unstats.un.org/unsd/publication/SeriesF/seriesF_85.pdf 
+Understanding National Accounts, see: http://www.oecd.org/sdd/UNA-2014.pdf 
+Essential SNA: Building the basics, see: http://ec.europa.eu/eurostat/documents/3859598/5937349/KS-GQ-14-008-EN.PDF/dead3c43-51bb-4833-b4c5-f2f0d951bc52 
+Population statistics are obtained from censuses and demographic surveys. The Principles and Recommendations for Population and Housing Censuses provide international principles and recommendations for conducting population censuses, see: https://unstats.un.org/unsd/publication/seriesM/Series_M67rev3en.pdf . 
+The publication World Population Prospects The 2017 Revision, Methodology of the United Nations Population Estimates and Projections provides guidance on population estimates, see: https://esa.un.org/unpd/wpp/Publications/Files/WPP2017_Methodology.pdf
+Method of Computation and Other Methodological Considerations
+Computation Method:
+In order to calculate the annual growth rate of real GDP per capita the following steps need to be taken: 
+Step 1: Divide the real GDP for year t and t+1 with the total population of the country in the respective years to get the real GDP per capita for the two consecutive years. 
+￼
+where,
+Gt is the real GDP per capita for the year t; and
+Gt+1 is the real GDP per capita for the year t+1. 
+Step 2:The annual growth rate of real GDP per capita is then calculated as follows:  
+￼
+Comments and limitations:
+Although countries or areas calculate GDP using the common principles and recommendations in the United Nations System of National Accounts (SNA), there are still issues with the international comparability of GDP estimates due to countries potentially using different versions of the SNA (e.g. 1968, 1993, or 2008) or different degrees of coverage of informal and non-observed economic activities in the GDP estimates. 
+A frequently cited limitation of GDP is that it does not account for the social and environmental costs of production. It is, however, designated as a measure of the level of overall well-being. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+It is possible to disaggregate the country data by region, economic sectors, if the underlying regional data is available and are consistent with the national accounts. 

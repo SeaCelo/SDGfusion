@@ -1,0 +1,34 @@
+Indicator 14.5.1: Coverage of protected areas in relation to marine areas
+Target 14.5: By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information
+Goal 14: Conserve and sustainably use the oceans, seas and marine resources for sustainable development
+Definition and Rationale
+Definition:
+This indicator measures the average proportion of each marine Key Biodiversity Area that has been designated as a protected area. 
+Concepts:
+Key Biodiversity Areas (KBAs) are sites contributing significantly to the global persistence of biodiversity and are identified following globally standard criteria for the identification of KBAs (IUCN 2016) applied at national levels. 
+Marine areas, also known as territorial seas, are defined by the 1982 United Nations Convention on the Law of the Sea as belts of coastal waters extending at most twelve nautical miles from the baseline (usually the mean low-water mark) of a coastal state. 
+Protected areas are clearly defined geographical spaces, recognized, dedicated and managed, through legal or other effective means, to achieve the long-term conservation of nature with associated ecosystem services and cultural values. 
+The status "designated" is attributed to a protected area when the corresponding authority, according to national legislation or common practice (e.g., by means of an executive decree or the like), officially endorses a document of designation. The designation must be made for biodiversity conservation, not de facto protection arising because of some other activity (e.g., military). 
+Marine KBAs are defined as those with at least 5% of their area overlapping the sea, as defined through a spatial analysis. 
+Rationale and Interpretation:
+The safeguard of important sites is vital for stemming the decline in biodiversity and ensuring long term and sustainable use of marine natural resources. The establishment of protected areas is an important mechanism for achieving this aim, and this indicator serves as a means of measuring progress toward the conservation, restoration and sustainable use of marine ecosystems and their services, in line with obligations under international agreements. Importantly, while it can be disaggregated to report on any given single ecosystem of interest, it is not restricted to any single ecosystem type. 
+This indicator adds meaningful information to, complements, and builds from traditionally reported simple statistics of marine area covered by protected areas, computed by dividing the total protected area within a country by the total territorial area of the country and multiplying by 100 (e.g., Chape et al. 2005). It provides a useful measure of whether protected areas are located to cover areas of particular importance for biodiversity.
+Data Sources and Collection Method
+Protected area data are available through the administrative records of ministries of environment and other ministries responsible for the designation and maintenance of protected areas. Protected Areas data for sites designated under the Ramsar Convention and the UNESCO World Heritage Convention are collected through the relevant convention international secretariats. Protected area data are also aggregated globally into the World Database on Protected Areas by the UN Environment World Conservation Monitoring Centre, according to the mandate for production of the United Nations List of Protected Areas (Deguignet et al. 2014). They are disseminated through Protected Planet, which is jointly managed by UNEP-WCMC and IUCN and its World Commission on Protected Areas (UNEP-WCMC 2016).
+KBAs are identified at national scales through multi-stakeholder processes, following standard criteria and thresholds. KBAs data are aggregated into the World Database on Key Biodiversity Areas and managed by BirdLife International on behalf of the KBA Partnership.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+This indicator is calculated from data derived from a spatial overlap between digital polygons, using Geographic Information Systems (GIS), for protected areas from the World Database on Protected Areas (WDPA - available at www.protectedplanet.net) and digital polygons for marine KBAs (from the World Database of Key Biodiversity Areas, including Important Bird and Biodiversity Areas, Alliance for Zero Extinction sites, and other KBAs; available at www.keybiodiversityareas.org). 
+The value of the indicator at time t is calculated as the proportion of each marine KBA covered by protected areas at time t, averaged across all KBAs, as shown in the formula below: 
+￼
+The UN List of Protected Areas is produced every 5-10 years, and, in the intervening period between compilations of the UN Lists, the WDPA is continually updated as new data become available and released monthly. Based on the latest version of the WDPA, the annual value of the indicator is computed as the mean percentage of each KBA that is covered by protected areas for that year. 
+The coverage of each KBA by protected areas is calculated using all the nationally designated protected areas recorded in WDPA whose location and extent is known. Protected areas with unknown location and/or extent are excluded from the data compilation. Where no new data are received for a country/territory during a year, protected area coverage is assumed to be equal to the previous year. 
+Comments and limitations:
+The indicator does not measure the effectiveness of protected areas in reducing biodiversity loss, which ultimately depends on a range of management and enforcement factors not covered by the indicator. 
+Future developments of the indicator will include:
+(1)    An expansion of the taxonomic coverage of marine Key Biodiversity Areas through application of the Key Biodiversity Areas standard (IUCN 2016) to a wide variety of marine vertebrates, invertebrates, plants and ecosystem type;
+(2)    Improvements in the data on protected areas by continuing to increase the proportion of sites with documented dates of designation and with digitised boundary polygons (rather than coordinates); and
+(3)    Further exploration of other methods for assessing and presenting temporal trends in protected area coverage. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+These data can be disaggregated at national and regional scales.

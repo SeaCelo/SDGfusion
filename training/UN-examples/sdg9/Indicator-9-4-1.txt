@@ -1,0 +1,41 @@
+Indicator 9.4.1: CO2 emissions per unit of value added
+Target 9.4: By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities
+Goal 9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation
+Definition and Rationale
+Definition:
+This indicator is defined as the ratio between CO­2 emissions from fuel combustion and the value added of associated economic activities. It can be calculated either for the whole economy (GDP) or for particular sectors such as manufacturing (manufacturing value added). 
+CO­2 emissions per unit of GDP is expressed in kilogrammes of CO­2 per USD (in constant prices). 
+Concepts:
+Gross value added is a productivity metric that measures contributions to the economy. It is calculated using the system of national accounts (SNA 2008) as the sum of all employee compensation, gross operating surplus of government and corporations, gross mixed income of unincorporated enterprises and taxes, minus any subsidies on production and imports, except for net taxes on products. 
+CO­2 emissions for an economy are estimated based on energy consumption data for all sectors. For the manufacturing sector, the following subsectors are considered beyond the total manufacturing sector (energy used for transport by industry is reported under transport):
+(1)    Iron and steel industry [ISIC Group 241 and Class 2431];
+(2)    Chemical and petrochemical industry [ISIC Divisions 20 and 21] excluding petrochemical feedstocks;
+(3)    Non-ferrous metals basic industries [ISIC Group 242 and Class 2432];
+(4)    Non-metallic minerals such as glass, ceramic, cement, etc. [ISIC Division 23];
+(5)    Transport equipment [ISIC Divisions 29 and 30];
+(6)    Machinery comprises fabricated metal products, machinery and equipment other than transport equipment [ISIC Divisions 25 to 28];
+(7)    Food and tobacco [ISIC Divisions 10 to 12];
+(8)    Paper, pulp and printing [ISIC Divisions 17 and 18];
+(9)    Wood and wood products (other than pulp and paper) [ISIC Division 16];
+(10) Textile and leather [ISIC Divisions 13 to 15]; and
+(11) Non-specified (any manufacturing industry not included above) [ISIC Divisions 22, 31 and 32] 
+Rationale and Interpretation:
+This indicator measures the amount of CO2 emissions from fuel consumption produced by an economic activity, per unit of economic output. When computed for the whole economy, it is a measure of the combines effects of: (1) the average carbon intensity of the energy mix (linked to the shares of the various fossil fuels in the total); (2) the structure of an economy (linked to the relative weight of more or less energy-intensive sectors); and (3) of the average efficiency in the use of energy. 
+When computed for the manufacturing sector (CO2 emissions per unit MVA), it measures the combined effect of: (1) the carbon intensity of the manufacturing economic output (average carbon intensity of energy mix used); (2) the structure of the manufacturing sector (the energy efficiency of production technologies in each sub-sector); and (3) the economic value of the various output. 
+Manufacturing industries are generally improving their emission intensity as countries move to higher levels of industrialization, but it should be noted that emission intensities can also be reduced through structural changes and product diversification in manufacturing. Lower values of CO2 per unit MVA could be interpreted as more efficient manufacturing structures. 
+CO2 emissions account for roughly 80% of all greenhouse gas emissions from the manufacturing processes. 
+Data Sources and Collection Method
+Countries estimate CO2 emissions from fuel combustion based on energy consumption data and on the IPCC Guidelines for Greenhous Gas Inventories. Energy consumption data by fuel are collected through national surveys across consumption sectors as a part of national energy statistics.
+Energy data are compiled according to harmonised international definitions and questionnaires, as described in the UN International Recommendations for Energy Statistics. For further information, see: https://unstats.un.org/unsd/energy/ires/ 
+For further information on methodology on this indicator, see: http://wds.iea.org/wds/pdf/Worldco2_Documentation.pdf 
+Method of Computation and Other Methodological Considerations
+Computation Method:
+This indicator can be calculated using the following formula for each sector: 
+￼
+This indicator can be calculated for each sector. 
+Comments and limitations:
+Estimation of CO2 data is not systematized in many countries, although it is performed internationally based on harmonized energy data collected at the national level. There are possibilities of differences in different energy accounting systems followed by different countries. 
+Energy consumption data and value-added date often come from different sources, which may raise some consistency issues. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+This indicator is not required to be disaggregated. However, it can be disaggregated by manufacturing sub-sector. 

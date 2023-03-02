@@ -1,0 +1,36 @@
+Indicator 4.5.1: Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated
+Target 4.5: By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations
+Goal 4: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
+Definition and Rationale
+Definition:
+This indicator is defined as the ratio of the value of the underlying indicator (e.g. 4.1.1) for one sub-group to that of another. Typically, the value for the likely more disadvantaged group is the numerator. A value of exactly 1 indicates parity between the two groups although, for analytical purposes, values between 0.97 and 1.03 are typically assumed to be at parity. 
+Parity indices can be calculated for the following SDG 4 global indicators:
+	•	4.1.1
+	•	4.2.1
+	•	4.2.2
+	•	4.3.1
+	•	4.4.1
+	•	4.6.1
+	•	4.c.1 
+Concepts:
+See metadata for relevant underlying indicator. 
+Rationale and Interpretation:
+Parity indices are used to measure relative disparity between two sub-populations of interest with regard to a given indicator.
+In the context of this indicator, the indices highlight the relative differences between two population sub-groups of interest. For example, a parity index for indicator 4.4.1, could provide insights into the differences between men and women (or any other dimension of interest) in ICT skills. 
+The further from the range 0.97 and 1.03 the parity index lies, the greater the disparity between the two groups of interest.
+Data Sources and Collection Method
+Data source is the same as the underlying indicator for which this parity measure is being calculated.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+This indicator can be calculated by dividing a given indicator for the dimension of interest (sex, wealth, location, etc.) for the likely more disadvantaged group (female, poorest quintile, rural, etc.), INDi,d, by the value for the likely more advantaged group (male, richest quintile, urban, etc.), INDi,a. 
+The parity index for a given dimension (sex, wealth, location, etc.), DPI, for any indicator is given as follows: 
+￼
+where 
+INDit is the Education 2030 (SDG 4) indicator i for which an equity measure is needed;
+d is the likely more disadvantaged group (eg. female, poorest, rural, etc.); and
+a is the likely more advantaged group (eg. male, richest, urban, etc.). 
+Comments and limitations:
+The indicator can be adjusted to be symmetrical about 1 and limited to a range between 0 and 2 through a simple transformation by inverting ratios that exceed 1 and subtracting them from 2. 
+Proxy, alternative and additional indicators: N/A
+Data Disaggregation
+Parity indices can be calculated for any sub-group of interest for which sufficient data are available taking account of sample sizes and standard errors. 

@@ -1,0 +1,27 @@
+Indicator 16.2.1: Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month
+Target 16.2: End abuse, exploitation, trafficking and all forms of violence against and torture of children
+Goal 16: Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
+Definition and Rationale
+Definition:
+This indicator is defined as the percentage of children aged 1-17 years who experienced any physical punishment or psychological aggression or both by caregivers in the past month. 
+Concepts:
+Psychological aggression refers to the actions of shouting, yelling or screaming at a child, and calling a child offensive names such as ‘dumb’ or ‘lazy’. 
+Physical or corporal punishment are actions intended to cause physical pain or discomfort, but not injuries. They include – shaking the child, hitting or slapping on the hand/arm/leg, hitting on the bottom or elsewhere on the body with a hard object, spanking or hitting on the bottom with bare hands, hitting or slapping on the face, head or ears, and repeated rough beating.  
+Rationale and Interpretation:
+The use of violent (physical or verbal) disciplining techniques are a violation of children’s rights, and can result in immediate effects and long-term consequences that children carry well into adulthood. It is the most widespread and socially accepted type of violence against children.  
+Data Sources and Collection Method
+Data for this indicator is collected through nationally representative household surveys that include a module on violence against children which are conducted by national statistical offices. Internationally coordinated household surveys such as the Multiple Indicator Cluster Survey (MICS) and the Demographic and Health Survey (DHS) also collect this data in low and middle-income countries.
+Method of Computation and Other Methodological Considerations
+Computation Method:
+The percentage of children aged 1-17 years who experienced any physical punishment or psychological aggression or both by caregivers in the past month (PCV) is calculated as: 
+￼
+where,
+Nvio is the number of children aged 1-17 years who experienced any physical and/or psychological aggression by caregivers in the past month; and
+Ntotal is the total number of children aged 1-17 years. 
+Comments and limitations:
+The Parent-Child version of the Conflict Tactics Scale (CTSPC) is a standardized and validated measurement tool that is widely accepted and implemented, for assessing violence against children. 
+General comment no. 13 on the Convention of the Rights of the Child (CRC) provides a definition for ‘corporal/physical’ punishment as well as ‘mental violence’. 
+Proxy, alternative and additional indicators:
+At the global level, this indicator is currently being measured by the Proportion of children aged 1-14 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month.
+Data Disaggregation
+The indicator can be disaggregated by sex, age, income, place of residence (rural/urban) and geographic location. In addition to these standard levels of disaggregation, this indicator can be usefully disaggregated in some surveys by mother’s level of education, ethnicity, religion, child functional difficulty and mother’s functional difficulties.
