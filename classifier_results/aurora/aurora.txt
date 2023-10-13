@@ -1,0 +1,18 @@
+
+Aurora: 
+
+API is here: https://aurora-universities.eu/sdg-research/sdg-api/
+
+Conda env: aurora
+status: Receiving an error: 502 Bad Gateway
+
+
+
+SDG BERT - Multi-language Multi-label BERT model for classifying texts to Sustainable Development Goals (SDGs) based on Aurora SDG Query Model v5
+
+Links:
+https://zenodo.org/record/7304547  (2Gb tensorflow model download .h5 file)
+Overview: https://sites.google.com/vu.nl/sdg-survey-analysis-results
+ 
+Running tensorflow models: https://www.youtube.com/watch?v=JATSzuL5CGI
+

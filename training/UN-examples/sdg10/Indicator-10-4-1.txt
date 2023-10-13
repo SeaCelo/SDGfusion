@@ -1,25 +1,0 @@
-Indicator 10.4.1: Labour share of GDP, comprising wages and social protection transfers 
-Target 10.4: Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality
-Goal 10: Reduce inequality within and among countries
-Definition and Rationale
-Definition:
-This indicator is defined as the total compensation of all employees within a country as a share of its GDP. 
-Concepts:
-Compensation of employees is the total in-cash or in-kind remuneration payable to the employee by the enterprise for the work performed by the employee during the accounting period. It includes wages and salaries (in cash or in kind) and social insurance contributions payable by employers. Any unpaid or volunteer work is counted as zero compensation for the purposes of this indicator. Moreover, it does not include taxes payable by employers on the wage and salary bill, such as payroll tax. 
-Gross domestic product (GDP) is the measure of the monetary value of final goods and services that are bought by the final user, which are produced in an economic territory/country in a given time.  It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. It can be measured either by:
-(1)    The expenditure method – the sum of expenditures on final consumption, gross capital formation and net exports; or (2)    The production method – the value of final outputs minus any intermediate consumption, plus the net taxes (taxes minus subsidies); or (3)    The income approach – the sum of compensation of employees, gross operating surplus, gross mixed incomes and the net taxes on both production and imports. 
-Employees are all individuals who hold explicit or implicit employment contracts, based on which they receive basic remuneration not directly dependent on the revenue of the firm for which they work. This indicator does not include the labour income of self-employed workers. 
-Rationale and Interpretation:
-This indicator measures the relative share of GDP which accrues to employees as compared to the share which accrues to capital in any given year. It reflects the extent to which economic growth translates into higher incomes for employees over time. Increased production and GDP often lead to improved living standards of individuals in the economy, but this will depend on the distribution of real income and public policy among other factors. This indicator is therefore important to understand progress a country is making towards achieving greater equality.
-Data Sources and Collection Method
-The recommended primary data source for this indicator is the national accounts estimates of GDP and compensation of employees. These are produced by the national statistical offices of countries and preferably should follow the System of National Accounts’ 2008 revision (SNA 2008). 
-Method of Computation and Other Methodological Considerations
-Computation Method:
-This indicator can be calculated using the following formula:
- ￼
-Comments and limitations:
-Labour share of GDP underestimates the proportion of GDP accrued to total employment as it covers only the compensation of employees and does not include the labour income of the self-employed. Therefore, for countries that see larger proportions of self-employment, this indicator may need to be adjusted. 
-While using national accounts for calculating this indicator, the concept definition of compensation of employees that is used should be specified. Alternately, if another wage or labour income concept is used, it should be clearly indicated. 
-Proxy, alternative and additional indicators: N/A
-Data Disaggregation
-N/A

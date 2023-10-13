@@ -1,0 +1,18 @@
+SDG Mapper API
+https://knowsdgs.jrc.ec.europa.eu/sdgmapper#learn
+
+The online tool lets you submit large batches, but it seems to have an unofficial limit of 200 documents. 
+
+This is good. But the results need to be processed since they are ordered by SDG individually. This is done with the sdgmapper-format.ipynb
+
+
+API access requested on 9/13/23
+
+The SDG Mapper API enables users to submit text (in any official EU language) and receive SDGs, Targets and Indicators detected data in the form of JSON objects.
+
+In order to enable SDG Mapper API access for your user account:
+
+Go to KnowSDGs portal (https://knowsdgs.jrc.ec.europa.eu) and click Log in.
+If you don't have an EU Login account click "Create an account" and follow the steps to create a new EU Login user.
+Request API access by sending an email to JRC-SDGs[at]ec.europa.eu with the subject "SDG Mapper API access request" and specify the email address which you used for EU Login registration.
+After receiving the approval via email, log in and visit "View profile", click "Manage API Key" and "Generate new key" to generate your own API key that is required for authenticated API resources requests.

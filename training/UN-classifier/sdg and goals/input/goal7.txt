@@ -1,7 +1,0 @@
-Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all	
-7.1 By 2030, ensure universal access to affordable, reliable and modern energy services	7.1.1 Proportion of population with access to electricity
-	7.1.2 Proportion of population with primary reliance on clean fuels and technology
-7.2 By 2030, increase substantially the share of renewable energy in the global energy mix	7.2.1 Renewable energy share in the total final energy consumption
-7.3 By 2030, double the global rate of improvement in energy efficiency	7.3.1 Energy intensity measured in terms of primary energy and GDP
-7.a By 2030, enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology	7.a.1 International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems
-7.b By 2030, expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries, in particular least developed countries, small island developing States and landlocked developing countries, in accordance with their respective programmes of support	7.b.1 Investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services
