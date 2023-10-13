@@ -1,38 +1,0 @@
-Indicator 5.6.1: Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care
-Target 5.6: Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences.
-Goal 5: Achieve gender equality and empower all women and girls
-Definition and Rationale
-Definition:
-This indicator is defined as the percentage of women aged 15-49 years who are married (or in union), who make their own decisions on all three areas – sexual intercourse with their partner, use of contraception, and their healthcare. 
-Concepts:
-Married or in union includes both women who are legally married and in informal unions. An informal union is one in which the man and woman live together at the time of the interview, intending to have a lasting relationship, but have not had a formal civil or religious ceremony. 
-A woman is considered to have autonomy in reproductive health decision making and to be empowered to exercise their reproductive rights if they: (1) can say ‘NO’ to sex with their husband/partner if they do not want to; (2) decide on use/ non-use of contraception; and (3) decide on health care for themselves. 
-Autonomy is determined by a ‘yes’ response to the question on sexual intercourse and ‘mainly respondent’ or ‘jointly’ to the questions of contraception and their healthcare, on relevant surveys. 
-Rationale and Interpretation:
-Women’s and girls’ autonomy in decision making over consensual sexual relations, contraceptive use and access to sexual and reproductive health services is key to their empowerment and the full exercise of their reproductive rights. This is well aligned with the idea of sexual autonomy and women’s empowerment. The monitoring of this indicator over time would help observe change and assess the effectiveness of policy interventions.
-Data Sources and Collection Method
-The data for this indicator can be collected through nationally representative surveys which incorporate the three questions mentioned above. Currently, this data is being collected through the Demographic and Health Survey (DHS), with plans to expand data collection to include Multiple-Indicator Cluster Survey (MICS) and other possible national surveys. 
-A sample set of three questions is as follows:
-(1)    Can you say no to your (husband/partner) if you do not want to have sexual intercourse?
-a. Yes b. No c. Depends/Not Sure
-(2)    Would you say that using contraception is mainly your decision, mainly your husband’s/partner’s decision, or did you both decide together?
-a. Mainly Respondent b. Mainly Husband/Partner c. Joint Decision d. Other (Specify) ________________
-(3)    Who usually makes decisions about health care for yourself?
-a. You b. Your Husband/Partner c. You and Your Husband/Partner Jointly d.Someone else 
-Only women who provide the correct answers to all three components are considered as women who “make their own decisions regarding sexual relations, contraceptive use and reproductive health care”. These are women who reported that they “can say no to their husband or partner if they do not want to have sexual intercourse”, who decide about using contraception either by themselves or jointly with husband or partner, and who decide about their own health care either by themselves or jointly with husband/partner. 
-Method of Computation and Other Methodological Considerations
-Computation Method:
-This indicator is computed based on women’s responses to survey questions regarding:
-(1)    Whether they can say ‘NO’ to sex with their husband/partner if they do not want to;
-(2)    Whether they claim that using contraception is mainly their decision and not solely their husband’s/partner’s; and
-(3)    Whether they usually make decisions about their own health care. 
-The percentage of women (15-49 years) who make their own decisions regarding sexual relations, contraceptive use and reproductive health care (PSCR) can be calculated as:
-￼
-where,
-WSCR is the number of married (or in union) women (15-49 years) who respond ‘yes’ to question (1), and ‘mainly respondent’ or ‘jointly’ to questions (2) and (3); and
-Wtotal­ is the total number of women (15-49 years) who are married (or in union). 
-Comments and limitations:
-Currently, this indicator is being estimated solely based on the response of women of reproductive age (15-49 years) who are using any type of contraception, for only those that are currently married or in union. However, in the upcoming Demographic and Health Surveys (DHS) this question is being rephrased to ask about the decision to use or not use contraception of all married (or in union) women of reproductive age. 
-In many national contexts, household surveys, which are the main data source for this indicator, exclude the homeless and are likely to underreport on the statistic. 
-Data Disaggregation
-This indicator can be disaggregated by age, geographic location, place of residence, education level and wealth quintile.

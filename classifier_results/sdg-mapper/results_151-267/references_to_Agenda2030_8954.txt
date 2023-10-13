@@ -1,0 +1,4899 @@
+References to UN 2030 Agenda for Sustainable DeVelopment
+
+
+Document:
+	WP142_2015.txt
+
+Sentence:
+"""
+Third , the united nations has identified inequality as one of the issues to focus on in formulating the sustainable development goals ( sdg ) that are supposed to take the place of the millennium development goals ( mdg ) whose reference period expires in 2015 . fourth , world economic forum ( wef ) , in its recent annual meeting , too put emphasis on the issue of inequality .
+"""
+Keywords:
+	Sdg, Sustainable development goal
+
+
+
+
+Document:
+	WP144_2015.txt
+
+Sentence:
+"""
+The contexts of social inclusion abstract in light of the emphasis on `` inclusion '' in the sustainable development goals ( sdgs ) , this paper contends that social exclusion and inclusion are context-dependent concepts in at least three senses .
+"""
+Keywords:
+	Sdg, Sustainable development goal
+
+Sentence:
+"""
+1 introduction the emphasis on `` inclusion '' in the sustainable development goals ( sdgs ) compels us to specify what social inclusion is and how to accomplish it .
+"""
+Keywords:
+	Sdg, Sustainable development goal
+
+Sentence:
+"""
+The open working group 's 2030 sustainable development goals 8 , 10 , 11 , and 16 all refer to inclusion .
+"""
+Keywords:
+	Sustainable development goal
+
+Sentence:
+"""
+A . economic dimensions while acknowledging that economic growth is insufficient for `` inclusive development , '' the proposed sdgs should recognize that pathways to poverty reduction , greater income equality , and decent employment will vary across contexts .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In sum , the sdg for slum eradication must be approached with care , including residents in decision making that profoundly affects their lives .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In sum , as the sdgs promote `` inclusive development , '' it is worth noting that economic inclusion of the poor may take place without poverty reduction .
+"""
+Keywords:
+	Sdg
+
+
+
+
+Document:
+	WP145_2015.txt
+
+Sentence:
+"""
+It is encouraging that the proposed sustainable development goals ( sdgs ) put forward by the open working group of the united nations general assembly includes the goal to `` reduce inequality within and among countries '' ( goal 10 ) .
+"""
+Keywords:
+	Sdg, Sustainable development goal
+
+
+
+
+Document:
+	WP148_2016.txt
+
+Sentence:
+"""
+Public-private partnerships and the 2030 agenda for sustainable development : fit for purpose ?
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Consequently , the aaaa confirms the need for private and public partners to be thoughtful in the design and implementation of ppps to prevent pitfalls from the past , especially in light of the challenges related to the implementation of the ambitious 2030 agenda for sustainable development .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+In light of the above , this paper will discuss recent findings on the effectiveness of ppps and reflect on their suitability as a key vehicle to implement the 2030 agenda for sustainable development , as well as the aaaa .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Lastly , it puts forward concrete recommendations on how such guidelines could be strengthened in support of the 2030 agenda for sustainable development .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+However , the terms \0x2018cost ' and \0x2018quality of service ' require interpretation in a broader sense with the former taking into account not just the financing , transactions and operational costs of a project , but also its longer-term fiscal implications ( including the risks of any contingency liabilities ) and the latter taking due note of efficiency gains , as well as the social , economic and environmental objectives embodied in the 2030 agenda for sustainable development .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+At the same time , it is questionable why the public sector should compensate the private sector for costs associated with regulations that may be essential to achieving the sdgs ( e.g.
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Indeed , if ppps are to be used as a major vehicle to achieve a certain set of sdgs , such as those related to infrastructure and economic growth , contractual arrangements for projects should not penalize the public sector for putting in place policy frameworks that help achieve other goals .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+However , as pointed out by aizawa ( 2015 ) , provisions could be even more ambitious , especially in light of the un 2030 agenda for sustainable development and the aaaa .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Overall , we therefore propose to re-evaluate existing guidelines in light of the 2030 agenda for sustainable development , including its sustainable development goals , as well as the aaaa .
+"""
+Keywords:
+	Sustainable development goal, 2030 agenda
+
+Sentence:
+"""
+The broad challenge would be to frame contractual guidelines in such a way that the ppps would lead to value for money for the implementing parties and the public at large , and not put undue constraints on governments and other stakeholders in their endeavours to pursue and promote national policies and interventions in support of the 2030 agenda for sustainable development .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+8 conclusion the purpose of the paper was to discuss the existing and future potential of ppps in helping achieve the 2030 agenda for sustainable development and the addis abba action agenda , in particular in the area of infrastructure investment .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The un , as the most legitimate international forum for international policy-making , can play a key role in forging these new guidelines for ppps , which should fully support the implementation of the 2030 agenda for sustainable development .
+"""
+Keywords:
+	2030 agenda
+
+
+
+
+Document:
+	wp136_2014.txt
+
+Sentence:
+"""
+It is in part a reaction to this unsatisfactory state of affairs that the rio+ conference came forward with the proposal to formulate sustainable_development goals ( sdg ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The united nation now faces the task of bringing the new idea of sdgs and the previous idea of mdg together .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Meanwhile , the future we want ( uncsd ) , the outcome document of the rio+ conference held in july , called for a set of sustainable_development goals ( sdg ) and initiated a process for this purpose by asking the general assembly to form an open working group ( owg ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Since its formation in january , the owg has worked vigorously and has now put forward a set of sdgs and corresponding targets .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+As a result , both mdg and sdgs have entered the discussion of postagenda , and a clear understanding of the relationship between them has become important .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+From that viewpoint , mdg could also be thought as sdgs ( albeit of partial scope ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The emergence of the proposal to formulate sdgs at a time when there was already an on-going discussion on postphase of mdg is a reflection of this necessity .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+It is in part a reflection of the above conflict that the rio+ conference put forward the idea of formulation of sustainable_development goals ( sdg ) when the international community was already engaged in a discussion of the postphase of the mdg process .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The underlying factors causing the impasse with regard to climate_change and human development do not go away just because a different discussion process under the rubric of sdgs has been launched .
+"""
+Keywords:
+	Sdg
+
+
+
+
+Document:
+	wp139_2015.txt
+
+Sentence:
+"""
+It argues that in a context characterised by lack of consensus about the existence of a growth-equity trade-off , growing sustainability challenges , such as rising wealth inequality and carbon emissions , and the upcoming transition from the mdg to sdgs , redistributive policies can no longer be assessed primarily in light of their impact on economic growth and must be shaped in pursuit of equally important social and environmental objectives .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+While equity or equality is part of any definition of sustainable_development in the un context ( see for instance the brundtland definition ( world commission on environment and development ) or the draft focus areas for the sdgs ( un ) ) , equity and economic empowerment overlap as well .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The latter concept is frequently used with reference to women , but the draft focus areas of the sdgs also discuss empowerment as a means to reduce inequality and promote the social , economic and political inclusion of all , irrespective of age , sex , disability , race , ethnicity , origin , religion or economic or other status .
+"""
+Keywords:
+	Sdg
+
+
+
+
+Document:
+	wp141_2015.txt
+
+Sentence:
+"""
+Introduction in , following a decision taken at the rio+ conference and after more than a year of intergovernmental work of what was called an open working group , un member states proposed a set of sustainable_development goals or sdgs ( united_nations , a ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The sdgs will succeed the mdgs ( mdg ) as reference goals for the international community for the period - .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The objective is to show where links between goals were made by the political process that created the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Using network analysis techniques , i show how the sdgs seen through this lens are unequally connected , with some goals being connected to many other goals through multiple targets , while other goals are weakly connected to the rest of the system .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+I show that two of the proposed goals , sdg on sustainable consumption and production ( scp ) and sdg on inequality , provide critical connections among other goals and make the sdgs more tightly linked as a network .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The presence in the set of sdgs of targets that refer to multiple goals and sectors may facilitate integration and policy coherence across sectors , in particular at the level of international development agencies .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+However , our mapping also reveals that important links that exist among sustainable_development areas through the biophysical , social and economic systems are not explicitly reflected in the proposed sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In section , i present the mapping of the sdgs as a network of related targets .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Section discusses the implication of the structure of the sdgs for cross-sectoral integration .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The basis for the analysis presented here is a matrix that links every target of the sdgs to all the goals to which its wording refers .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Under goal of the sdgs , ensure sustainable consumption and production patterns , states : by achieve environmentally sound management of chemicals and all wastes throughout their life cycle in accordance with agreed international frameworks and significantly reduce their release to air , water and soil to minimize their adverse impacts on human health and the environment .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This target explicitly refers to health , and is recorded as being linked to sdg , which reads : goal .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+A particularity of the sdgs as proposed by the open working group is that under each of the goals , some of the proposed targets relate to the so-called means of implementation ( in the sustainable_development legislation that has come out of the earth summit , this term tends to encompass finance , trade , technology transfer and capacity building ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+A dedicated goal , sdg , was also dedicated to cross-cutting means of implementation for the whole set of sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This is not , of course , to say that means of implementation across the set of sdgs do not deserve an analysis of their own .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This restriction leaves us with targets under goals ( all the sdgs except goal ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Indeed , one of the main pitfalls that one encounters when establishing the matrix of links is to avoid inferring links that are obvious from socio-economic or physical considerations , but are not made in the sdgs themselves .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The sdgs as a network of targets the map of the sdgs as a network of targets is shown on figure .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The sixteen sdgs are represented as broader circles of differing colors , while targets are figured by smaller circles and have the color of the goal under which they figure .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Around each sdg , a number of targets are linked only to that goal , giving rise to flower-like structures around the goals .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Under sdg , which relates to achieving universal health coverage , refers to both inequality and poverty .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+It is therefore counted as a link between sdg and sdg , even though it does not belong to either goal .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+While we do not push the comparison here , it is clear that inequality , scp , poverty , hunger , education belong to the core of the sdg network as defined here .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In between , sdgs , , , , , , , and are all connected to to other goals , either directly or indirectly .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The thickest links are between gender and education ( sdgs and ) , and between poverty and inequality ( sdgs and ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+There are also strong connections between sdg and sdg on peaceful and inclusive societies .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Figure once again highlights the centrality of sdg and on inequality and scp .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Focusing first on sdg , the map shows where the connections with other goals come from .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For example , the links between scp and sdg on water are provided by two targets under the water goal : target .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Importantly , scp is linked with sdg on growth and employment through target .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Figure the sdgs as a network of targets note : targets labels are the numerals which refer to them in the report of the open working group on sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Figure links between the sdgs through targets : an aggregated picture note : the numbers on the map indicate the number of targets linking different goals .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For example , sdg on peaceful and inclusive societies is linked with sdg on gender through four targets .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The circles representing the goals on climate , land , energy and water have been singled out for purposes of comparison with other mappings ( see below section ) table links between the sdgs through targets : an aggregated picture number of other goals to which the rank sustainable_development goal goal is connected ensure sustainable consumption and production patterns reduce inequality within and among countries .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+End poverty in all its forms everywhere promote sustained , inclusive and sustainable economic growth , full and productive employment and decent work for all end hunger , achieve food security and improved nutrition and promote sustainable agriculture ensure healthy lives and promote well-being for all at all ages achieve gender equality and empower all women and girls ensure inclusive and equitable quality education and promote lifelong learning opportunities for all ensure availability and sustainable management of water and sanitation for all make cities and human settlements inclusive , safe , resilient and sustainable take urgent action to combat climate_change and its impacts protect , restore and promote sustainable use of terrestrial ecosystems , sustainably manage forests , combat desertification , and halt and reverse land degradation and halt biodiversity loss promote peaceful and inclusive societies for sustainable_development , provide access to justice for all and build effective , accountable and inclusive institutions at all levels ensure access to affordable , reliable , sustainable and modern energy for all build resilient infrastructure , promote inclusive and sustainable industrialization and foster innovation conserve and sustainably use the oceans , seas and marine resources for sustainable_development we now describe in more detail the links that exist within the network , focusing on sdg ( scp ) and sdg ( inequality ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For this , we focus on a particular sdg and extract from the broader network the targets with which the goal is linked , as well as the goals to which such targets belong to .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The results of this reduction for sdgs and are shown on figure and figure respectively .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Figure links among the goal ( scp ) and other goals figure links among goal ( inequality ) and other goals turning to sdg , figure shows a similar pattern , indicating that many targets referencing inequality are listed under other goals .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Of notice is the strong link between inequality and peaceful and inclusive societies ( sdg ) , with no fewer than targets explicitly linking the two , including two from sdg on gender .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+What is interesting is that most of the links between sdg and sdg are though universal access targets on energy , water , health , housing and green space and equal access to resources , which are listed under other goals .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The sdgs as an enabler for integration ?
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Because of these connections , the structure of the set of sdgs , as put forward by the open working group , has implications for policy integration and coherence across areas .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+As seen above , for many of the thematic areas covered by the sdgs , targets relating to those areas are found not only under their namesake goal ( when it exists ) , but across a range of other goals as well .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Education , health , economic growth ) will have to take into account targets that refer to other goals , which , due to the normative clout of the sdgs for development work coming forward , may provide stronger incentives than in the past for cross-sector , integrated work .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This area is covered by sdg : ensure healthy lives and promote well-being for all at all ages , which includes targets ( excluding those on means of implementation ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+These targets can be referred to as extended targets for sdg , as opposed to core targets listed under sdg .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Arguably , institutions concerned with the health sector and operating within the framework of the sdgs will have to consider both core and extended targets when designing , implementing and monitoring policies .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Table core targets and extended targets : example of sdg rank sustainable_development goal core targets : goal .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+An example of this is the broad formulation of sdg , which adds to traditional targets on hunger explicit references to land management , agricultural production methods and terrestrial ecosystems .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+It may also facilitate cross-fertilization , for example by providing incentives for organizations concerned with food security and hunger to hire specialists of related areas mentioned in the targets for sdg .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Especially interesting in this context is the existence of many links between sdg on scp and other goals .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In particular , the fact that resource efficiency is an integral part of sdg on growth and employment can be seen as quite revolutionary , in that this fundamental aspect of scp , rather than being seen in isolation from growth , may now be more systematically considered by strategies and policies aiming to spur growth and employment , which have both high priority everywhere and strong anchoring in institutions at all levels .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+As emphasized above , the set of sdgs that was put forward by the open working group is the result of intergovernmental discussions .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+As a compromise reflecting a multiplicity of concerns and interests , the set of sdgs taken as a whole is not based on any particular interpretation of the world ; nor does it reflect a specific , coherent systemic view of how the socio-economic engine works and delivers outcomes along all the dimensions covered by the goals .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The novelty of the sdgs compared to their predecessors is that they aim to cover the whole sustainable_development universe , which includes basically all areas of the human enterprise on earth .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Sustainable_development modelling and scenario work , in particular , has considered links between some sdg areas in great details .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+It is thus interesting to contrast the political mapping of the sdgs presented above with other mappings based on physical and socio-economic considerations .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In a recent paper , the international council for science and international social science council asked small groups of expert scientists on each goal in the sdgs to , inter alia , mention the links between the goal being considered and targets under all the other goals ( icsu and issc , ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This clearly shows that there are many more scientifically meaningful connections among goals than are explicitly reflected in the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The contrast between the number of links suggested by science and those explicitly reflected in the sdg targets is even starker when one focuses on sub-parts of the system .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Overall , the sheer number of interactions among the nexus areas mentioned in these studies is enough to show that most of these interactions are not captured by the sdg targets .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Looking at other parts of the system , another link that is not made by the sdgs is between energy and industrialization .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Similarly , energy and climate_change are weakly linked in the sdgs , even though energy is a critical component of any path aimed at limiting climate_change , and most models aiming to shed light on climate_change mitigation pathways rely to some extent on representations of the energy system .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+While sdg includes a target on limiting ocean acidification , the link is not made with co emissions ( which do not figure explicitly either in sdg on climate_change ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Thus , it is clear that the political framework that the sdgs provide does not explicitly reflect the multiplicity of links that matter for policy purposes .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Hence , in practice , sdgs will be of limited use in providing guidance to address the various links that exist .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The sdgs , as a political construction for which one parameter was that the goals should be limited in number , could not possibly address all the relevant links among goal areas there are simply too many of them .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+( ) , who suggest to link some of the existing targets under different sdgs through so-called ipat equations , thus providing potential cross-checks on what progress on some of the targets imply for others ( griggs et al.
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Conclusion the set of sdgs that was put forward by the open working group can be read as a network of targets connecting the different goal areas .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The analysis above has shown that some thematic areas covered by the sdgs are well connected among one another .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Overall , one can argue that the sdgs are more connected than their predecessors , the mdg , were .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Provided that the final goals and targets that are going to be agreed in september keep this feature , this could enable more integrated policies and easier consideration of synergies and trade-off across sdg areas , an aspect that was identified during the last two decades since the earth summit as critical for progress on sustainable_development .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For each area covered by the sdgs , we have suggested that one can quite straightforwardly identify extended targets , that is , targets linked with the area in question that are located under other goals .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+We emphasized that the inclusion of standalone goals on sustainable consumption and production patterns and inequality not only make the sdgs more tightly knit as a network ; it also opens the door for easier mainstreaming of these dimensions into other areas and sectors that have stronger institutional standing than scp has , and from there into strategies and policies relevant to those sectors .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+On the other hand , some of the important systemic links among thematic areas , which arguably will have to be considered in any long-term pathway towards sustainable_development , are not explicitly made within the political framework of the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Efforts towards modelling of the sdgs as a biophysical and economic system , with emphasis on the links between sub-components of the system that have not been systematically explored until now , could inform this effort .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Looking at the sdgs as a system sheds a light on those targets that link two or more of the goals .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The existence of these targets makes what could have been a collection of unrelated goals a system ; in a sense , it grounds the political work that the sdgs represent firmer into a reality that is full of tradeoffs and interdependences .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Across sectors that have a critical importance in a given country are reflected in the sdgs at the global level could inform the development community on additional missing links that are not apparent from a global analysis .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For example , in the context of a small island state , the relative lack of links between sdg on oceans and other goals may be more problematic than appears at the global level .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Similarly , it would be interesting to see how some important issues that do not have their own sdg ( e.g .
+"""
+Keywords:
+	Sdg
+
+
+
+
+Document:
+	wp146_2015.txt
+
+Sentence:
+"""
+How well are the links between education and other sustainable development goals covered in un flagship reports ?
+"""
+Keywords:
+	Sustainable development goal
+
+Sentence:
+"""
+A contribution to the study of the science-policy interface on education in the un system abstract : in 2015 , a set of sustainable development goals ( sdgs ) will succeed the millennium development goals as reference goals for international development for the period 2015-2030 . education was identified as a standalone goal ( sdg4 ) .
+"""
+Keywords:
+	Sdg, Sustainable development goal
+
+Sentence:
+"""
+Epistemic communities have documented a number of links between education and other sdg areas , and policy makers have long recognized many of them .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Taken together , the reports identify links between education and all the sdgs , with the notable exception of sdg 14 on oceans .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For most of the sdgs , causal links are identified in both directions , from education to other goal areas and vice-versa .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The most emphasized connections are those between education and growth ( sdg8 ) and gender ( sdg5 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+By contrast , links with energy ( sdg7 ) , water ( sdg 6 ) , cities ( sdg 11 ) , sustainable consumption and production ( sdg 12 ) and climate change ( sdg 13 ) receive much less attention in the sum of un flagship publications .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Going forward , it would be important to assess whether the messages contained in un flagship reports adequately reflect the state of scientific knowledge and the lessons learnt from development programs that focus on education in relation to specific sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Keywords : education , sustainable development goals , science-policy interface , scientific assessments , policy integration , sustainable development .
+"""
+Keywords:
+	Sustainable development goal
+
+Sentence:
+"""
+1 . introduction un member states are soon to adopt a set of sustainable development goals ( united nations , 2014 ) .
+"""
+Keywords:
+	Sustainable development goal
+
+Sentence:
+"""
+The sdgs will succeed the millennium development goals ( mdgs ) as reference goals for the international community for the period of 2015-2030 . the seventeen goals cover a much broader range of issues than their predecessors .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Education was identified as a standalone goal ( sdg 4 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Education has a well-recognized role of enabler for many areas under the sdgs , e.g .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Some of these links have been studied intensively , especially since the adoption of mdgs in 2000 . however , given the extended scope of the sdgs , it is important for policy to reflect links between education and other goals .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The question we investigate here is : how well does the un system as a whole cover ( or recognize ) the links between education and other sdgs ?
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+We analyze the way in which these publications identify specific causal links among education and other sdg areas ; constraints and challenges that they emphasize in relation to these links ; and policy recommendations that they put forward .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+We show that taken together , un flagship reports identify links between education and all the other sdgs , with the notable exception of sdg14 on oceans .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Rather , we provide an overview of the landscape of education in the context of the sdgs as reflected by un system publications .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+We suggest that a more detailed examination of policies for education in the sdg context would be a logical step to follow on this initial , scene-setting work .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In section 3 , we document the coverage of links between education and other sdg areas in our sample of reports .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+These reports offer an additional advantage of covering different topics each year , which ensures that links between education and a number of sdgs are covered more thoroughly .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This exercise provided a benchmark for two sdg areas that do not have a `` home '' in the form of a specialized un organization .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Second , once the list of all the messages was compiled , each of them was connected to one or several of the seventeen thematic areas of the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For the purpose of this paper , which focuses on links between education and other sdgs , statements referring only to education were not considered further .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+`` education helps eradicate poverty '' would be placed under sdg 1 on poverty eradication ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+`` access to clean water and electricity is especially important for girls ' education '' would be reflected in sdg 5 on gender equality and in both sdg 6 on water and sdg 7 on energy ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Some messages relate to crosscutting subjects that do not have their own sdgs , such as youth or disaster risk reduction .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In the case of disaster risk reduction , messages were allocated to two of the goal areas that contain targets related to it , sdg 1 ( poverty ) and sdg 11 ( cities ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+By `` causal direction '' , we mean a logical connection captured in the message , which indicates whether education affects certain sdg area , or vice versa .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For example , messages under sdg 6 indicate links from education to water ( e.g .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Lastly , whenever possible , we tried to allocate messages to one sdg area only , in order to avoid lengthy repetitions in section 3 . it is not always obvious to do so , as many statements in the reports tend to mention several sectors in tandem , for example , health and education or energy and water .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+We do not explore links between all the sdgs , only those which involve education .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+World development report : mind society and behavior 20153 . links between education and sdgs put forward by un flagship reports this section concerns the content of reports analyzed and focuses on the links between education and other sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+First , the coverage of links varies significantly across the seventeen sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Second , for some sdgs , no links to education are put forward by the reports in our sample .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg 1 : end poverty in all its forms everywhere the reports identify a number of connections between education and poverty , in both directions .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg 2 : end hunger , achieve food security and improved nutrition and promote sustainable agriculture links between sdg 2 and education are covered by few reports in our sample .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Links from sdg 2 to education are much less emphasized in our sample .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg 3 : ensure healthy lives and promote well-being for all at all ages many reports emphasized that education affects health and well-being , reflecting a shared understanding that education is a powerful lever for improving people 's health .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg 5 : achieve gender equality and empower all women and girls many reports cover links between gender and education , in both directions .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Indeed , sdg 5 is , after sdg 8 , the area that received the most attention in the sum of the analyzed reports .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg 6 : ensure availability and sustainable management of water and sanitation for all connections between sdg6 and education were not primary focus area of any of the selected reports .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg 7 : ensure access to affordable , reliable , sustainable and modern energy for all sdg 7 is the one of the goal areas whose connections with education are the least developed in our sample of reports .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg 8 : promote sustained , inclusive and sustainable economic growth , full and productive employment and decent work for all the links between education and economic growth and jobs , the main topics included in sdg8 , are by far the most reflected in our sample of report , both in terms of number of reports referring to them and in terms of depth of elaboration .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg 9 : build resilient infrastructure , promote inclusive and sustainable industrialization and foster innovation links between industrialization , infrastructure and education are explored in several reports .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Given the closeness of the targets contained in sdg 9 to those of sdg 8 , separating the two is not always straightforward .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg 10 : reduce inequality within and among countries links between education and inequality are explored by several reports .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg 11 : make cities and human settlements inclusive , safe , resilient and sustainable the connection between urban development and education is practically absent from our sample .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg 12 : ensure sustainable consumption and production patterns education is a central theme in global efforts to promote a paradigm shift on scp patterns , to change behaviors and lifestyles and achieve low-carbon societies ( unesco , 2009 , 2012 , 2014 ; unep , 2012 , 2014 ; world bank , 2010 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg 13 : take urgent action to combat climate change and its impacts the importance of education in relation to climate change is emphasized by many reports in our sample .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg 14 conserve and sustainably use the oceans , seas and marine resources for sustainable development there is no explicit reference to oceans in any report of our sample .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg 15 protect , restore and promote sustainable use of terrestrial ecosystems , sustainably manage forests , combat desertification , and halt and reverse land degradation and halt biodiversity loss as with climate change and scp , various reports emphasize the importance of education for raising awareness and changing beliefs , attitudes and behaviors towards environmental issues ( e.g .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg 16 promote peaceful and inclusive societies for sustainable development , provide access to justice for all and build effective , accountable and inclusive institutions at all levels connections between education and inclusive societies are covered by many reports in our sample , often in some detail .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg 17 strengthen the means of implementation and revitalize the global partnership for sustainable development messages on means of implementation for education were spread across different reports .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Substantial public investment in social infrastructure such as education is seen as a prerequisite for effective sustainable development , and therefore an important component of the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+4 . discussion the first conclusion from an overview of the key messages presented above is that the scientific and policy communities have not waited for the adoption of the sdgs to investigate connections between education and a broad range of other development areas .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Taken together , flagship reports produced by the un system identify links between education and all the other sdgs , with the notable exception of sdg14 on oceans .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For most of the sdgs , links are identified in both directions , from education to other goal areas and vice-versa .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Links between education and economic growth and employment ( sdg 8 ) , gender ( sdg 5 ) , economic equality ( sdg 10 ) , health ( sdg 3 ) , peaceful societies ( sdg 16 ) , and means of implementation ( sdg 17 ) are the most covered overall in our sample .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+By contrast , in addition to oceans , links between education and agriculture ( sdg 2 ) , cities ( sdg 11 ) , infrastructure ( sdg 9 ) , as well as water ( sdg 6 ) and energy ( sdg 7 ) are little reflected in the sum of un flagship publications .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Lastly , there is relatively weak coverage of linkages between education and sdgs 12 to 15 , which address sustainable consumption and production , climate change , oceans and marine resources and terrestrial ecosystems .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For example , fao focuses on education in the agricultural sector ; and unisdr covers education in relation to disaster risk reduction , a cross-cutting issue with links to several of the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The figure maps each of the reports in our sample with the sdg areas that are linked with education in these reports .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+One obvious benchmark is the set of sdgs itself .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Le blanc ( 2015 ) has analyzed the links among goals that are present in the sdgs through targets that refer to multiple goal areas .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The sdg targets closely link education with gender , with other links to sdg 3 ( health ) , sdg 8 ( growth and employment ) , sdg 10 ( inequality ) , sdg 12 ( sustainable consumption and production or scp ) , sdg 13 ( climate change ) , and sdg 16 ( peaceful and inclusive societies ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This is represented in figure 2 . a look at figure 2 is enough to see that many more links are reflected in the sum of un reports than those explicitly reflected in the sdgs as the result of a political process .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Another benchmark is a recent paper which aims to examine the sdgs from a scientific perspective ( icsu and issc , 2015 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The international council for science and international social science council asked small groups of expert scientists on each sdg are to , inter alia , identify links between the goal being considered and targets under all the other goals .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+As such , links between education and other goals are identified in the chapter that focuses on sdg4 , as well as in each of the other chapters .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The material collected for this paper allows us to go beyond the recognition of mere links between education and other sdg areas and produce `` conceptual maps '' of these links across the whole sdg system .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Putting education at the center of the map , we selected only one link from and to each sdg .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+We show direct links between education and other sdgs , as well as important intermediary links that the reports emphasize .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Gathering the links into a single maps highlights that the links from education to other sdg areas operate through five main `` channels '' ( in light green on the map ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+General education also creates awareness , which may impact behaviors and society demands relevant to several sdgs ( e.g .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In the other direction , the links between other sdgs areas are of two generic types .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+First , progress on some of the sdgs ( especially industrial transformation or shift to sustainable production patterns ) translates into changed demands on the education system in terms of educational content .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Second , for many sdg areas , lack of progress in this area creates barriers to access to education or to educational outcomes .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Indeed , as shown above , no report or un agency in our sample covers links with all the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In addition , each report emphasizes different links , even within the same sdg area .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Another area of concern -- and for improvement -- is the low number of connections made between education and sdgs 12 to 15 . these are areas that were not covered by the mdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Connections between sdg 12 ( ensure sustainable consumption and production patterns ) and education were most elaborated in reports by unesco ( reports on education for sustainable development ) , unep , and the world bank .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In general , links between education and the `` new '' sdgs can only be found in recent reports that specialize on sustainability-related topics ( e.g .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For sdg 12 -- unep report on sustainable consumption and production or unesco reports on education for sustainable development ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For some sdg areas , we find a relative simplicity of the messages and links that are put forward , to the point that it is sometimes difficult to separate advocacy from evidence-based messages .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Taking sdg10 as an example , the messages regarding the links between education and inequality that are emphasized in the set of reports analyzed here seem to sometimes reflect contradictory messages and imperfect understanding of the way in which these links operate .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For many sdg areas , while causal links are identified and highlighted as important , the constraints that exist in relation to exploiting those links are not elaborated upon , or no concrete policy messages are provided .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For some sdg areas , this may not be a concern .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In some sdg areas , `` aspirational '' links and synergies are strongly put forward by reports , but the same reports give little exposure to evidence that points to obstacles or limitations to making them work .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+At a more general level , while our sample of reports draws a comprehensive picture of interconnectedness between education and other sdgs , the perspective in most reports has a strong focus on developing countries , and relatively little on developed countries .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+If the sdgs offer a universal set of goal applicable to all countries , the perspective of un flagship reports will have to integrate different regions and contexts more consistently .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Finally , even though their sum provides a good bird 's eye view of the links between education and the other sdgs , because of the specialized focus of many reports , questions regarding the desirable allocation of resources to different sub-components of the educational system across the various sdg areas are hard to answer .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+5 . conclusion in this paper , we examine the links between education and the other sdgs , as reflected in recent major global reports from the un system .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+We focus on the way these publications , taken as a whole , identify specific conceptual ( causal ) links among education and other sdg areas ; the constraints and challenges that they emphasize in relation to these links ; and the policy recommendation that they put forward .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Our analysis shows that the un system has not waited for the adoption of the sdgs to investigate links between education and multiple areas of sustainable development .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Taken together , global reports produced in recent years capture a rich network of linkages between education and other sdg areas .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Our recommendations instead focus on possible ways in which the un system could improve its coverage of the links between education and other sdg areas .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Yet , we think that the systematic analysis undertaken here can provide an initial basis for an integrated analysis of policy priorities for education in the context of the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Versions of the `` conceptual map '' of the links between education and other sdgs and other results presented in this paper could be used as a basis for dialogue between the policy community and scientists .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Specifically , an examination of this map by education experts from both sides could help assess whether all the links that matter in practice are considered ; whether the policies that are put forward in un reports appropriately reflect empirical evidence ; and whether the explicit and implicit policy priorities that emerge from the messages of the un system do indeed suggest the most efficient use of resources to promote education-related goals in the broader context of the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+An avenue for research would be to focus on the role of education in clusters or `` nexuses '' of sdg areas .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In a modeling perspective , the map that we derived for education could be used as a benchmark to assess how existing scenario models address the links between education and other sdg areas .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+If combined with similar maps for other sdg areas , the map could also be a building block for a reference map of the whole sdg system that comprehensively reflects feedbacks and interdependences among sectors , supporting efforts towards modelling of the sdgs in the context of an integrated biophysical and economic system -- a research agenda that is rapidly developing ( un , 2015 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+It could help organizations whose work focuses on other sdg areas to map linkages between those and other sdgs , and assess how well these linkages are reflected in their work .
+"""
+Keywords:
+	Sdg
+
+
+
+
+Document:
+	wp149_2017.txt
+
+Sentence:
+"""
+Mapping the linkages between oceans and other sustainable development goals : a preliminary exploration abstract : this paper maps interrelationships among targets of the sustainable development goal dedicated to oceans ( sdg 14 ) , as well as interrelationships between those targets and other sdgs .
+"""
+Keywords:
+	Sdg, Sustainable development goal
+
+Sentence:
+"""
+The literature identifies many linkages among the targets of sdg 14 ; most of these targets are potentially synergistic with one another .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Many linkages also exist between sdg 14 targets and other sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Different targets under sdg 14 link to different sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This has implications for policy discussions on how to achieve progress on sdg 14 . the interrelationships that we highlight can be used as a tool for dialogue between policy and scientific communities working on oceans , in particular for assessing the status of knowledge on the various linkages , as well as identifying linkages that are likely to matter most for progress on sdg 14 .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+1 . introduction since the adoption of a new universal agenda for sustainable development by member states of the united nations in september 2015 , efforts have multiplied to better understand the linkages and interrelationships that exist among the sustainable development goals ( sdgs ) .
+"""
+Keywords:
+	Sdg, Sustainable development goal
+
+Sentence:
+"""
+In 2015 , the international council for science ( icsu ) and the international social science council ( issc ) published a study documenting linkages among all the sdg targets and other goals ( icsu and issc , 2015 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The editions of the un global sustainable development report published in 2015 and 2016 adopted the sdgs as an integrated network of goals as their basic framework ( united nations , 2015 and 2016a ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Generic network maps of the sdgs were proposed in le blanc ( 2015 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Systematic lists of relationships among the targets under one sdg and other sdgs have been published for sdg6 ( un-water , 2016 ) , sdg4 ( vladimirova and le blanc , 2016 ) , and similar work is ongoing in other sdg areas ( icsu , forthcoming ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The international resource panel has explored the links between natural resources and sdg targets ( unep , 2015a ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The latest global education monitoring report is entirely devoted to the relationships between sdg4 and other sdgs ( unesco , 2016 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Studies of interrelationships among targets within specific clusters of sdgs have also been published ( for example , weitz and nilsson , 2014 , for climate , land , energy and water ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+As far as we are aware , a similar systematic exercise has not yet been undertaken for oceans -- sdg 14 . this paper intends to fill this gap .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+We aim to identify important interrelationships that exist among sdg 14 targets , as well as with other sdg areas .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The objective is to provide a frame for describing policy issues in relation to the various targets under sdg 14 , which can be used to document the state of knowledge that exists on different linkages , both from the scientific and policy points of view .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The work presented in this paper aims to inform the preparation of the forthcoming intergovernmental conference on the implementation of sustainable development goal ( sdg 14 ) , `` conserve and sustainably use the oceans , seas and marine resources for sustainable development .
+"""
+Keywords:
+	Sdg, Sustainable development goal
+
+Sentence:
+"""
+`` , which will be held in june 2017 . looking at the ten targets listed under sdg 14 ( see box 1 ) , it readily appears that their realization will be impacted by many factors , both within and outside the `` ocean sphere '' .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Taking these factors into account is going to be critical in devising strategies to progress on these targets and on sdg 14 more generally .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+What this paper aims to do is to clarify , in a consistent way across sdg 14 targets , the interrelationships that exist among sdg14 targets , with other sdg 14 targets and other goals .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+We synthesize the results of this research in tables showing interrelationships of each of the ten sdg 14 targets with other sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+They are intended as `` hooks '' upon which scientific and policy literature relative to specific linkages can be situated within the context of each sdg 14 target , for example to produce sdg-relevant science and knowledge maps .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+We think that the value added of the tables resides in their representation of ocean-related issues in relation to other sdg areas , which provides a bridge for communities working on various sustainable development fields to engage .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In section 3 , we describe the interrelationships among the ten targets of sdg 14 . section 4 describes linkages among individual targets of sdg 14 and other sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+2 . methodology studies documenting the linkages among sdgs have adopted different methodologies .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The methodological choices we made were based on the primary objective to produce maps that can be used both as frames for comprehensive policy discussions of each of the targets under sdg 14 and as skeletons for science maps in relation to those targets .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+We selected 124 reports from the united nations system and other international organizations and systematically collected material therefrom that referred to oceans ( based on a list of keywords ) and other sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In parallel , as a benchmark , we started to draw maps of the interrelationships between individual targets of sdg 14 and the rest of sdgs , based on the authors ' knowledge of policy issues surrounding oceans in international negotiations since the earth summit , and previous assessments of the scientific literature ( un , 2015 , chapter 3 ; un , 2016b ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+An important exception to this approach is that our tables do not systematically include linkages with sdg 17 , which refers to the so-called `` means of implementation '' .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The dimensions that sdg 17 encompasses ( finance , capacity building , trade , information and communications technology and data , monitoring and accountability ) are relevant to most of the targets under sdg 14 . in particular , financing and capacity building have been identified as important across the set of sdg 14 targets ( un , 2017 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The same applies to sdg 16 , and in particular target 16.6 that refers to `` effective , transparent and accountable institutions at all levels '' .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+From the literature , it is clear that this is a critical factor which will affect the realization of most of the targets under sdg 14 . this should be kept in mind when interpreting the tables .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In documenting the interrelationships , choices had to be made regarding the translation of individual sdg targets into elements that are suited for a systems analysis .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+3 . interrelationships among the ten targets of sdg 14 sdg 14 is composed of the ten targets .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+But relatively `` newer '' targets were also introduced , such as target 14.7 . at the same time , the targets do not include other dimensions that are important in the context of the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Impacts of climate change such as sea level rise , ocean warming , changes in ocean circulation and salinity , which will have a range of impacts on sdg 14 and other sdg areas , are not part of the targets ( undesa et al.
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Figure 1 maps important linkages among the ten targets under sdg 14 . because of the complex dimensionality of the interactions among the targets when viewed socially , economically and environmentally , the arrows in figure 1 should be taken as illustrative but not definitive .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Its provisions set out the legal framework within which all activities in the oceans and seas must be carried out , and it could thus be argued that unclos directly relates to almost all sdg-14 targets .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This section links directly to sdg 14 targets 14.1 , 14.2 and 14.4 . unclos also provides an extensive framework for marine scientific research and the development and transfer of marine technology ( sdg target 14.a ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In the same vein , the linkages between marine conservation ( sdgs 14.1 and 14.5 ) and economic benefits to sids and ldcs ( sdg 14.7 ) are greatly dependent on the design and governance of the mpas and other management tools applied .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For the same reasons , the linkages between sdg 14.5 and 14.b relating to access for small-scale artisanal fishers can be either positive or negative depending on governance ( fao , 2011 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In summary , the set of targets that were included under sdg 14 cover a wide range of issues , which exhibit close interrelationships .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+4 . links between individual targets of sdg 14 and other sdgs 4.1 . reduce marine pollution target 14.1 calls for prevention and significant reduction of marine pollution by 2025 . reduction in marine pollution protects coastal and marine ecosystems , and contributes to food security ( sdg 2 ) and improving human health and well-being ( sdg 3 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+It also contributes to decent work and economic growth ( sdg 8 ) because employment in sectors such as tourism is directly dependent on clean , unpolluted seas .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Reducing pollution also has the potential to contribute to climate change adaptation ( sdg 13 ) because removing other stressors , in particular pollution and overfishing , is likely to increase the resilience of marine ecosystems , such as coral reefs , to the impacts of climate change ( hughes et al , 2003 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Action in six other sdgs ( 6 , 8 , 9 , 11 , 12 and 15 ) has a direct and positive impact on that effort ; mainly through the reduction of waste and litter produced by land-based activities that reaches oceans .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Reduction of marine pollution contributes to the achievement of sdg 3 by reducing the number of deaths and illness from water pollution and contamination ( sdg target 3.9 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+, 2014 and watson and molot 2013 ) , thus adversely impacting achievements of sdgs 2 , 3 and 8 . nutrient over-enrichment from agricultural , municipal and industrial sources is also considered to be the main cause of so-called `` dead zones '' , hypoxic regions that exhibit oxygen levels that are too low to support many aquatic organisms including commercially desirable species ( adversely impacting sdg 2 and target 14.3 ) , the extent and duration of which is also increasing worldwide ( rabotyagov et al.
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Therefore , economic growth and urbanization are some of the drivers of marine pollution , and progress in the implementation of sdg 14 could be expected as the result of implementation of other sdg targets that aim at reducing and treating waste .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For example , access to sanitation ( sdg 6 ) remains a challenge in many coastal cities and limited wastewater infrastructure result in sewage entering coastal areas untreated ( unep , 2010 ; millennium ecosystem assessment , 2005 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Increasing urbanization of coastal areas ( sdg 11 ) unaccompanied by adequate disposal of human bodily wastes , has imposed major pressures on the ocean ( united nations , 2016b ; unep , 2010 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Marine pollution is also caused by production and consumer practices ( sdg 12 ) that do not consider life-cycle impacts of products and the effect of marine litter ( undesa et al.
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Another life-cycle related impact of products comes from the lack of upgrading and maintenance of ageing infrastructure ( sdg 9 ) such as oil pipelines ( cbd , 2014 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Thus the relationship between target 14.2 , sdg 1 on poverty reduction and sdg 2 on food security zero hunger will likely involve trade-offs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+These actions may by extension build the resilience of the coastal poor and those in vulnerable situations , and reduce their exposure and vulnerability to climate-related extreme events and other economic , social and environmental shocks and disasters , thus contributing to sdg 1 on poverty .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Climate change mitigation will reduce ocean acidification , thus positively impacting the potential to achieve target 14 . clean energy ( sdg 7 ) is also one component of a blue economy , which can help sids and ldcs reduce their dependence on fossil fuels and benefit from their marine resources , thus helping achieve target 14.7 . however , actions taken to mitigate climate change may involve trade-offs with other ocean-related objectives , and care needs to be taken to ensure that in the process the achievement of target 14.2 is not compromised .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+While the long-term benefits of reducing ghg emissions significantly may justify the pressure , such pathways are likely to act antagonistically , not synergistically with some dimensions of sdg 14 . reducing impacts on marine ecosystems is also dependent on achieving sdg 15 on terrestrial ecosystems .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Because cold water corals provide important habitat for fish , acidification will negatively impact fisheries , and thus target 14.4 and sdg 2 . when carbonate becomes undersaturated , calcium carbonate , which many organisms use to form shells and skeletons , will dissolve if unprotected .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Thus there is a clear and direct link between sdg target 14.3 and goal 13 in regards to causation and response measures ( emissions reductions , protection of marine ecosystems from additional stressors , and other potential adaptation measures ) , and they are best addressed together .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Because of the need for more scientific research , there is a strong linkage to sdg target 14.a and sdg 4 on education , which includes the need to involve developing country and sids scientists in these networks .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+, 2014 ) and would link this target to sdg target 14.2 other policy recommendations , particularly focusing on deep water corals , include ( i ) minimizing impact of other anthropogenic stressors on the system , ( ii ) maximizing the likelihood of survival of the species and its associated biota at other sites globally ; and ( iii ) identifying and protecting future refugia internationally ( thresher et al.
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The prevention of the depletion of fish stock contributes to food security at global and local levels ( sdg 2 ) ( escap , 2016 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The interrelationships of target 14.4 with other sdg targets are complex .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+There is therefore a strong link with sdg 12 ( sustainable consumption and production ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+, 2008 ) , thus providing a link with sdgs 1 and 8 . however , the linkages between mpas and poverty reduction are often complex and not well understood .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Management effectiveness in turn requires effective institutions , providing a link to sdg 16 as well as a consideration of local livelihoods .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Thus , while linkages to sdg 1 exist , they would need to be considered together with sdgs 8 , 10 and 16 .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+4.6 fisheries subsidies sdg target 14.6 calls for the prohibition by 2020 of fisheries subsidies that contribute to overcapacity and overfishing , illegal , unreported , and unregulated fishing .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Fishery subsidies have a number of policy-relevant connections with other targets under sdg 14 . it has been documented that fishery subsidies tend to favor large-scale industrial fishers versus small-scale fishers , thus affecting target 14.b ( jacquet and pauly , 2008 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Subsidies also have linkages with other sdgs , as documented in table 6 below .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For example , through lowering the price of fish , they may discourage efforts to change consumption patterns aiming at ensuring the sustainability of fisheries ( sdg 12 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The world trade organization ( wto ) is engaging in discussions over achieving outcomes on fisheries subsidies relevant to sdg 14.6 , thus also adding a linkage to trade ( sdg 17 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The blue economy moves beyond business as usual to consider economic development and ocean health as compatible propositions ( unctad , 2014 , unep , 2015b , fao , 2014b ) , and provides strong linkages between this target and almost all other sdg 14 targets , as well as to most other sdgs , in particular to those related to reducing poverty and hunger ( sdgs 1 and 2 ) , improving health and well-being ( sdg 3 ) , decent work and economic growth ( sddg 8 ) , and industry and innovation ( sdg 9 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Marine renewable energy sources have been identified as priority areas for sids , providing a linkage to sdg 7 on affordable clean energy .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+4.8 increase scientific knowledge , develop research capacity and transfer marine technology sdg target 14.a focuses on increasing scientific knowledge , research capacity and transfer of marine technology to improve the contribution of oceans to the development of developing countries , in particular sids and ldcs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Increasing marine-related sti capacity has a direct positive impact on national innovation systems ( sdg 9 ) of coastal countries , particularly sids and ldcs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Science , technology and innovation also contribute to food security ( sdg 2 ) and sustainable energy sources ( sdg 7 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Improvements in education ( sdg 4 ) , at all levels , are fundamental for the development of sti systems .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+4.10 implementing international law as reflected in unclos the implementation of unclos interfaces with sdg 16 , and especially with targets 16.3 ( promote the rule of law at the national and international levels and ensure equal access to justice for all ) , 16.6 ( develop effective , accountable and transparent institutions at all levels ) and 16.8 ( broaden and strengthen the participation of developing countries in the institutions of global governance ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+First , the ten targets under sdg 14 present strong interrelationships with one another .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Importantly , some of the targets of sdg 14 are mostly at the `` receiving end '' of the interlinkages and are affected by many of the other targets .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Lack of progress on other sdg 14 targets would affect progress on target 14.7 negatively .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Conversely , target 14.a has the potential to benefit many other targets of sdg 14 . second , our study shows that a policy relevant analysis of linkages between sdg 14 and other sdgs has to be undertaken at the level of individual sdg 14 targets .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The ten targets link to different sdg areas ; while some have limited connections to other goals , for others such as management of coastal and marine ecosystems ( 14.2 ) or fish stocks ( 14.4 ) , the map of interlinkages is quite complex .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Taking sdg 14 as a whole , our analysis reveals a great number of linkages with the broader system of sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Indeed , it is possible to identify linkages with all the other sdg areas .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Among those , linkages to sdgs 1 , 2 , 3 , 8 , 9 , 12 , 13 , 15 and 16 are perhaps the most important systemically .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The links go in both directions : while progress on many sdgs will impact the oceans , it is also true that the way oceans are managed will impact a number of other goals .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+It is therefore critical to take these links into account when focusing on progress made on sdg 14 . generally speaking , the links from economic activity ( sdgs 8 , 9 , 11 as well as agriculture ) to sdg 14 are in the form of pollution loads , increased ocean acidification , and pressure on marine resources .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+These classes of threats to oceans have long been identified , and they should be taken into account in any assessment of progress on sdg 14 . the same could be said for climate change ( sdg 13 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The nexus of climate change ( sdg 13 ) , food security ( sdg 2 ) and healthy oceans ( sdg 14 ) illustrates this .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Identifying and acting on the most important trade-offs among sdg 14 targets as well as between sdg 14 and other goals will necessitate work across disciplines and professional areas , to a degree that does not exist today ( rice and garcia , 2011 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Third , some important factors affecting the sustainable use of oceans are addressed only tangentially in the sdgs ( as opposed to other intergovernmental texts such as the outcome document of the rio+20 conference ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In general , the institutional dimension of oceans is highly complex , and will have a critical impact on progress in most of the target areas of sdg 14 . a critical dimension of a forward-looking assessment of prospects for oceans should include an assessment of current gaps in the implementation of international law covering the various issues at stake .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Some have argued that fuller implementation of existing legal frameworks could achieve a great deal towards many of the sdgs ( garcia , rice and charles , 2014 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The current discussions at the united nations on an international legally binding instrument under unclos on the conservation and sustainable use of marine biodiversity of areas beyond national jurisdiction ) have the potential to enhance implementation of sdg 14 . a critique of the approach adopted for this paper is that our tables seem to imply that `` everything s connected to everything '' , which is not useful as a policy message .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+From the analysis presented here , it is quite clear that those vary across the sdg 14 targets .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Another argument against our approach is that presenting issues according to the logic of the sdg 14 targets leads to a confusing and disorganized story , because sdg targets were chosen politically and do not reflect neat analytical categories .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+While we readily acknowledge this , it does not change the fact that analysis of progress on the sdgs is for a large part going to be done on the basis of the targets .
+"""
+Keywords:
+	Sdg
+
+
+
+
+Document:
+	wp152_2017.txt
+
+Sentence:
+"""
+The 2030 agenda for sustainable development has brought the issues of both within- and across-country inequality to the fore and calls for the reduction of both .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+At a broad level , the discussion of the paper can help to achieve the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg-11 calls for reduction of inequality while sdg-13 calls for mitigation of climate change .
+"""
+Keywords:
+	Sdg
+
+
+
+
+Document:
+	wp153_2017.txt
+
+Sentence:
+"""
+And third , government spending plays a central role in driving progress towards the sustainable development goals ( sdgs ) .
+"""
+Keywords:
+	Sdg, Sustainable development goal
+
+
+
+
+Document:
+	wp154_2018.txt
+
+Sentence:
+"""
+Scoping study on ppp guidelines executive summary background and purpose of this working paper public-private partnerships ( ppps ) are attracting renewed attention as a possible mechanism that helps deliver infrastructure services in furtherance of the major global agenda setting initiatives of 2015 . the addis ababa action plan ( the addis agenda ) is a forward-looking framework for financing sustainable development , including the 2030 agenda for sustainable development ( the 2030 agenda ) , and the means of implementation for the 17 sustainable development goals ( sdgs ) .
+"""
+Keywords:
+	Sdg, Sustainable development goal, 2030 agenda
+
+Sentence:
+"""
+The latest guidelines are influenced by the sdgs and focus on the role of the public more explicitly .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+E. alignment with the addis agenda : the ppp principles in the addis agenda are echoed in varying degrees in the guidelines reviewed but , overall , the guidelines need adjustments to fit the purpose of the addis agenda and the 2030 agenda .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Conclusion to realize the vision of sustainable and resilient infrastructure for all , agreed in the addis agenda and the 2030 agenda , we need a more holistic approach to infrastructure development and financing .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+These gaps in the ppp guidelines indicate that they do not yet address the full spectrum of public governance , and do not yet fully align with the addis agenda , the aaaa principles , and the 2030 agenda .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The 2030 agenda for sustainable development ( the 2030 agenda ) embodies this community 's vision of sustainable development for the next 15 years .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Under this agenda , both developing and developed nations must meet the 17 specific development goals - the sustainable development goals ( sdgs ) .
+"""
+Keywords:
+	Sdg, Sustainable development goal
+
+Sentence:
+"""
+In advance of the adoption of the 2030 agenda , 193 states came together to the united nations third international conference on financing for development and agreed to the addis ababa action agenda ( the addis agenda ) ( undesa , 2015 ) .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+This is a forward-looking framework to finance sustainable development , including the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Under the addis agenda , sustainable and resilient infrastructure is a key thematic area , since investments in transport , energy , water and sanitation are a pre-requisite for achieving the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The g20 action plan on implementing the sdgs will require new investments in sustainable infrastructure ( g20 , 2016a , p. 4 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In anticipation of the addis agenda and the 2030 agenda , seven mdbs proposed a collective vision ( `` from billions to trillions '' ) to enhance development finance and to support states ' commitments under these global agreements ( development committee ( joint ministerial committee of boards of governors of the bank and the fund ) , 2015 ) .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Some civil society organizations ( csos ) warn against placing ppps at the center of any attempt to achieve the sdg commitments ( powell , 2016 ; romero , 2016 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+With the addis agenda and the 2030 agenda , and stakeholder hopes and concerns shining light on ppps , can the current ppp model endure the spotlight ?
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The most recent unece guidelines were driven by a different driver , the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Currently , a third generation of ppp is emerging. . . . '' ( unece , 2016 , p. 3 ) the unece has challenged governments and the private sector to produce `` people first ppps '' that are `` compliant '' with the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The following analysis indicates that ppp guidelines need adjustments to be compatible with the addis agenda and the 2030 agenda .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The new generation of ppps should address this area to ensure consistency with the aaaa principles and the 2030 agenda .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+These gaps in the ppp guidelines indicate that the guidelines do not sufficiently address the full spectrum of public governance , and do not yet fully align with the addis agenda , the aaaa principles , and the 2030 agenda .
+"""
+Keywords:
+	2030 agenda
+
+
+
+
+Document:
+	wp155_2017.txt
+
+Sentence:
+"""
+From `` structural change '' to `` transformative change '' : rationale and implications abstract this paper examines the relationship between `` transformative change , '' as aimed for by the agenda 2030 for sustainable development , and `` structural change , '' which has been an important concept in development economics .
+"""
+Keywords:
+	Agenda 2030
+
+Sentence:
+"""
+From `` structural change '' to `` transformative change '' : rationale and implications 1 . introduction in september , 2015 , the world community adopted the 2030 agenda for sustainable development , formulated in the form of 17 sustainable development goals ( sdgs ) and 169 targets .
+"""
+Keywords:
+	Sdg, Sustainable development goal, 2030 agenda
+
+Sentence:
+"""
+2030 agenda too uses this term with regard to particular goals set , in particular , for the least developed countries ( ldcs ) .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+How should structural change under the 2030 agenda for sustainable development differ from structural change as it happened until now ?
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The paper tries to show what modifications structural needs to undergo in order to be compatible with sustainable development and thus be a part of the transformative change aimed at by the 2030 agenda .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+In view of the above , it may indeed be argued that developing the manufacturing sector to a certain level should be a priority task for many developing countries , as has been postulated in the 2030 agenda .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+It is largely in view of the above that the 2030 agenda took a proactive stance with regard to structural change , particularly in the least developed countries , recommending significant increase in the share of the manufacturing sector in their gdp .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Accordingly , the 2030 agenda could not just focus the traditional pattern of structural change , but rather on a broader agenda of transformative change .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+4.2 universality of 2030 agenda the shift from structural change to transformative change was also prompted by the realization that the development agenda had to be universal ( figure 13 ) .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+For example , the 2030 agenda urges to `` decouple economic growth from environmental degradation in accordance with the 10-year framework of programmes on sustainable consumption and production ( 8.4 ) . ''
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+For example , the 2030 agenda calls for `` increased resource efficiency and greater adoption of clean and environmentally sound technologies and industrial processes ( 9.4 ) . ''
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Thus the concept of structural change was also not adequate to accommodate the universality that the 2030 agenda required .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The very text of the 2030 agenda makes this clear .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+As noted earlier , the declaration of the 2030 agenda calls to `` strengthen the productive capacities of least developed countries in all sectors , including through structural transformation ( para 27 ) . ''
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The sdgs themselves also include targets that directly imply structural change .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For example , sdg-9 calls to `` significantly raise industry 's share of employment and gross domestic product , in line with national circumstances , and double its share in least developed countries ( 9.2 ) . ''
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Similarly , after calling for achieving `` at least 7 percent gross domestic product growth per annum in the least developed countries ( 8.1 ) , '' sdg-8 calls for `` achieving higher levels of economic productivity through diversification , technological upgrading and innovation , including through a focus on high-value added and labour-intensive sectors ( 8.1 ) . ''
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Elsewhere , the 2030 agenda calls for `` industrial diversification and value addition to commodities ( 9.b ) . ''
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+It is therefore clear that structural change -- even in its classical sense -- is very much a part of the transformational change that the 2030 agenda envisages .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The question is how the structural change under the 2030 agenda is to differ from what is has been so far .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+5 . structural change under the 2030 agenda for sustainable development sustainable development , as is known , has three dimensions , namely economic growth , social development , and environmental protection .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+It is in view of the realization above that the 2030 agenda lays considerable emphasis on diversification within the industrial sector , technological upgrading and innovation , and a focus on high value added .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Thus , even remaining within the domain of economic growth , structural change under the 2030 agenda needs a different focus than what was implied by the classical structural change paradigm .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Thus structural change under the 2030 agenda has to be different from the structural change of the spontaneous type .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+It is in view of the above that the 2030 agenda refers to environmental sustainability and reduction of ghg not only in goals that are directly related to environment , but also in goals that concern production sectors , such as agriculture , manufacturing , and even services .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+For example , the agenda calls for `` sustainable agriculture ( sdg ) '' sustainable industrialization and infrastructure ( sdg 9.2 and 9.4 ) , and even `` sustainable tourism ( sdg 8.9 ) . ''
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The 2030 agenda for sustainable development that aims at `` transformative change '' includes `` structural change '' as an important component .
+"""
+Keywords:
+	2030 agenda
+
+
+
+
+Document:
+	wp156_2018.txt
+
+Sentence:
+"""
+The 2030 agenda : a roadmap to globallization executive summary the intensification of globalization has added importance to the need for international coordination and the creation of global normative and institutional frameworks that ensure consistency , sustainability , universality , inclusiveness and accountability at all levels -- national , regional and international .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+This paper attempts to assess the far-reaching effects of globalization in the three dimensions of sustainable development -- economic , social and environmental -- against the backdrop of the 2030 agenda for sustainable development .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The recently negotiated international agreements , particularly the 2030 agenda for sustainable development , the addis ababa action agenda and the paris agreement on climate change , can act as a collective roadmap to address the challenges of globalization .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Recently negotiated global agreements , chiefly the 2030 agenda for sustainable development , provide a comprehensive framework that promotes international cooperation in finding solutions to global problems -- bringing under a unifying umbrella all relevant international normative frameworks in an integrated and coherent way -- while recognizing that each country must find its own policy mix in accordance to its national political and economic circumstances .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The 2030 agenda provides the blueprint to forge such a contract , to achieve the required mix of external and domestic stabilization based on those principles .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+In upholding its five pillars -- people , planet , prosperity , peace and partnership -- the 2030 agenda encompasses the principles of an emboldened , resilient social contract : prosperity is both finite and disruptive if not produced in an inclusive and sustainable manner .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The 2030 agenda addresses inequality in a cross cutting multidimensional manner .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Promoting decent work and the global social protection partnership amid the changing realities in labour markets brought about by an increasingly globalized world , promoting decent work , fully embedded in the 2030 agenda , becomes ever more important .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+To tackle shortcomings of the global system , one important step , embodied in the 2030 agenda , can be to enhance representation and voice for developing countries in decision-making in global economic and financial institutions , thus ensuring more effective , credible , accountable and legitimate institutions .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The paris agreement and the 2030 agenda provide authoritative frameworks to address a range of challenges associated with economic globalization in the environmental dimension , providing integrated policy frameworks that deliver balanced , sustainable , long-term solutions .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Recently negotiated international agreements , including the 2030 agenda for sustainable development , the addis ababa action agenda ( aaaa ) and the paris agreement on climate change , have played an important role in setting norms at the global level .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+It can also guide the application of the sustainable development goals ( sdgs ) to national contexts .
+"""
+Keywords:
+	Sdg, Sustainable development goal
+
+Sentence:
+"""
+The multidimensionality and universality of the 2030 agenda can help guide the discussion of policy solutions and provide the backdrop for discussions on how to achieve sustainable and equitable globalization .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The paper will elaborate on the institutional structures in place at all levels and their characteristics and ability to provide a normative framework for the advancement of economic globalization , including a conceptualization of the role of the 2030 agenda and other international agreements in acting as a roadmap for the future .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The 2030 agenda for sustainable development was thus adopted in the context of mounting imbalances and inequalities at the global level -- between economic sectors and agents ; broadening of opportunities and closing of minds ; increasing wealth and planetary limits ; citizenship and political legitimacy of economic policies ; democratization of information and mass spread of uninformed doctrines and cybercrime .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+But the adoption of the 2030 agenda was also an act of hope .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The 2030 agenda aimed at building on these achievements and reach beyond them , taking into account `` unfinished business '' and emerging demands , including the forces at play in the globalization process .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+In recognition of the need for global action to address the challenges and opportunities associated with globalization , this paper conceptualizes the role of the recent international agreements , including the 2030 agenda , the aaaa and the paris agreement , in tackling the challenges and leveraging the benefits of globalization in a more inclusive , balanced and sustainable manner .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+If such trends continue , eradicating poverty , the main goal of the 2030 agenda , will be jeopardized and , since all sdgs are interlinked , the entire 2030 agenda will be compromised .
+"""
+Keywords:
+	Sdg, 2030 agenda
+
+Sentence:
+"""
+This trend is expected to continue , given the need to find new and innovative sources of finance for sustainable development and achieving the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Therefore , multinational corporations , as well as multilateral organizations and global non-state actors , should align their actions with the principles and goals of the 2030 agenda and thus become actors in and for sustainable development .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+It is only through multi-stakeholder partnerships and private sector engagement that the 2030 agenda can successfully be realised .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Civil society organizations and the private sector , including multinationals , have the potential to drive sustainable development forward , if practices and principles are aligned with the 2030 agenda .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+This has been recognized in the 2030 agenda , in particular in goal 10 ( reduced inequalities ) , target 10.7 . in 2016 , the general assembly adopted the new york declaration for refugees and migrants , by which member states committed to : start negotiations leading to an international conference and the adoption of a global compact for safe , orderly and regular migration in 2018 ; develop guidelines on the treatment of migrants in vulnerable situations ; and achieve a more equitable sharing of the burden and responsibility for hosting and supporting the world 's refugees by adopting a global compact on refugees in 2018 . environmental impact and climate change economic globalization has created opportunities for improved welfare , by facilitating increased production and consumption .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The 2030 agenda addresses the challenges of overexploitation by calling for sustainable consumption and production patterns , dedicating one of the seventeen goals to this endeavour .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The 2030 agenda addresses this issue through goal 9.4 , in which states commit to upgrade infrastructure and retrofit industries to make them sustainable , through increased resources-use efficiency and greater adoption of environmentally sound technologies and industrial processes .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+States agreed to strengthen their resilience to more extreme conditions through the sendai framework for disaster risk reduction , which was reiterated through goal 11.b of the 2030 agenda .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The paris agreement provides a significant promise by states to accelerate the actions needed for a sustainable low-carbon future , as recognised in the 2030 agenda .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The 2030 agenda directly addresses the challenges of climate change through goal 13 , committing member states to take urgent action to combat climate change and strengthening resilience to climate-related hazards and natural disasters .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Responding to the challenge of climate change will require decisive action by states , including , but not limited to , implementing both the 2030 agenda and the paris agreement , as well as the aaaa .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Addressing the challenges of globalization through the 2030 agenda : a roadmap to an inclusive , interconnected world the 2030 agenda promotes international cooperation with the aim of finding solutions to global problems -- bringing under a unifying umbrella all relevant international normative frameworks in an integrated and coherent way -- while recognizing that each country must find its own policy mix in accordance with its particular national circumstances .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+These two fundamental ingredients are also provided in the 2030 agenda .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+But the 2030 agenda goes beyond these previously established principles , with three additional foci -- namely : sustainability , universality and inclusiveness -- addressing the central caveats of the previous arrangement .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+As a universally applicable framework , in which the sdgs and related targets apply both to developing and developed countries , the 2030 agenda unambiguously exposes the commonality of global challenges and global public goods , to which solutions limited to the national level will not suffice .
+"""
+Keywords:
+	Sdg, 2030 agenda
+
+Sentence:
+"""
+The 2030 agenda is a framework where shared responsibilities seek shared actions through inclusive and transparent processes , leading to the active engagement and due ownership of a broad spectrum of groups of society .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Tackling inequality within countries recognizing that inequality goes beyond aspects of wealth and income , the 2030 agenda for sustainable development goes beyond a narrow definition of inequalities , considering its relation to economic , social and environmental factors .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The 2030 agenda , as a multidimensional framework , is well suited to advance solutions that reflect the multidimensionality of inequality .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The 2030 agenda and the aaaa address some of these issues as well as their root causes , both directly and indirectly .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The agenda recognises the multiple facets of inequality by referencing it across goals and targets , in addition to the standalone goal on inequality , sdg10 .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Inequalities are a crosscutting issue in the 2030 agenda ; the success of all sdgs will depend on a reduction of all forms of inequalities , given the close links between inequalities and each sdg .
+"""
+Keywords:
+	Sdg, 2030 agenda
+
+Sentence:
+"""
+In sdg10 , the international community commits to reducing inequalities within and among countries , with many of the targets proposing concrete solutions to addressing the inequalities associated with globalization .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+All of these issues are covered by provisions in the 2030 agenda and the addis ababa action agenda , some through dedicated goals and targets .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+sdg1 on the eradication of poverty in all its forms is intrinsically linked to inequality , as a more balanced and equitable distribution of a country 's economic and environmental resources are a crucial component of poverty eradication .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Inequalities are also closely connected to the environmental goals of the 2030 agenda , as the costs associated with environmental degradation are unequally distributed , affecting those in the bottom half of the income distribution the most .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The failure to enable access to resources can undermine social cohesion and institutions , leading to instability , conflict and war , endangering progress on sdg16 .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Decent work gained further impetus after the 2008-2009 economic and financial crisis , and has been fully integrated into the 2030 agenda in sustainable development goal 8 . social protection has also been included in several goals .
+"""
+Keywords:
+	Sustainable development goal, 2030 agenda
+
+Sentence:
+"""
+Strengthening global systems and partnerships in light of the need for global solutions to global challenges , the 2030 agenda could be considered a viable answer for addressing a range of challenges associated with globalization at the global level .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+To tackle the lack of regulation , target 10.5 of the sdgs calls for the improvement of regulation and monitoring of global financial markets and institutions and for the strengthening of the implementation of such regulations .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg10 also addresses the issue of international migration -- a vital issue , which in some countries has been at the centre of public discourse and a push for isolationism fuelled by populist sentiments that have made migrants scapegoats for worsening economic realities .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In order to overcome imbalances with regards to technology , whose rapid change has been a main driver of globalization , the 2030 agenda and the aaaa has put forward the technology facilitation mechanism ( tfm ) that is geared to support developing countries in closing the gaps in access to technology .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Tackling environmental challenges of globalization in light of the need for global solutions for global challenges , the 2030 agenda , together with the paris agreement , provides an authoritative framework for addressing a range of challenges associated with economic globalization in the environmental dimension .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The agenda directly addresses several environmental concerns , most notably climate change ( sdg 13 ) , but also the conservation and sustainable use of water ( sdg 14 ) and terrestrial ecosystems and life on land ( sdg15 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Goal 12 of the 2030 agenda focuses on the need to promote sustainable consumption and production patterns , with direct implications on economic globalization and its adverse environmental effects , such as climate change through promoting more sustainable behaviour .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+However , ill-conceived implementation of the 2030 agenda could also prove detrimental to the environmental dimension , depending on the path and policies chosen .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+For instance , unless implemented in a sustainable , environmentally sound manner , sdg2 could potentially contribute to deforestation and other land-use related emissions .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Deforestation can increase agricultural capacity , food security and potentially economic growth , but will negatively impact the environment and climate change ( sdg 13 ) , and potentially biodiversity and local ecosystems ( sdg15 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Similarly , while using land to produce bioenergy can improve progress towards sdg9 , it could negatively affect sdg2 , as less land is available for food production , in addition to sdg13 and sdg15 .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Achieving sdg8 without significant environmental degradation would require decoupling economic growth from emissions , and the nature of industrialisation and infrastructure development pursued under sdg9 will be determinant to co2 emissions .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+These sdgs could also have a detrimental impact on the sustainable use of resources , waste creation , ecosystems and pollution .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+As a result , it is essential to avoid silo-approaches in the implementation of the various sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Instead , integrated solutions are needed , as called for in the 2030 agenda .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Policy integration is thus a necessary condition for the balanced and mutually reinforcing implementation of the sdgs and its targets .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The 2030 agenda for sustainable development provides a unifying coherent international normative framework that promotes international cooperation to find solutions to global problems while recognizing that each country must find its own policy mix in accordance to its particular national circumstances .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Policy integration is , therefore , integral to reaching the end goal : unlocking the long-term benefits stemming from sustained , inclusive and sustainable solutions and , in doing so , achieving the sdgs for all .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The 2030 agenda aims at `` transforming our world '' .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+The 2030 agenda envisages a framework where inclusive and innovative partnerships are key policy enablers and are vital to generate adapted solutions .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+This way forward contributes to building synergies among stakeholders and creating trust in governance mechanisms that promote transparency , inclusiveness and accountability , empowering people and increasing ownership of institutional and normative frameworks and policy strategies , thus constituting a vital means of implementation of the 2030 agenda .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+In this context , the 2030 agenda provides a sustainable , universal and inclusive framework for international policy coordination , allowing for due consideration of different national realities , capacities and levels of development and respecting national policies and priorities .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Throughout , in upholding its five pillars -- people , planet , prosperity , peace and partnership -- the 2030 agenda embraces the principles of an emboldened , resilient social contract that is compatible with globalization : prosperity is both finite and disruptive if not produced in an inclusive and sustainable manner .
+"""
+Keywords:
+	2030 agenda
+
+
+
+
+Document:
+	wp157_2019.txt
+
+Sentence:
+"""
+The role of external audits in enhancing transparency and accountability for the sustainable development goals abstract this paper examines the involvement of supreme audit institutions ( sais ) in auditing the preparedness of governments for implementing the sustainable development goals ( sdgs ) since 2015 . these audits have covered institutional arrangements put in place to implement the sdgs , the mobilization of resources , and monitoring and evaluation frameworks .
+"""
+Keywords:
+	Sdg, Sustainable development goal
+
+Sentence:
+"""
+sdg preparedness audits have produced valuable information that is not necessarily available from other national processes linked with sdg follow-up and review .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+As such , audit recommendations can be a powerful tool to help governments improve sdg implementation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The paper reflects on the impact that sdg audits have made , and on the challenges and opportunities for sais that have engaged in this exercise .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+While many of these challenges are generic to the work of sais , sdg audits also present specific political , institutional and technical problems .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Finally , the paper explores questions that this new area of engagement poses for sais , including the long-term prospects for institutionalization of sdg audits and the relationship with other accountability mechanisms for the sdgs at the national level .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+I introduction this paper is concerned with the involvement of supreme audit institutions ( sais ) in the accountability systems that have developed around the implementation of the recently adopted 2030 agenda for sustainable development .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+In 2015 , member states of the united nations adopted the 2030 agenda , which includes the sustainable development goals ( sdgs ) ( united nations , 2015 ) .
+"""
+Keywords:
+	Sdg, Sustainable development goal, 2030 agenda
+
+Sentence:
+"""
+The sdgs are a set of 17 goals with 169 targets , which cover the whole universe of sustainable development issues .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Most of the targets in the sdgs include relatively precise objectives to reach by 2030 or specific actions or policies to be put in place by then .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Concomitant with high international exposure , the agenda and the sdgs have received high attention from national governments .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Beyond signing off on the agenda in september 2015 in new york , many countries have adopted the sdgs as a reference framework for their own actions .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This has encompassed determining nationally adapted objectives and targets and aligning national development strategies and plans and even budget processes to the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In such countries , this brings the agenda and the sdgs squarely into the domestic policy sphere .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+As was the case for previous intergovernmentally agreed development frameworks , and contrary to international treaties negotiated under the un , the 2030 agenda is not legally binding .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Therefore , national accountability systems for the sdgs will be very diverse and involve different actors ( karlsson-vinkhuyzen et al .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In support of the 2030 agenda , sais could potentially play a key role in building accountability for the sdgs .
+"""
+Keywords:
+	Sdg, 2030 agenda
+
+Sentence:
+"""
+Second , they contribute to improving government performance by informing national monitoring and evaluation ( m & e ) systems with independent evaluations of the effectiveness of policies and programmes related to the sdgs ( karlsson-vinkhuyzen et al .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Third , they can provide new information that would not be otherwise available through the sdg follow-up and review system and make recommendations for improving implementation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Finally , they enable the role of the public in monitoring sdg implementation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The role of sais in auditing the sdgs must be understood in this context .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+As national accountability institutions , they can use their formal mandate to oversee and assess government efforts to implement the sdgs , complementing other accountability institutions and actors ( e.g .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The jurisdiction of the sai is reinforced when a member state has translated the sdgs into domestic implementation tools such as national legislation , policies and programmes .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Far from being of a theoretical and legal nature , this debate on the accountability of the sdgs is being empirically tested around the world .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+As explained below , in many countries , sais have moved fast to audit the preparedness of their governments to implement the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Some sais are now moving into auditing sdg implementation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+These efforts stem in a large part from the strong and early commitment of the international association of supreme audit institutions ( intosai ) to the sdgs , and a coordinated effort by the intosai development initiative ( idi ) , which since 2016 has supported more than 80 sais from all regions to undertake audits of preparedness for sdg implementation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This paper takes stock of sais ' involvement in sdg audits over the past three years .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+It illustrates how sais have pursued different strategies to audit sdg implementation , the challenges that they have faced , and the role that sais may play in the future in the institutional landscapes that have emerged at the national level around accountability for sdg implementation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This paper largely draws from materials produced by sais in the context of conducting sdg audits during the past three years , including audit plans , draft audit reports , and communications made at capacity building workshops , as well as on the discussions that occurred at two worldwide meetings of sais , focused on sdg audits , organised at un headquarters in july 2017 and 2018 ( undesa and idi , 2017 and 2018 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Section 2 describes some factors that have facilitated sais ' involvement on the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Section 3 presents the current initiatives on auditing sdgs and their emerging results .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The impact of these audits is discussed in section 4 . section 5 reflects on the challenges and opportunities around sdg audits , while section 6 discusses the position of sais in the national accountability ecosystems that have developed around sdg implementation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Ii supreme audit institutions and internationally agreed development programmes the involvement of sais in auditing sdgs benefits from their previous experience in auditing national implementation of international development programmes , including the millennium development goals ( mdgs ) , national development plans ( and similar instruments ) , and sustainable development issues .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+However , these efforts had not been as systematic as they are around the sdgs ; nor had they concerned a large number of sais , as shown below .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Important differences in terms of accountability systems exist between the mdgs and sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This is directly relevant to the follow-up of sdg 16 . supreme audit institutions have also been involved in auditing the implementation of multilateral environmental agreements ( meas ) , which are legally binding .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Supreme audit institutions can build on this experience to conduct sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Some sdg targets incorporate targets from binding meas , such as from the convention on biological diversity under sdg 15 . supreme audit institutions that have audited these targets in the past are now building on this experience to audit the corresponding sdg targets ( e.g.
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This experience has helped enhance their capacity to assess the performance of development policies and programmes and opened the door for sais to engage with the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Beyond these experiences , a critical enabling condition for sais to become involved in auditing the sdgs has been intosai 's aggressive strategy to position itself on the international agenda for sustainable development .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Following the symposium , intosai advocated to have a role in the follow-up and review mechanism of the 2030 agenda at the hlpf 2015 and developed auditing guidelines ( issai 5130 ) on the role of sais regarding sustainable development .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Intosai 's aspirations were expressed in its strategic plan 2017-2022 . the plan recognizes sais ' support to the follow-up and review of the sdgs as a cross-cutting priority and identifies four approaches through which sais can contribute , including assessing national readiness for implementing the sdgs and reporting progress , undertaking performance audits of programs that contribute to the sdgs , assessing and supporting the implementation of sdg 16 , and being models of transparency and accountability in their own operations.9 the idi capacity development programme on `` auditing sdgs '' ( see section 3 below ) was launched in march 2016 as a way to strengthen intosai 's efforts to support sais to contribute to the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The strategic plan was adopted at the xxii international congress of supreme audit institutions in december 2016 . the outcome document ( abu dhabi declaration ) highlighted intosai 's commitment to support the implementation of the strategic plan and report on sdg progress .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+All these factors have reinforced the commitment of sais to sdg monitoring and provided a framework for its operationalization .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This made the audits of preparedness feasible -- instead of auditing national implementation as usual , sais went a step forward to audit their governments ' efforts before they had started to implement the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Iii current initiatives of supreme audit institutions to audit sdgs sais have pursued different strategies to weigh on sdg implementation , both within their national contexts and at regional and global levels .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Sub-national audit institutions ( in federal or highly decentralized countries ) are also engaging with sdgs ( e.g.
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+As a starting point , some sais have conducted assessments of their past audits to identify their alignment with the sdgs and prioritise sdg areas for new audits ( e.g.
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Many sais have also taken internal measures to be better prepared to conduct sdg audits and engaged in national activities related to the sdgs ( e.g.
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Based on the authors ' review of 194 intosai members,11 sdg audits have been conducted by many sais : 34 have audited issues and programmes related to the sdgs , while over 70 sais have conducted audits of preparedness for the implementation of the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In addition to conducting sdg audits , 26 sais have integrated the sdgs in the internal processes of the organization , and 15 have engaged in activities organised by other institutions related to the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Idi 's `` auditing sdgs '' programme the idi programme on auditing sdgs , launched in 2016 , has been one of the main drivers of these efforts .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The programme 's objective is to support sais to conduct high quality performance audits of sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+A guidance on auditing preparedness for sdg implementation was developed to ensure a common approach .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In two regions , latin america and the pacific , the audit of preparedness for sdg implementation is being conducted as a regional effort .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+At the global level , the programme also plans to produce a compendium of audit findings and lessons learned in 2019 . individual efforts and coordinated audits independently from the idi programme , sais have undertaken individual and cooperative efforts to audit sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Many have started by auditing government preparedness for sdg implementation ( austria , canada , the netherlands , a coordinated audit of 11 latin american sais , and six arabic sais with support from the netherlands ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Some of these audits have looked at preparedness to implement specific sdg targets in addition to the preparation of the center of government .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In 2017 , for example , olacefs conducted a coordinated audit with the participation of 11 latin american sais , coordinated by sai brazil , to evaluate the preparedness of national governments to implement the sdgs as well as sdg target 2.4 on food security ( eurosai wgea 2018 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Other sais have assessed the national capacity to produce data to monitor sdgs ( e.g.
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Following the audits of preparedness , audits have just started to focus on sdg implementation , assessing the performance of programmes to advance specific sdg areas .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Costa rica has conducted an audit on poverty reduction ( sdg 1 ) and is currently conducting six audits on different sdg sectors including health , transportation , agriculture , water and sanitation , and judicial institutions ( costa rica sai 2018 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Brazil 's sai is coordinating an audit ( including subnational audits institutions in brazil and , internationally , latin american and african sais ) on the implementation of selected targets of sdg 14 and 15 ( tcu 2018 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Other initiatives sais have also engaged with the sdgs in other ways beyond audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Some have supported governments ' efforts to raise awareness about the sdgs ( e.g.
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In georgia and indonesia , sais are developing online portals to provide information on the sdgs and to disseminate the results of sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In a few countries , governments have engaged sais in other activities related to sdg implementation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In the maldives , the sai participates in the technical committee for sdg implementation under sdg16 .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In kuwait , the state audit bureau joined the standing national steering committee for sdg implementation as observer .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Some sais have engaged in consultations with governments regarding initiatives to prepare for sdg implementation ( e.g.
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Internally , several sais have incorporated the sdgs into their strategic plans and regulations ( e.g.
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+, indonesia ) , and designated organisational units and teams to work on sdg related audits ( e.g.
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Emerging results the emerging results of the preparedness audits ( both under the idi programme and others ) usually found commitment from the national government to implement and achieve the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The opportunities for improvement relate to some of the key challenges of sdg implementation including long-term planning , institutional coordination mechanisms , ensuring policy integration throughout the policy cycle , sound monitoring systems , and stakeholder engagement .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Emerging challenges for sdg implementation identified in sais ' audits of sdg preparedness challenges\0x0dselected challenges by country\0x0dlong term planning\0x0dbrazil : improving national strategy canada : lack of national implementation plan costa rica : limitations in strategic planning process georgia : while there is a national sdg strategy , limited attention has been given to policy synergies and trade offs and work continues in silos\0x0dclear attribution of responsibilities\0x0dcanada : lack of clear institutional structure articulating roles and responsibilities costa rica : identification of specific responsibilities for public entities in charge of implementation georgia : roles and responsibilities of public entities for implementation not clearly defined jamaica : unclear definition of roles and responsibilities\0x0dcoordination , integration and coherence\0x0daustria : setting up a national steering body to manage coherent , nationwide implementation brazil : opportunities for adopting a more coordinated approach indonesia : policy coherence and integration lacking an accountability framework netherlands : attention needed for safeguarding policy coherence \0x0dvertical integration\0x0dnetherlands : coordination between various administrative levels requires attention georgia : sdgs not integrated at local level pasai : * linkages with sub-national development plans are unclear\0x0dinstitutional duplication\0x0dspain : two separate structures coexist for sdg 5\0x0dbudgeting for sdgs\0x0daustria : integrating the sdgs into the federal budget outcome targets indonesia : budget spending is still done in silos jamaica : need for a long-term funding strategy for priority projects pasai : * only a few member countries have aligned budgets to the sdgs\0x0dmonitoring and evaluation/ indicators\0x0dbrazil : establishing integrated mechanisms for monitoring & evaluation ( m & e ) canada : need for a monitoring and reporting system georgia : identify entities responsible for producing data for 32 indicators indonesia : need an adequate m & e system , with reliable indicators and reporting feedback mechanisms jamaica : coordination between national statistics office ( nso ) and other entities , as well as considering data from non-sate actors and the sub-national level sudan : central bureau of statistics ' data needs improvement\0x0deffective mechanisms for stakeholder engagement\0x0dcanada : unclear engagement strategies costa rica : limited awareness raising efforts pasai : * broad stakeholder engagement is not widespread\0x0dcommunication channels\0x0dbrazil : establishing integrated mechanisms for communication canada : unclear communication strategy\0x0din the netherlands ( nca 2017 ) , the review identified a few areas that require attention , such as safeguarding policy coherence and coordinating various administrative levels , and analysing the impact of government policy on the ability of subnational actors to reach the goals , among others .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The austrian court of audit ( 2018 ) recommended to set up a national steering body for the implementation of the 2030 agenda to manage a coherent , nationwide implementation , integrating the sdgs mandatorily into the budget outcome targets of the federal government , and encouraged the government to periodically report on progress to the hlpf .
+"""
+Keywords:
+	Sdg, 2030 agenda
+
+Sentence:
+"""
+Spain 's sai ( tc 2018 ) , focusing on sdg 5 , highlighted that two separate government structures with responsibility for its implementation coexisted , one general for the sdgs and another specific for this goal .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Georgia 's state audit office ( 2018 ) found that the composition , roles and responsibilities of public entities for sdg implementation were not clearly defined .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The sdgs have not been integrated at the local level , and little attention has been paid to policy synergies and trade-offs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+While a national sdg strategy exists , agencies continue to work in silos .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Also , the leading entities responsible for producing data for 32 indicators of the sdg global framework have not been identified and there are problems of articulation between human resources , budget processes , and the capacities required to produce reliable statistical data .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In brazil ( tcu 2018 ) , the audit found opportunities for improving the definition of a national strategy for sdg implementation , adopting a more coordinated approach , establishing integrated mechanisms for monitoring and evaluation and for the communication of progress on the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In costa rica ( cgr 2018 ) the audit found that limited awareness-raising efforts could prevent stakeholders from engaging with the sdgs , and underlined existing limitations in the strategic planning process and the identification of cross-cutting and specific responsibilities for the different public entities involved in sdg implementation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Among other recommendations , the sai encouraged enhanced collaboration between the national mechanism for sdg implementation and the bureau for updating the indicators .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The sai of indonesia ( 2018 ) reported that policy coherence and integration for sdgs could not be achieved effectively without an accountability framework for the sources of funding , high quality government expenditure ( budget spending still done in silos ) , and an adequate monitoring and evaluation system that provides reliable indicators and reporting feedback mechanisms .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The audit of preparedness in jamaica ( 2018 ) underlined the unclear definition of roles and responsibilities regarding the sdgs , which affects the integration of the goals into corporate and operational plans .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The legislative and policy frameworks do not require coordination and collaboration of the national statistics office with other entities , which is not conducive to ensuring data production , accessibility and quality for monitoring sdg progress .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Data is not available for 115 sdg indicators ( 47 % ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Sais from the pacific ( pasai 2018 ) reported that while national development plans in the region are aligned with the sdgs , linkages with development plans at lower geographic levels are not clear and only a few countries have aligned their budgets to the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+These results show that across different regions , levels of development and national contexts , sais have identified very similar challenges in how governments have prepared for implementing the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This confirms that the implementation of the sdgs will be a demanding process for both developed and developing countries , which will require addressing some long-standing challenges for public institutions and sustainable development such as policy integration , risk management , stakeholder engagement and monitoring and evaluation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Because sdg preparedness audits look at these issues in a systematic manner , they can provide rich information that governments do not necessarily have through other channels .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Iv impact of sdg audits on transparency and accountability in sdg implementation information produced by sais can lead to enhanced transparency and accountability in the implementation of the sdgs , and to improved and more effective structures , processes and programmes , which may lead to better results .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In general , sdg audits can have impacts through several channels : a ) their appropriation by the governments themselves to improve processes , structures and programmes for sdg implementation by implementing audit recommendations ; b ) the use of audit findings and information by other stakeholders ( legislatures , civil society , the general public ) to foster and inform their activities in support of the implementation of the agenda and to hold governments accountable for their initiatives to implement the sdgs ; and c ) informing the sdg follow-up and review process at the global level ( e.g.
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Sais themselves have emphasized the importance of generating evidence of the impact of sdg audits to promote continued support for this work and to enhance their contribution to the implementation of the 2030 agenda .
+"""
+Keywords:
+	Sdg, 2030 agenda
+
+Sentence:
+"""
+While it is still too early to assess the impact of the audits of preparedness for sdg implementation , some sais that have concluded their audits have already reported instances of positive impacts ( see table 2 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In canada , the government has set up new implementation and coordination structures for the sdgs in response to an audit recommendation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Similarly , in brazil , the government did not include subnational stakeholders in the draft bill creating the national commission for the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In palestine , the recommendations from the sai were taken into consideration by the government to revise the draft vnr report submitted to the hlpf in 2018 . the engagement of sais in monitoring and review mechanisms has been identified as a good practice to sustain ownership of the sdgs at national level ( undesa 2018 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg audits have also triggered action by other stakeholders .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Parliaments and civil society have received the results of the audits with interest and , in some cases , acted upon them and engaged with sais in activities around the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In the netherlands , the executive has not responded to the findings of the review of preparedness , but the report has contributed to strengthening collaboration with parliament and legislators on the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In canada , a civil society organization acted upon the audit report to submit several requests for public information to the government on sdg implementation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+International stakeholders have also benefited from sai inputs to support sdg implementation at national level .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In brazil , the findings and recommendations from the preparedness audit , as well as other work conducted by the sai , contributed to the formulation of the un country team draft action plan for supporting sdg implementation in the country ( undp 2018 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Conducting sdg audits has also produced positive impacts internally , within the sais themselves .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Sais have reported that planning and conducting the sdg audits led to the incorporation of the sdgs into the sai strategic plan ( e.g .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Chile , guatemala , paraguay ) , the sensitisation of auditors on the sdgs ( brazil ) , and the transfer of methodologies among audit teams ( costa rica ) , among other positive impacts .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Another channel for impact of sdg audits is the production and dissemination of information that can be taken up by other stakeholders and help ground their own actions in support of the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Similarly , in jamaica , the sai conducted focus group meetings to sensitize stakeholders about the audit and to assess their knowledge of the sdgs to assist in scoping the audit .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg audits can also have a positive impact through their contribution to the global sdg follow up and review mechanism of the 2030 agenda .
+"""
+Keywords:
+	Sdg, 2030 agenda
+
+Sentence:
+"""
+In this regard , sai brazil contributed to the country 's 2017 vnr and has been part of the brazilian official delegation in 2017 and 2018 . ultimately , the impact of sdg audits is two-fold .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+On the other hand , audits provide independent and objective evaluations that strengthen transparency and accountability in sdg implementation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This increases the legitimacy and credibility of the sdgs at both national and global levels , contributing to reinforce ownership and support for the agenda .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In the future , a challenge will be to document ( and eventually measure ) the impact of audits on sdg implementation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This information could be compiled nationally and collected by sais ' regional and global organizations to document the value of sai work on sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The resulting evidence could help promote continued support for the role of external auditing for sdg implementation at the national level , as well as inform ongoing academic debates about the evidence of accountability and transparency impact .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+V challenges and opportunities related to sdg audits ?
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Supreme audit institutions face several challenges and opportunities related to sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+These are based on the concrete experience with the idi programme and other ongoing sai initiatives on the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+2009 ; migliorisi and wescott 2011 ) , we emphasize those that are specific to sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+How sais address these challenges and leverage the opportunities they have will affect their relevance , credibility and legitimacy in conducting sdg audits and whether they will have a positive impact in enhancing government accountability for the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+These limitations affect the quality and number of audits they produce , and may be exacerbated in the context of the sdg audits , which can be more demanding in terms of resources given their novelty and technical distinctiveness .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Conducting the audit of sdg preparedness in canada , for example , required a team of 6 auditors who worked for a period of 12 to 18 months in the commissioner of the environment and sustainable development .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+However , audits teams in many sais participating in the idi programme are composed of only 2 auditors who often do not focus exclusively on the sdg audit .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Low awareness of sdgs among sai leadership and staff is another institutional challenge .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This mirrors low sdg awareness in government institutions and society more generally .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Sai staff working on environmental audits are often more familiar with sustainable development concepts , but they face the challenge of communicating the value of sdg audits within their sais .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Intosai regions and sais in different countries have undertaken different initiatives to raise auditors ' awareness of the sdgs and to enhance their skills and capacities to conduct sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Sais also face the challenge of working on sdg audits in a more integrated way , since they are traditionally organized and conduct their audits in a way that reflects the silo organization of government .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+, canada , brazil ) for conducting sdg audits and strengthening internal communication lines .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Supreme audit institution with various organisational structures , different relations with the executive , the legislature and other oversight institutions , and different mandates and competences , may encounter specific institutional challenges for sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For example , like other government institutions , sais with a collegiate structure may find more difficult to build the internal commitment necessary to advance sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Also , sais which focus on compliance may lack the human capacity to conduct performance audits of sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In many countries , sai leadership has shown a strong and unequivocal commitment to advancing sdg auditing .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+However , given the challenges above , some sais could face internal resistance to incorporate sdg audits in their annual audit plans .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg audits may be perceived by sai leadership as `` international distractions , '' which are not relevant in the sai 's national context .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+There are also potential tradeoffs for sais with limited resources between investing in sdg audits and doing traditional audit work .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+They can take advantage of the strong commitment of intosai with the sdgs and the framework provided by the intosai strategic plan 2017-2022 and regional strategic plans , as well as from the integration of sdgs into sai strategic documents , internal rules and work plans .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Adopting longer term planning of sdg audits and assessing the sai 's strengths and limitations to do this work could also help .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Technical auditing sdgs is not conducting auditing business as usual .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+sdg audits have generated new technical challenges .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Sais need to try to keep up with methodological and technical developments , and their technical response should be relatively rapid if they want to ensure good timing and relevance of the sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The extensive scope of the 2030 agenda creates challenges for sais in scoping sdg audits , compared to auditing narrower programmes and/or specific government entities .
+"""
+Keywords:
+	Sdg, 2030 agenda
+
+Sentence:
+"""
+Sais are aware of the challenges related to the difference in scale between auditing individual sdg programmes and auditing `` the big picture '' of how governments prepare to implement the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Other challenges relate to the capacities and skills required to analyse governance and policy issues and to assess the integrated approaches required by the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Lastly , the strong emphasis of the 2030 agenda on equity is perceived as a challenge by many sais , as an intrinsically politically laden dimension .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+However , the experience of audit institutions in auditing sdg 1 on poverty eradication , sdg 5 on gender , and other social areas , shows that there is no intrinsic impediment to sais considering issues with a strong equity component .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Auditing sdgs with an integrated whole of government approach requires a shift in focus , from a linear approach to auditing economy , efficiency and effectiveness of individual programmes or agencies to looking at outcomes and then the multitude of agencies , programmes and policies working towards that outcome .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In considering how governments have contemplated the integration of goals , it may be useful for sais to distinguish between a broad , whole-of-government level , and issue-specific , sdg target-level institutional and policy arrangements .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Sais participating in the idi programme and other sais ( such as the latin american sais participating in the coordinated audit of target 2.4 ) have adopted this new approach for auditing sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Several tools can be useful for auditing policy integration and stakeholder engagement in the implementation of the 2030 agenda , including : mappings of inter-linkages of specific sdg targets or related issues with other sdg goals and targets ; mappings of institutions and programmes in relation to specific issues ; and associated stakeholder maps .
+"""
+Keywords:
+	Sdg, 2030 agenda
+
+Sentence:
+"""
+As sais move into auditing sdg implementation with an integrated perspective , another technical challenge will be the aggregation of information and findings from different performance audits conducted in the same sdg issue area in order to convey some key messages on sdg progress .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In such contexts , the technical demands from sdg audits may seem a luxury .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+However , sai organisations have a role to play in supporting sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The idi programme aims to enhance the capacity of audit teams to adopt new methodological approaches and techniques for auditing sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+To help sais strengthen their professional competences and address some of these new technical capacity needs , the idi will include the sdgs in a pilot project on professional education for sai auditors .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Political in general , sais face three political challenges in relation to auditing sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+First , sais often see sdg audits as more susceptible to politicization than other audits and , therefore , a potential challenge for sai independence .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The third relates to the possible perception of sdgs as a predominantly supra-national matter .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+While sdg audits may give more visibility to sais and in some cases put them at the center of the political debate ( e.g.
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+, if sdg audits show different results to those reported by the executive ) , the evidence presented above shows that sais have successfully conducted these audits with good impact and without compromising their independence and reputation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+2009 ) , which has implications for sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This undermines the potential impact of sdg audits in improving the implementation of sdgs at the national level .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Indonesia 's sai , for example , plans to update the audit of preparedness for sdg implementation every six months .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Political consensus regarding the sdgs may facilitate follow-up action on audit recommendations .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Finally , collaboration with other stakeholders can also help strengthen follow-up to recommendations from sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+It makes it easier for sais to engage with the sdgs in response to the integration of the sdgs into national strategies , plans and programmes and the alignment of policies to the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In these contexts , there is often recognition of the potential contribution of sais by government and other actors involved in sdg implementation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+It is not surprising that sais have been active in auditing sdgs in many of the countries which have championed the 2030 agenda at the global level ( e.g.
+"""
+Keywords:
+	Sdg, 2030 agenda
+
+Sentence:
+"""
+However , in other country contexts , sais may find more difficulties to undertake sdg-related audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Lastly , the opportunity for sais to invest resources in sdg audits , in the same manner as it can be challenged internally , could also face criticism by outside players framing the sdgs as a largely international agenda , as opposed to a domestic one .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Too much visibility given to international considerations in the design of sdg audits could fuel the perception that they are `` imposed from above '' and an international distraction from the core mission of sais , making sais vulnerable to political attacks in the national arena .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Communication improving the communication of audits becomes particularly relevant for audits of development issues such as those encapsulated in the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Better communication of sdg audits is critical to give visibility to the work sais do , raise awareness among different stakeholders about sdg audits , and enhance their impact on sdg implementation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+One communication challenge is the publication of sdg audit reports in a timely and accessible manner .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The transparency gap related to audit reports ( ibp 2018 ) can be exacerbated for sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+If sais perceive sdg audits as more risky , there may be delays or impediments to publish the audit reports .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+However , publication of high quality sdg audit reports is essential for taking advantage of the available channels that the follow up and review process opens .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Translating the technical language of audits into user friendly language is another general challenge which becomes relevant for sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Brazil 's tcu is using infographics and short non-technical summaries to widely disseminate the results of sdg audits to different publics .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Sais are considering the development of communication plans to consider what should be communicated , how , and when regarding sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+However , sais can benefit from engaging with stakeholders to improve sdg audits and their impact .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+One specific challenge around sdg audits is that they demand wider stakeholder engagement throughout the audit cycle and a more collaborative relation with government institutions , to identify opportunities for better implementation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Also , engaging with stakeholders is new for many sais conducting sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Despite these challenges , there are several opportunities for advancing stakeholder engagement around sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Finally , the mobilization of many actors around the sdgs at all levels offers opportunities for sais to find potential allies with a similar interest in contributing to enhanced transparency and accountability in sdg implementation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+6 the positioning of supreme audit institutions in national accountability ecosystems around sdg implementation as countries advance implementation of the 2030 agenda , sais will need to find their space and role in the ecosystems of institutions that are emerging at national level around sdg implementation .
+"""
+Keywords:
+	Sdg, 2030 agenda
+
+Sentence:
+"""
+Taken together , they encompass most of the points brought forward by sais themselves during the meetings in new york in 2017 and 2018 . a summary of the main issues facing sais in this regard is presented in table 3 . relevance given the high priority given to sdgs by many countries , and the centrality of the issues reflected in the sdgs in the portfolio of government activities , high-quality sdg audits done by sais ( be they of government preparedness or of implementation ) are undoubtedly highly relevant .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+As shown in section 3 , the results that are starting to emerge from the first wave of sdg preparedness audits show that these audits are able to produce information that would not necessarily be available through other existing processes -- for example , the part of the audits that assesses institutional preparedness , including for policy coherence , and complement information produced by government agencies , civil society organizations and others .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The evidence presented above showing that governments reacted to findings of sdg preparedness audits by adjusting institutional mechanisms or structures also supports the notion that sdg-related audits conducted by sais are highly relevant .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Yet , the relevance of sdg audits conducted by sais can also be limited by several factors .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+One factor mentioned by several sais is their limited capacity to address the whole range of sdgs in limited time , due to lack of resources and lack of flexibility of the sais 's work programs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+There is indeed a risk that sdg audits are `` mistimed '' - published too late or too early to influence the policy process , or that important areas are not covered by audits even though they undergo policy changes .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Some sais have developed criteria for prioritizing sdgs for audits ; for example brazil 's tcu and canada 's office of the commissioner of the environment and sustainable development ( undesa and idi , 2018 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Engaging stakeholders in sdg-related audits can be a way to increase the audits ' relevance ; in the process , sais can also contribute to raising awareness about the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In some cases , conducting the sdg preparedness audits has led sais to engaging stakeholders .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This is not specific to sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The experience of sdg audits has once again shown the importance of enhancing the relevance of the audit function through appropriate communication .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+However , sais can take advantage of existing online channels disseminating information on the sdgs to further publicize their sdg audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+For example , the sdg knowledge platform of the international institute for sustainable development ( iisd ) has covered sai-related events and has disseminated sdg-related audit reports .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The salience of sdg audits could also be limited if sdg audits were perceived as too critical of government action .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+As described in introduction , reviews of sdg implementation at the national level are often tied to presentations made by governments at the un to the whole un membership .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This may also affect the credibility of sdg audits ( see below ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Lastly , over the longer term , the relevance of sais ' sdg audits will be judged in part by whether they contribute to fostering transformative change where it is needed .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+It has become commonplace to say that the transformative nature of the 2030 agenda will require different ways to operate , for governments as well as for other stakeholders .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Clearly communicating what sdg audits are for and what they aim to do is important in this regard , to avoid false expectations .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+At the meeting in new york in 2017 , it was suggested that one of the key questions to be asked in sdg audits should be `` what are governments prepared to do differently ? ''
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+At the international level , and specific to the sdgs , the role of sais is mentioned by the addis ababa action agenda ( aaaa ) on financing for development , which is an integral part of the 2030 agenda concerned with its means of implementation .
+"""
+Keywords:
+	Sdg, 2030 agenda
+
+Sentence:
+"""
+Focusing on the national level , as argued in the introduction , the existence of clearly defined targets subscribed by national governments seems to make a clear case for sais ' involvement in auditing governments ' performance on the sdgs or their corresponding national objectives and targets .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This argument has gained salience over the past few years , as it has become increasingly clear that the sdgs , because they cover essentially all areas of government action , should not be thought of as a separate process from regular government work .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In particular , many governments have come to the conclusion that there should be no separate budget for implementing the sdgs ( apart from the specific costs related to creating collaboration structures and mechanisms , etc . )
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+; rather , all sector expenditures should be aligned with the ( national ) objectives and priorities in line with the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This puts action on the sdgs squarely in the remit of supreme audit institutions .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+On the other hand , as argued in section 5 , the non-binding status of the sdgs , and the perception that sdgs are mostly relevant to the international level , may result in questions regarding the legitimacy of sais ' investing in auditing sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+As audits of preparedness take place at the beginning of the policy cycle and lead to conclusions and recommendations that should be part of governments ' action plans to strengthen sdg implementation , sais may be seen by governments as stepping out of their mandate and traditional role -- a reaction that was mentioned by some sais in 2018 when they spoke about their experiences in conducting preparedness audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+It is beyond the scope of this article to do a systematic analysis of the comparative advantages that sdg audits done by sais may have versus evaluations done by other types of institutions .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+However , it seems clear that there may be opportunities for sais to collaborate with these actors on topics of common interest in order to contribute more effectively to sdg follow-up and review , including by sharing methodologies and comparing results .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+More generally , there is a need for clarifying the role of sais and explaining the specificity of audits of preparedness in the broader context of sdg implementation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Although this constitutes a clear impediment to conducting sdg implementation audits , sais in that situation can use information produced by compliance and financial audits to inform monitoring of sdg 16 ( intosai 2017 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+More broadly , as governments take the lead in the sdg implementation process , the challenge in many countries is for sais to be `` invited to the party '' .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Depending on their national context , sais may need to adopt a proactive approach and reach out to government and other stakeholders to inquire about sdg implementation plans and advocate for the potential contributions of the sai ( undesa and idi , 2017 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+On the one hand , as oversight bodies , sais generally have extensive experience in auditing sectoral programmes in nearly all sdg areas -- from health to water and sanitation to education to infrastructure to ecosystem management .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The issues encapsulated under the sdgs are not new , and capacity to understand the underlying substantive issues and other factors that may bear on audits ( for example , the nature of supply chains in specific sectors ) is often present in sais .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The fact that sdg preparedness audits conducted in different countries highlight similar issues , as illustrated in section 3 , can also reinforce the credibility of sdg audits nationally .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Evaluations that were done in the context of the mdgs mostly from the perspective and for the benefit of donors ) , sdg audits are produced by sais , which are national institutions with a clear anchoring in national reality and are ultimately accountable to their own citizens .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+On the other hand , as highlighted above , sdg-related audits and especially preparedness audits do present technical challenges , and there may be lack of relevant skills in sais for such audits .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The sdgs call for specialized knowledge and expertise , which should gradually be built in audit teams .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+At the most basic level , awareness of sdgs should be increased in sais as in other national institutions .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Several sais ( canada , costa rica , brazil ) have emphasized the importance of having multi-disciplinary teams for auditing sdg sectors and issues ( undesa and idi , 2018 ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Evaluating the effectiveness of alternative arrangements , including the creation of specialized `` sdg units '' which some sais have put in place , will be important in coming years .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The sdg audit experience since 2015 has featured a number of cooperative audits , as explained above .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+As mentioned above , the credibility of sdg audits may also be affected by potential discrepancies between the audits and other policy evaluation exercises , including those conducted within the government .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In the context of discussing sdg global review mechanisms , some sais have expressed concerns about the gaps between governments ' reports and the sdg audits findings , and reflected on potential measures to reduce such gaps , including dialogue between the government and the sai .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+7 conclusion the involvement of sais worldwide in auditing the implementation of the sdgs is a rare innovation .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This development results from the conjunction of multiple factors , including the high take-up of the 2030 agenda by national governments .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+As explained above , critical factors have been the decisive engagement of intosai with the sdg agenda , and the support provided by idi and others to sais ' efforts to conduct sdg audits -- including the development of standards and templates .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The first wave of sdg audits has been met with important successes , but also highlighted concrete challenges .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Those relating to their independence , mandate , communication strategies , or the uptake of their recommendations ) , while others are more specific to the context of the sdgs ( for example , the need to build appropriate skills within sais ) .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In most countries , the government 's response to sdg audits remains to be seen .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Ultimately , the governments ' take up of recommendations made by sais and other institutional actors on sdg implementation will largely depend on the momentum that the sdgs are able to maintain on the international and domestic agendas .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The forthcoming stock-taking of the progress made on implementation of all the sdgs at the summit level in september 2019 at the united nations will be important in this regard .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Depending on the outcomes of this meeting , national sdg uptake , and the importance that is given to the sdgs on the national political and policy agendas , may change significantly , and differently so across countries .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This would in turn affect the relevance of sais ' involvement in auditing the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+In the long term , in considering their roles in auditing the implementation of the sdgs , sais will have to consider the broader picture of changes in their national accountability systems .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+It would indeed be a pyrrhic victory , if some sais were to gain a space at the table in the national review system for the sdgs , only to witness the remit of external audit wane in other areas that may be as much as , and even more directly relevant to the implementation of the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+This highlights the importance for sais engaging in sdg audits to clearly demonstrate the relevance of this work for national purposes .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Advancing in demonstrating this depends crucially on being able to collect evidence of their impact on improving both national planning and implementation of the sdgs .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+The efforts of sais and their regional and international organizations to develop new methodologies and standards to audit the sdgs and assess how to implement them in practice constitutes a real new development .
+"""
+Keywords:
+	Sdg
+
+Sentence:
+"""
+Early results suggest that these efforts can contribute to strengthen transparency and accountability in the implementation of the 2030 agenda .
+"""
+Keywords:
+	2030 agenda
+
+Sentence:
+"""
+Hopefully , this experience will be recorded , analyzed and shared , and will benefit other types of institutions and actors working on accountability and monitoring for the sustainable development goals .
+"""
+Keywords:
+	Sustainable development goal
+
