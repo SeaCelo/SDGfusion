@@ -8,8 +8,6 @@
 # ### Preamble
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-import ruptures as rpt  # to identify breaks in the series
 import random
 
 pd.set_option("display.float_format", lambda x: "%.6f" % x)
@@ -379,32 +377,3 @@ final = final.drop(columns=drop_these)
 final.to_csv(out_path + "final.csv", index=False, header=True)
 
 final.head(20)
-
-
-# ------------------------
-# ### Below this point, only for exploration and testing
-# # Plot
-
-"""
-import matplotlib.pyplot as plt
-import pickle
-import seaborn as sns
-import warnings
-import altair as alt
-
-sns.set_style("whitegrid")
-warnings.filterwarnings("ignore")
-
-##Make plot of the results from final.csv
-# show top 3 or 5 SDGs? How to summarize the results?
-
-dispersion = pd.read_csv(
-    out_path + "dispersion.csv", sep=",", float_precision="round_trip"
-)
-
-dispersion.plot(kind="scatter", x="mean", y="cogdiv")
-
-dispersion.boxplot(column=["mean", "cogdiv"])
-
-dispersion.plot(kind="hist")
-"""
